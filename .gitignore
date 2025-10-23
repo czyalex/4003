@@ -1,0 +1,21 @@
+﻿# OS & editors
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# R
+.Rhistory
+.Rproj.user/
+
+# Node
+node_modules/
+dist/
+
+# Misc
+*.log
+.env
