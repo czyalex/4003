@@ -1,21 +1,13 @@
-﻿# OS & editors
-.DS_Store
-Thumbs.db
-.vscode/
-
-# Python
+﻿# raw snapshots
+data/raw/
+# local env
+env/
+# caches
 __pycache__/
 *.pyc
-.venv/
-
-# R
-.Rhistory
-.Rproj.user/
-
-# Node
-node_modules/
-dist/
-
-# Misc
-*.log
-.env
+# archives
+*.zip
+*.gz
+*.7z
+# generated reports/artifacts
+reports/formal_*/midterm_update.zip

@@ -1,0 +1,3 @@
+drug,k,P@10,nDCG@10,gold_space
+simvastatin,10,0.000,0.000,PT
+carbamazepine,10,0.000,0.000,PT

@@ -1,0 +1,3177 @@
+@prefix : <http://example.org/ae-kg#> .
+
+<http://example.org/drug/CHEMBL1064> a :Drug ;
+    :actsOn <http://example.org/protein/P04035> .
+
+<http://example.org/drug/CHEMBL108> a :Drug ;
+    :actsOn <http://example.org/protein/P35498>,
+        <http://example.org/protein/P35499>,
+        <http://example.org/protein/Q01118>,
+        <http://example.org/protein/Q14524>,
+        <http://example.org/protein/Q15858>,
+        <http://example.org/protein/Q99250>,
+        <http://example.org/protein/Q9NY46>,
+        <http://example.org/protein/Q9UI33>,
+        <http://example.org/protein/Q9UQD0>,
+        <http://example.org/protein/Q9Y5Y9> .
+
+<http://example.org/gene/HLA-A> a :Gene ;
+    :hasPhenotype <http://example.org/phenotype/HP:0000518>,
+        <http://example.org/phenotype/HP:0000532>,
+        <http://example.org/phenotype/HP:0000541>,
+        <http://example.org/phenotype/HP:0000543>,
+        <http://example.org/phenotype/HP:0000572>,
+        <http://example.org/phenotype/HP:0000610>,
+        <http://example.org/phenotype/HP:0000613>,
+        <http://example.org/phenotype/HP:0000622>,
+        <http://example.org/phenotype/HP:0007843>,
+        <http://example.org/phenotype/HP:0007906>,
+        <http://example.org/phenotype/HP:0008046>,
+        <http://example.org/phenotype/HP:0011505>,
+        <http://example.org/phenotype/HP:0011506>,
+        <http://example.org/phenotype/HP:0011508>,
+        <http://example.org/phenotype/HP:0011531>,
+        <http://example.org/phenotype/HP:0030329>,
+        <http://example.org/phenotype/HP:0030530>,
+        <http://example.org/phenotype/HP:0030609>,
+        <http://example.org/phenotype/HP:0030644>,
+        <http://example.org/phenotype/HP:0100014>,
+        <http://example.org/phenotype/HP:0100533>,
+        <http://example.org/phenotype/HP:0100832>,
+        <http://example.org/phenotype/HP:0200056> .
+
+<http://example.org/gene/HLA-B> a :Gene ;
+    :hasPhenotype <http://example.org/phenotype/HP:0000010>,
+        <http://example.org/phenotype/HP:0000031>,
+        <http://example.org/phenotype/HP:0000083>,
+        <http://example.org/phenotype/HP:0000099>,
+        <http://example.org/phenotype/HP:0000155>,
+        <http://example.org/phenotype/HP:0000206>,
+        <http://example.org/phenotype/HP:0000365>,
+        <http://example.org/phenotype/HP:0000405>,
+        <http://example.org/phenotype/HP:0000421>,
+        <http://example.org/phenotype/HP:0000488>,
+        <http://example.org/phenotype/HP:0000505>,
+        <http://example.org/phenotype/HP:0000508>,
+        <http://example.org/phenotype/HP:0000509>,
+        <http://example.org/phenotype/HP:0000518>,
+        <http://example.org/phenotype/HP:0000554>,
+        <http://example.org/phenotype/HP:0000572>,
+        <http://example.org/phenotype/HP:0000597>,
+        <http://example.org/phenotype/HP:0000613>,
+        <http://example.org/phenotype/HP:0000618>,
+        <http://example.org/phenotype/HP:0000621>,
+        <http://example.org/phenotype/HP:0000639>,
+        <http://example.org/phenotype/HP:0000648>,
+        <http://example.org/phenotype/HP:0000651>,
+        <http://example.org/phenotype/HP:0000708>,
+        <http://example.org/phenotype/HP:0000716>,
+        <http://example.org/phenotype/HP:0000737>,
+        <http://example.org/phenotype/HP:0000790>,
+        <http://example.org/phenotype/HP:0000795>,
+        <http://example.org/phenotype/HP:0000822>,
+        <http://example.org/phenotype/HP:0000873>,
+        <http://example.org/phenotype/HP:0000962>,
+        <http://example.org/phenotype/HP:0000975>,
+        <http://example.org/phenotype/HP:0000988>,
+        <http://example.org/phenotype/HP:0001061>,
+        <http://example.org/phenotype/HP:0001097>,
+        <http://example.org/phenotype/HP:0001101>,
+        <http://example.org/phenotype/HP:0001123>,
+        <http://example.org/phenotype/HP:0001250>,
+        <http://example.org/phenotype/HP:0001251>,
+        <http://example.org/phenotype/HP:0001260>,
+        <http://example.org/phenotype/HP:0001269>,
+        <http://example.org/phenotype/HP:0001287>,
+        <http://example.org/phenotype/HP:0001288>,
+        <http://example.org/phenotype/HP:0001289>,
+        <http://example.org/phenotype/HP:0001297>,
+        <http://example.org/phenotype/HP:0001324>,
+        <http://example.org/phenotype/HP:0001347>,
+        <http://example.org/phenotype/HP:0001369>,
+        <http://example.org/phenotype/HP:0001386>,
+        <http://example.org/phenotype/HP:0001387>,
+        <http://example.org/phenotype/HP:0001399>,
+        <http://example.org/phenotype/HP:0001426>,
+        <http://example.org/phenotype/HP:0001482>,
+        <http://example.org/phenotype/HP:0001596>,
+        <http://example.org/phenotype/HP:0001597>,
+        <http://example.org/phenotype/HP:0001635>,
+        <http://example.org/phenotype/HP:0001637>,
+        <http://example.org/phenotype/HP:0001644>,
+        <http://example.org/phenotype/HP:0001645>,
+        <http://example.org/phenotype/HP:0001646>,
+        <http://example.org/phenotype/HP:0001653>,
+        <http://example.org/phenotype/HP:0001654>,
+        <http://example.org/phenotype/HP:0001658>,
+        <http://example.org/phenotype/HP:0001659>,
+        <http://example.org/phenotype/HP:0001701>,
+        <http://example.org/phenotype/HP:0001733>,
+        <http://example.org/phenotype/HP:0001744>,
+        <http://example.org/phenotype/HP:0001824>,
+        <http://example.org/phenotype/HP:0001872>,
+        <http://example.org/phenotype/HP:0001873>,
+        <http://example.org/phenotype/HP:0001874>,
+        <http://example.org/phenotype/HP:0001903>,
+        <http://example.org/phenotype/HP:0001920>,
+        <http://example.org/phenotype/HP:0001945>,
+        <http://example.org/phenotype/HP:0001954>,
+        <http://example.org/phenotype/HP:0001960>,
+        <http://example.org/phenotype/HP:0002014>,
+        <http://example.org/phenotype/HP:0002015>,
+        <http://example.org/phenotype/HP:0002017>,
+        <http://example.org/phenotype/HP:0002024>,
+        <http://example.org/phenotype/HP:0002027>,
+        <http://example.org/phenotype/HP:0002037>,
+        <http://example.org/phenotype/HP:0002039>,
+        <http://example.org/phenotype/HP:0002043>,
+        <http://example.org/phenotype/HP:0002076>,
+        <http://example.org/phenotype/HP:0002091>,
+        <http://example.org/phenotype/HP:0002092>,
+        <http://example.org/phenotype/HP:0002093>,
+        <http://example.org/phenotype/HP:0002094>,
+        <http://example.org/phenotype/HP:0002102>,
+        <http://example.org/phenotype/HP:0002103>,
+        <http://example.org/phenotype/HP:0002105>,
+        <http://example.org/phenotype/HP:0002113>,
+        <http://example.org/phenotype/HP:0002167>,
+        <http://example.org/phenotype/HP:0002202>,
+        <http://example.org/phenotype/HP:0002204>,
+        <http://example.org/phenotype/HP:0002205>,
+        <http://example.org/phenotype/HP:0002206>,
+        <http://example.org/phenotype/HP:0002239>,
+        <http://example.org/phenotype/HP:0002315>,
+        <http://example.org/phenotype/HP:0002321>,
+        <http://example.org/phenotype/HP:0002326>,
+        <http://example.org/phenotype/HP:0002354>,
+        <http://example.org/phenotype/HP:0002367>,
+        <http://example.org/phenotype/HP:0002376>,
+        <http://example.org/phenotype/HP:0002383>,
+        <http://example.org/phenotype/HP:0002516>,
+        <http://example.org/phenotype/HP:0002617>,
+        <http://example.org/phenotype/HP:0002633>,
+        <http://example.org/phenotype/HP:0002637>,
+        <http://example.org/phenotype/HP:0002638>,
+        <http://example.org/phenotype/HP:0002647>,
+        <http://example.org/phenotype/HP:0002716>,
+        <http://example.org/phenotype/HP:0002754>,
+        <http://example.org/phenotype/HP:0002808>,
+        <http://example.org/phenotype/HP:0002829>,
+        <http://example.org/phenotype/HP:0002910>,
+        <http://example.org/phenotype/HP:0002923>,
+        <http://example.org/phenotype/HP:0003249>,
+        <http://example.org/phenotype/HP:0003326>,
+        <http://example.org/phenotype/HP:0003401>,
+        <http://example.org/phenotype/HP:0003418>,
+        <http://example.org/phenotype/HP:0003419>,
+        <http://example.org/phenotype/HP:0003565>,
+        <http://example.org/phenotype/HP:0003765>,
+        <http://example.org/phenotype/HP:0003781>,
+        <http://example.org/phenotype/HP:0004306>,
+        <http://example.org/phenotype/HP:0004372>,
+        <http://example.org/phenotype/HP:0004417>,
+        <http://example.org/phenotype/HP:0004420>,
+        <http://example.org/phenotype/HP:0004936>,
+        <http://example.org/phenotype/HP:0004970>,
+        <http://example.org/phenotype/HP:0005112>,
+        <http://example.org/phenotype/HP:0005216>,
+        <http://example.org/phenotype/HP:0005244>,
+        <http://example.org/phenotype/HP:0005413>,
+        <http://example.org/phenotype/HP:0005558>,
+        <http://example.org/phenotype/HP:0005764>,
+        <http://example.org/phenotype/HP:0006554>,
+        <http://example.org/phenotype/HP:0006824>,
+        <http://example.org/phenotype/HP:0007256>,
+        <http://example.org/phenotype/HP:0007813>,
+        <http://example.org/phenotype/HP:0008066>,
+        <http://example.org/phenotype/HP:0008391>,
+        <http://example.org/phenotype/HP:0008843>,
+        <http://example.org/phenotype/HP:0009830>,
+        <http://example.org/phenotype/HP:0010783>,
+        <http://example.org/phenotype/HP:0010885>,
+        <http://example.org/phenotype/HP:0011107>,
+        <http://example.org/phenotype/HP:0011227>,
+        <http://example.org/phenotype/HP:0011658>,
+        <http://example.org/phenotype/HP:0011675>,
+        <http://example.org/phenotype/HP:0011899>,
+        <http://example.org/phenotype/HP:0012089>,
+        <http://example.org/phenotype/HP:0012121>,
+        <http://example.org/phenotype/HP:0012122>,
+        <http://example.org/phenotype/HP:0012219>,
+        <http://example.org/phenotype/HP:0012317>,
+        <http://example.org/phenotype/HP:0012378>,
+        <http://example.org/phenotype/HP:0012649>,
+        <http://example.org/phenotype/HP:0012733>,
+        <http://example.org/phenotype/HP:0012735>,
+        <http://example.org/phenotype/HP:0012819>,
+        <http://example.org/phenotype/HP:0016266>,
+        <http://example.org/phenotype/HP:0020141>,
+        <http://example.org/phenotype/HP:0025532>,
+        <http://example.org/phenotype/HP:0030016>,
+        <http://example.org/phenotype/HP:0030164>,
+        <http://example.org/phenotype/HP:0030166>,
+        <http://example.org/phenotype/HP:0030783>,
+        <http://example.org/phenotype/HP:0031246>,
+        <http://example.org/phenotype/HP:0032554>,
+        <http://example.org/phenotype/HP:0033123>,
+        <http://example.org/phenotype/HP:0033430>,
+        <http://example.org/phenotype/HP:0033834>,
+        <http://example.org/phenotype/HP:0034438>,
+        <http://example.org/phenotype/HP:0040313>,
+        <http://example.org/phenotype/HP:0100326>,
+        <http://example.org/phenotype/HP:0100518>,
+        <http://example.org/phenotype/HP:0100543>,
+        <http://example.org/phenotype/HP:0100545>,
+        <http://example.org/phenotype/HP:0100576>,
+        <http://example.org/phenotype/HP:0100584>,
+        <http://example.org/phenotype/HP:0100614>,
+        <http://example.org/phenotype/HP:0100653>,
+        <http://example.org/phenotype/HP:0100654>,
+        <http://example.org/phenotype/HP:0100686>,
+        <http://example.org/phenotype/HP:0100721>,
+        <http://example.org/phenotype/HP:0100735>,
+        <http://example.org/phenotype/HP:0100749>,
+        <http://example.org/phenotype/HP:0100758>,
+        <http://example.org/phenotype/HP:0100773>,
+        <http://example.org/phenotype/HP:0100776>,
+        <http://example.org/phenotype/HP:0100792>,
+        <http://example.org/phenotype/HP:0100796>,
+        <http://example.org/phenotype/HP:0100806>,
+        <http://example.org/phenotype/HP:0100809>,
+        <http://example.org/phenotype/HP:0100820>,
+        <http://example.org/phenotype/HP:0200020>,
+        <http://example.org/phenotype/HP:0200034>,
+        <http://example.org/phenotype/HP:0200039>,
+        <http://example.org/phenotype/HP:0200042>,
+        <http://example.org/phenotype/HP:0500006>,
+        <http://example.org/phenotype/HP:4000041>,
+        <http://example.org/phenotype/HP:6000502>,
+        <http://example.org/phenotype/HP:6000944>,
+        <http://example.org/phenotype/HP:6000945> .
+
+<http://example.org/gene/SLCO1B1> a :Gene ;
+    :hasPhenotype <http://example.org/phenotype/HP:0000924>,
+        <http://example.org/phenotype/HP:0000952>,
+        <http://example.org/phenotype/HP:0000989>,
+        <http://example.org/phenotype/HP:0001000>,
+        <http://example.org/phenotype/HP:0001046>,
+        <http://example.org/phenotype/HP:0002904>,
+        <http://example.org/phenotype/HP:0002908>,
+        <http://example.org/phenotype/HP:0003198>,
+        <http://example.org/phenotype/HP:0003236>,
+        <http://example.org/phenotype/HP:0003326>,
+        <http://example.org/phenotype/HP:0010473>,
+        <http://example.org/phenotype/HP:0010984>,
+        <http://example.org/phenotype/HP:0012379>,
+        <http://example.org/phenotype/HP:0031137>,
+        <http://example.org/phenotype/HP:0031811>,
+        <http://example.org/phenotype/HP:0032106> .
+
+<http://example.org/gene/HMGCR> a :Gene ;
+    :hasPhenotype <http://example.org/phenotype/HP:0000007>,
+        <http://example.org/phenotype/HP:0001265>,
+        <http://example.org/phenotype/HP:0001284>,
+        <http://example.org/phenotype/HP:0001315>,
+        <http://example.org/phenotype/HP:0002015>,
+        <http://example.org/phenotype/HP:0002093>,
+        <http://example.org/phenotype/HP:0002098>,
+        <http://example.org/phenotype/HP:0002505>,
+        <http://example.org/phenotype/HP:0002747>,
+        <http://example.org/phenotype/HP:0003155>,
+        <http://example.org/phenotype/HP:0003236>,
+        <http://example.org/phenotype/HP:0003326>,
+        <http://example.org/phenotype/HP:0003327>,
+        <http://example.org/phenotype/HP:0003593>,
+        <http://example.org/phenotype/HP:0003596>,
+        <http://example.org/phenotype/HP:0003621>,
+        <http://example.org/phenotype/HP:0003687>,
+        <http://example.org/phenotype/HP:0003701>,
+        <http://example.org/phenotype/HP:0003738>,
+        <http://example.org/phenotype/HP:0003803>,
+        <http://example.org/phenotype/HP:0004379>,
+        <http://example.org/phenotype/HP:0004887>,
+        <http://example.org/phenotype/HP:0007210>,
+        <http://example.org/phenotype/HP:0008981>,
+        <http://example.org/phenotype/HP:0009129>,
+        <http://example.org/phenotype/HP:0010602>,
+        <http://example.org/phenotype/HP:0011463>,
+        <http://example.org/phenotype/HP:0012240>,
+        <http://example.org/phenotype/HP:0025168>,
+        <http://example.org/phenotype/HP:0030099>,
+        <http://example.org/phenotype/HP:0031956>,
+        <http://example.org/phenotype/HP:0031964>,
+        <http://example.org/phenotype/HP:0040081>,
+        <http://example.org/phenotype/HP:0100297>,
+        <http://example.org/phenotype/HP:0410174>,
+        <http://example.org/phenotype/HP:0410263> .
+
+<http://example.org/gene/SCN10A> a :Gene ;
+    :hasPhenotype <http://example.org/phenotype/HP:0000006>,
+        <http://example.org/phenotype/HP:0000365>,
+        <http://example.org/phenotype/HP:0000989>,
+        <http://example.org/phenotype/HP:0001197>,
+        <http://example.org/phenotype/HP:0001250>,
+        <http://example.org/phenotype/HP:0001279>,
+        <http://example.org/phenotype/HP:0001645>,
+        <http://example.org/phenotype/HP:0001649>,
+        <http://example.org/phenotype/HP:0001663>,
+        <http://example.org/phenotype/HP:0001664>,
+        <http://example.org/phenotype/HP:0001688>,
+        <http://example.org/phenotype/HP:0001695>,
+        <http://example.org/phenotype/HP:0001872>,
+        <http://example.org/phenotype/HP:0001909>,
+        <http://example.org/phenotype/HP:0002019>,
+        <http://example.org/phenotype/HP:0002045>,
+        <http://example.org/phenotype/HP:0002205>,
+        <http://example.org/phenotype/HP:0002633>,
+        <http://example.org/phenotype/HP:0002900>,
+        <http://example.org/phenotype/HP:0002936>,
+        <http://example.org/phenotype/HP:0003581>,
+        <http://example.org/phenotype/HP:0004308>,
+        <http://example.org/phenotype/HP:0004751>,
+        <http://example.org/phenotype/HP:0004755>,
+        <http://example.org/phenotype/HP:0005135>,
+        <http://example.org/phenotype/HP:0005184>,
+        <http://example.org/phenotype/HP:0009830>,
+        <http://example.org/phenotype/HP:0010741>,
+        <http://example.org/phenotype/HP:0010783>,
+        <http://example.org/phenotype/HP:0011704>,
+        <http://example.org/phenotype/HP:0011705>,
+        <http://example.org/phenotype/HP:0011712>,
+        <http://example.org/phenotype/HP:0011715>,
+        <http://example.org/phenotype/HP:0012251>,
+        <http://example.org/phenotype/HP:0012332>,
+        <http://example.org/phenotype/HP:0012533>,
+        <http://example.org/phenotype/HP:0012534>,
+        <http://example.org/phenotype/HP:0032147>,
+        <http://example.org/phenotype/HP:0200101>,
+        <http://example.org/phenotype/HP:0500018> .
+
+<http://example.org/gene/SCN11A> a :Gene ;
+    :hasPhenotype <http://example.org/phenotype/HP:0000006>,
+        <http://example.org/phenotype/HP:0000975>,
+        <http://example.org/phenotype/HP:0000989>,
+        <http://example.org/phenotype/HP:0001058>,
+        <http://example.org/phenotype/HP:0001250>,
+        <http://example.org/phenotype/HP:0001270>,
+        <http://example.org/phenotype/HP:0001324>,
+        <http://example.org/phenotype/HP:0001872>,
+        <http://example.org/phenotype/HP:0001909>,
+        <http://example.org/phenotype/HP:0002014>,
+        <http://example.org/phenotype/HP:0002019>,
+        <http://example.org/phenotype/HP:0002045>,
+        <http://example.org/phenotype/HP:0002205>,
+        <http://example.org/phenotype/HP:0002633>,
+        <http://example.org/phenotype/HP:0002936>,
+        <http://example.org/phenotype/HP:0003577>,
+        <http://example.org/phenotype/HP:0003593>,
+        <http://example.org/phenotype/HP:0007021>,
+        <http://example.org/phenotype/HP:0009830>,
+        <http://example.org/phenotype/HP:0010741>,
+        <http://example.org/phenotype/HP:0010783>,
+        <http://example.org/phenotype/HP:0012332>,
+        <http://example.org/phenotype/HP:0012531>,
+        <http://example.org/phenotype/HP:0012533>,
+        <http://example.org/phenotype/HP:0012534>,
+        <http://example.org/phenotype/HP:0032147>,
+        <http://example.org/phenotype/HP:0200101> .
+
+<http://example.org/gene/SCN1A> a :Gene ;
+    :hasPhenotype <http://example.org/phenotype/HP:0000006>,
+        <http://example.org/phenotype/HP:0000154>,
+        <http://example.org/phenotype/HP:0000160>,
+        <http://example.org/phenotype/HP:0000179>,
+        <http://example.org/phenotype/HP:0000219>,
+        <http://example.org/phenotype/HP:0000252>,
+        <http://example.org/phenotype/HP:0000289>,
+        <http://example.org/phenotype/HP:0000316>,
+        <http://example.org/phenotype/HP:0000343>,
+        <http://example.org/phenotype/HP:0000348>,
+        <http://example.org/phenotype/HP:0000360>,
+        <http://example.org/phenotype/HP:0000365>,
+        <http://example.org/phenotype/HP:0000431>,
+        <http://example.org/phenotype/HP:0000463>,
+        <http://example.org/phenotype/HP:0000466>,
+        <http://example.org/phenotype/HP:0000494>,
+        <http://example.org/phenotype/HP:0000504>,
+        <http://example.org/phenotype/HP:0000505>,
+        <http://example.org/phenotype/HP:0000508>,
+        <http://example.org/phenotype/HP:0000546>,
+        <http://example.org/phenotype/HP:0000568>,
+        <http://example.org/phenotype/HP:0000575>,
+        <http://example.org/phenotype/HP:0000613>,
+        <http://example.org/phenotype/HP:0000618>,
+        <http://example.org/phenotype/HP:0000639>,
+        <http://example.org/phenotype/HP:0000648>,
+        <http://example.org/phenotype/HP:0000651>,
+        <http://example.org/phenotype/HP:0000668>,
+        <http://example.org/phenotype/HP:0000708>,
+        <http://example.org/phenotype/HP:0000709>,
+        <http://example.org/phenotype/HP:0000717>,
+        <http://example.org/phenotype/HP:0000718>,
+        <http://example.org/phenotype/HP:0000729>,
+        <http://example.org/phenotype/HP:0000733>,
+        <http://example.org/phenotype/HP:0000736>,
+        <http://example.org/phenotype/HP:0000737>,
+        <http://example.org/phenotype/HP:0000739>,
+        <http://example.org/phenotype/HP:0000741>,
+        <http://example.org/phenotype/HP:0000750>,
+        <http://example.org/phenotype/HP:0000752>,
+        <http://example.org/phenotype/HP:0000826>,
+        <http://example.org/phenotype/HP:0000980>,
+        <http://example.org/phenotype/HP:0001159>,
+        <http://example.org/phenotype/HP:0001249>,
+        <http://example.org/phenotype/HP:0001250>,
+        <http://example.org/phenotype/HP:0001251>,
+        <http://example.org/phenotype/HP:0001252>,
+        <http://example.org/phenotype/HP:0001257>,
+        <http://example.org/phenotype/HP:0001259>,
+        <http://example.org/phenotype/HP:0001260>,
+        <http://example.org/phenotype/HP:0001263>,
+        <http://example.org/phenotype/HP:0001265>,
+        <http://example.org/phenotype/HP:0001266>,
+        <http://example.org/phenotype/HP:0001268>,
+        <http://example.org/phenotype/HP:0001269>,
+        <http://example.org/phenotype/HP:0001270>,
+        <http://example.org/phenotype/HP:0001272>,
+        <http://example.org/phenotype/HP:0001273>,
+        <http://example.org/phenotype/HP:0001276>,
+        <http://example.org/phenotype/HP:0001288>,
+        <http://example.org/phenotype/HP:0001289>,
+        <http://example.org/phenotype/HP:0001290>,
+        <http://example.org/phenotype/HP:0001298>,
+        <http://example.org/phenotype/HP:0001300>,
+        <http://example.org/phenotype/HP:0001308>,
+        <http://example.org/phenotype/HP:0001315>,
+        <http://example.org/phenotype/HP:0001324>,
+        <http://example.org/phenotype/HP:0001326>,
+        <http://example.org/phenotype/HP:0001327>,
+        <http://example.org/phenotype/HP:0001332>,
+        <http://example.org/phenotype/HP:0001336>,
+        <http://example.org/phenotype/HP:0001337>,
+        <http://example.org/phenotype/HP:0001344>,
+        <http://example.org/phenotype/HP:0001348>,
+        <http://example.org/phenotype/HP:0001508>,
+        <http://example.org/phenotype/HP:0001558>,
+        <http://example.org/phenotype/HP:0001763>,
+        <http://example.org/phenotype/HP:0001999>,
+        <http://example.org/phenotype/HP:0002020>,
+        <http://example.org/phenotype/HP:0002059>,
+        <http://example.org/phenotype/HP:0002063>,
+        <http://example.org/phenotype/HP:0002067>,
+        <http://example.org/phenotype/HP:0002069>,
+        <http://example.org/phenotype/HP:0002072>,
+        <http://example.org/phenotype/HP:0002077>,
+        <http://example.org/phenotype/HP:0002121>,
+        <http://example.org/phenotype/HP:0002123>,
+        <http://example.org/phenotype/HP:0002133>,
+        <http://example.org/phenotype/HP:0002167>,
+        <http://example.org/phenotype/HP:0002172>,
+        <http://example.org/phenotype/HP:0002181>,
+        <http://example.org/phenotype/HP:0002183>,
+        <http://example.org/phenotype/HP:0002197>,
+        <http://example.org/phenotype/HP:0002283>,
+        <http://example.org/phenotype/HP:0002292>,
+        <http://example.org/phenotype/HP:0002301>,
+        <http://example.org/phenotype/HP:0002307>,
+        <http://example.org/phenotype/HP:0002311>,
+        <http://example.org/phenotype/HP:0002317>,
+        <http://example.org/phenotype/HP:0002321>,
+        <http://example.org/phenotype/HP:0002332>,
+        <http://example.org/phenotype/HP:0002345>,
+        <http://example.org/phenotype/HP:0002349>,
+        <http://example.org/phenotype/HP:0002353>,
+        <http://example.org/phenotype/HP:0002363>,
+        <http://example.org/phenotype/HP:0002373>,
+        <http://example.org/phenotype/HP:0002376>,
+        <http://example.org/phenotype/HP:0002381>,
+        <http://example.org/phenotype/HP:0002384>,
+        <http://example.org/phenotype/HP:0002392>,
+        <http://example.org/phenotype/HP:0002396>,
+        <http://example.org/phenotype/HP:0002421>,
+        <http://example.org/phenotype/HP:0002463>,
+        <http://example.org/phenotype/HP:0002487>,
+        <http://example.org/phenotype/HP:0002509>,
+        <http://example.org/phenotype/HP:0002521>,
+        <http://example.org/phenotype/HP:0002527>,
+        <http://example.org/phenotype/HP:0002539>,
+        <http://example.org/phenotype/HP:0002540>,
+        <http://example.org/phenotype/HP:0002650>,
+        <http://example.org/phenotype/HP:0002922>,
+        <http://example.org/phenotype/HP:0003066>,
+        <http://example.org/phenotype/HP:0003392>,
+        <http://example.org/phenotype/HP:0003401>,
+        <http://example.org/phenotype/HP:0003593>,
+        <http://example.org/phenotype/HP:0003621>,
+        <http://example.org/phenotype/HP:0003828>,
+        <http://example.org/phenotype/HP:0004302>,
+        <http://example.org/phenotype/HP:0004305>,
+        <http://example.org/phenotype/HP:0004322>,
+        <http://example.org/phenotype/HP:0004684>,
+        <http://example.org/phenotype/HP:0005484>,
+        <http://example.org/phenotype/HP:0006813>,
+        <http://example.org/phenotype/HP:0007010>,
+        <http://example.org/phenotype/HP:0007018>,
+        <http://example.org/phenotype/HP:0007058>,
+        <http://example.org/phenotype/HP:0007207>,
+        <http://example.org/phenotype/HP:0007209>,
+        <http://example.org/phenotype/HP:0007240>,
+        <http://example.org/phenotype/HP:0007256>,
+        <http://example.org/phenotype/HP:0007270>,
+        <http://example.org/phenotype/HP:0007334>,
+        <http://example.org/phenotype/HP:0007359>,
+        <http://example.org/phenotype/HP:0007979>,
+        <http://example.org/phenotype/HP:0008081>,
+        <http://example.org/phenotype/HP:0008770>,
+        <http://example.org/phenotype/HP:0008936>,
+        <http://example.org/phenotype/HP:0008947>,
+        <http://example.org/phenotype/HP:0008959>,
+        <http://example.org/phenotype/HP:0009928>,
+        <http://example.org/phenotype/HP:0010533>,
+        <http://example.org/phenotype/HP:0010544>,
+        <http://example.org/phenotype/HP:0010818>,
+        <http://example.org/phenotype/HP:0010819>,
+        <http://example.org/phenotype/HP:0010821>,
+        <http://example.org/phenotype/HP:0010829>,
+        <http://example.org/phenotype/HP:0010833>,
+        <http://example.org/phenotype/HP:0010835>,
+        <http://example.org/phenotype/HP:0010841>,
+        <http://example.org/phenotype/HP:0010844>,
+        <http://example.org/phenotype/HP:0010845>,
+        <http://example.org/phenotype/HP:0010849>,
+        <http://example.org/phenotype/HP:0010850>,
+        <http://example.org/phenotype/HP:0011097>,
+        <http://example.org/phenotype/HP:0011150>,
+        <http://example.org/phenotype/HP:0011151>,
+        <http://example.org/phenotype/HP:0011153>,
+        <http://example.org/phenotype/HP:0011157>,
+        <http://example.org/phenotype/HP:0011169>,
+        <http://example.org/phenotype/HP:0011170>,
+        <http://example.org/phenotype/HP:0011171>,
+        <http://example.org/phenotype/HP:0011172>,
+        <http://example.org/phenotype/HP:0011182>,
+        <http://example.org/phenotype/HP:0011185>,
+        <http://example.org/phenotype/HP:0011195>,
+        <http://example.org/phenotype/HP:0011196>,
+        <http://example.org/phenotype/HP:0011197>,
+        <http://example.org/phenotype/HP:0011198>,
+        <http://example.org/phenotype/HP:0011199>,
+        <http://example.org/phenotype/HP:0011220>,
+        <http://example.org/phenotype/HP:0011443>,
+        <http://example.org/phenotype/HP:0011462>,
+        <http://example.org/phenotype/HP:0011463>,
+        <http://example.org/phenotype/HP:0011468>,
+        <http://example.org/phenotype/HP:0011471>,
+        <http://example.org/phenotype/HP:0011968>,
+        <http://example.org/phenotype/HP:0012044>,
+        <http://example.org/phenotype/HP:0012075>,
+        <http://example.org/phenotype/HP:0012229>,
+        <http://example.org/phenotype/HP:0012444>,
+        <http://example.org/phenotype/HP:0012447>,
+        <http://example.org/phenotype/HP:0012448>,
+        <http://example.org/phenotype/HP:0012508>,
+        <http://example.org/phenotype/HP:0012547>,
+        <http://example.org/phenotype/HP:0012758>,
+        <http://example.org/phenotype/HP:0012760>,
+        <http://example.org/phenotype/HP:0012847>,
+        <http://example.org/phenotype/HP:0020216>,
+        <http://example.org/phenotype/HP:0025101>,
+        <http://example.org/phenotype/HP:0025190>,
+        <http://example.org/phenotype/HP:0025517>,
+        <http://example.org/phenotype/HP:0030786>,
+        <http://example.org/phenotype/HP:0031179>,
+        <http://example.org/phenotype/HP:0031475>,
+        <http://example.org/phenotype/HP:0031834>,
+        <http://example.org/phenotype/HP:0032044>,
+        <http://example.org/phenotype/HP:0032506>,
+        <http://example.org/phenotype/HP:0032792>,
+        <http://example.org/phenotype/HP:0032794>,
+        <http://example.org/phenotype/HP:0032900>,
+        <http://example.org/phenotype/HP:0032901>,
+        <http://example.org/phenotype/HP:0033258>,
+        <http://example.org/phenotype/HP:0100543>,
+        <http://example.org/phenotype/HP:0100576>,
+        <http://example.org/phenotype/HP:0100660>,
+        <http://example.org/phenotype/HP:0100678>,
+        <http://example.org/phenotype/HP:0100694>,
+        <http://example.org/phenotype/HP:0100702>,
+        <http://example.org/phenotype/HP:0100704>,
+        <http://example.org/phenotype/HP:0100710>,
+        <http://example.org/phenotype/HP:0100851>,
+        <http://example.org/phenotype/HP:0200048>,
+        <http://example.org/phenotype/HP:0200134>,
+        <http://example.org/phenotype/HP:0200149>,
+        <http://example.org/phenotype/HP:0410263> .
+
+<http://example.org/gene/SCN2A> a :Gene ;
+    :hasPhenotype <http://example.org/phenotype/HP:0000006>,
+        <http://example.org/phenotype/HP:0000054>,
+        <http://example.org/phenotype/HP:0000070>,
+        <http://example.org/phenotype/HP:0000110>,
+        <http://example.org/phenotype/HP:0000175>,
+        <http://example.org/phenotype/HP:0000252>,
+        <http://example.org/phenotype/HP:0000297>,
+        <http://example.org/phenotype/HP:0000340>,
+        <http://example.org/phenotype/HP:0000348>,
+        <http://example.org/phenotype/HP:0000463>,
+        <http://example.org/phenotype/HP:0000466>,
+        <http://example.org/phenotype/HP:0000486>,
+        <http://example.org/phenotype/HP:0000505>,
+        <http://example.org/phenotype/HP:0000565>,
+        <http://example.org/phenotype/HP:0000577>,
+        <http://example.org/phenotype/HP:0000639>,
+        <http://example.org/phenotype/HP:0000657>,
+        <http://example.org/phenotype/HP:0000707>,
+        <http://example.org/phenotype/HP:0000708>,
+        <http://example.org/phenotype/HP:0000712>,
+        <http://example.org/phenotype/HP:0000717>,
+        <http://example.org/phenotype/HP:0000718>,
+        <http://example.org/phenotype/HP:0000729>,
+        <http://example.org/phenotype/HP:0000736>,
+        <http://example.org/phenotype/HP:0000739>,
+        <http://example.org/phenotype/HP:0000750>,
+        <http://example.org/phenotype/HP:0000752>,
+        <http://example.org/phenotype/HP:0000826>,
+        <http://example.org/phenotype/HP:0000961>,
+        <http://example.org/phenotype/HP:0000975>,
+        <http://example.org/phenotype/HP:0000980>,
+        <http://example.org/phenotype/HP:0001249>,
+        <http://example.org/phenotype/HP:0001250>,
+        <http://example.org/phenotype/HP:0001251>,
+        <http://example.org/phenotype/HP:0001252>,
+        <http://example.org/phenotype/HP:0001254>,
+        <http://example.org/phenotype/HP:0001257>,
+        <http://example.org/phenotype/HP:0001260>,
+        <http://example.org/phenotype/HP:0001263>,
+        <http://example.org/phenotype/HP:0001266>,
+        <http://example.org/phenotype/HP:0001268>,
+        <http://example.org/phenotype/HP:0001272>,
+        <http://example.org/phenotype/HP:0001273>,
+        <http://example.org/phenotype/HP:0001276>,
+        <http://example.org/phenotype/HP:0001284>,
+        <http://example.org/phenotype/HP:0001298>,
+        <http://example.org/phenotype/HP:0001300>,
+        <http://example.org/phenotype/HP:0001302>,
+        <http://example.org/phenotype/HP:0001327>,
+        <http://example.org/phenotype/HP:0001332>,
+        <http://example.org/phenotype/HP:0001336>,
+        <http://example.org/phenotype/HP:0001337>,
+        <http://example.org/phenotype/HP:0001347>,
+        <http://example.org/phenotype/HP:0001350>,
+        <http://example.org/phenotype/HP:0001500>,
+        <http://example.org/phenotype/HP:0001508>,
+        <http://example.org/phenotype/HP:0001537>,
+        <http://example.org/phenotype/HP:0001629>,
+        <http://example.org/phenotype/HP:0001638>,
+        <http://example.org/phenotype/HP:0001763>,
+        <http://example.org/phenotype/HP:0001944>,
+        <http://example.org/phenotype/HP:0002013>,
+        <http://example.org/phenotype/HP:0002014>,
+        <http://example.org/phenotype/HP:0002015>,
+        <http://example.org/phenotype/HP:0002018>,
+        <http://example.org/phenotype/HP:0002019>,
+        <http://example.org/phenotype/HP:0002033>,
+        <http://example.org/phenotype/HP:0002039>,
+        <http://example.org/phenotype/HP:0002059>,
+        <http://example.org/phenotype/HP:0002063>,
+        <http://example.org/phenotype/HP:0002067>,
+        <http://example.org/phenotype/HP:0002069>,
+        <http://example.org/phenotype/HP:0002072>,
+        <http://example.org/phenotype/HP:0002079>,
+        <http://example.org/phenotype/HP:0002098>,
+        <http://example.org/phenotype/HP:0002104>,
+        <http://example.org/phenotype/HP:0002121>,
+        <http://example.org/phenotype/HP:0002123>,
+        <http://example.org/phenotype/HP:0002131>,
+        <http://example.org/phenotype/HP:0002133>,
+        <http://example.org/phenotype/HP:0002172>,
+        <http://example.org/phenotype/HP:0002197>,
+        <http://example.org/phenotype/HP:0002205>,
+        <http://example.org/phenotype/HP:0002263>,
+        <http://example.org/phenotype/HP:0002266>,
+        <http://example.org/phenotype/HP:0002273>,
+        <http://example.org/phenotype/HP:0002283>,
+        <http://example.org/phenotype/HP:0002307>,
+        <http://example.org/phenotype/HP:0002311>,
+        <http://example.org/phenotype/HP:0002315>,
+        <http://example.org/phenotype/HP:0002321>,
+        <http://example.org/phenotype/HP:0002344>,
+        <http://example.org/phenotype/HP:0002345>,
+        <http://example.org/phenotype/HP:0002349>,
+        <http://example.org/phenotype/HP:0002353>,
+        <http://example.org/phenotype/HP:0002360>,
+        <http://example.org/phenotype/HP:0002361>,
+        <http://example.org/phenotype/HP:0002372>,
+        <http://example.org/phenotype/HP:0002373>,
+        <http://example.org/phenotype/HP:0002376>,
+        <http://example.org/phenotype/HP:0002384>,
+        <http://example.org/phenotype/HP:0002396>,
+        <http://example.org/phenotype/HP:0002421>,
+        <http://example.org/phenotype/HP:0002483>,
+        <http://example.org/phenotype/HP:0002487>,
+        <http://example.org/phenotype/HP:0002506>,
+        <http://example.org/phenotype/HP:0002510>,
+        <http://example.org/phenotype/HP:0002521>,
+        <http://example.org/phenotype/HP:0002539>,
+        <http://example.org/phenotype/HP:0002540>,
+        <http://example.org/phenotype/HP:0002579>,
+        <http://example.org/phenotype/HP:0002650>,
+        <http://example.org/phenotype/HP:0002714>,
+        <http://example.org/phenotype/HP:0002835>,
+        <http://example.org/phenotype/HP:0003066>,
+        <http://example.org/phenotype/HP:0003270>,
+        <http://example.org/phenotype/HP:0003593>,
+        <http://example.org/phenotype/HP:0004302>,
+        <http://example.org/phenotype/HP:0004684>,
+        <http://example.org/phenotype/HP:0005135>,
+        <http://example.org/phenotype/HP:0005280>,
+        <http://example.org/phenotype/HP:0006813>,
+        <http://example.org/phenotype/HP:0007010>,
+        <http://example.org/phenotype/HP:0007058>,
+        <http://example.org/phenotype/HP:0007166>,
+        <http://example.org/phenotype/HP:0007204>,
+        <http://example.org/phenotype/HP:0007207>,
+        <http://example.org/phenotype/HP:0007240>,
+        <http://example.org/phenotype/HP:0007256>,
+        <http://example.org/phenotype/HP:0007270>,
+        <http://example.org/phenotype/HP:0007334>,
+        <http://example.org/phenotype/HP:0007359>,
+        <http://example.org/phenotype/HP:0008081>,
+        <http://example.org/phenotype/HP:0008770>,
+        <http://example.org/phenotype/HP:0008947>,
+        <http://example.org/phenotype/HP:0009381>,
+        <http://example.org/phenotype/HP:0010174>,
+        <http://example.org/phenotype/HP:0010532>,
+        <http://example.org/phenotype/HP:0010818>,
+        <http://example.org/phenotype/HP:0010819>,
+        <http://example.org/phenotype/HP:0010821>,
+        <http://example.org/phenotype/HP:0010841>,
+        <http://example.org/phenotype/HP:0010850>,
+        <http://example.org/phenotype/HP:0010851>,
+        <http://example.org/phenotype/HP:0011024>,
+        <http://example.org/phenotype/HP:0011097>,
+        <http://example.org/phenotype/HP:0011121>,
+        <http://example.org/phenotype/HP:0011151>,
+        <http://example.org/phenotype/HP:0011153>,
+        <http://example.org/phenotype/HP:0011167>,
+        <http://example.org/phenotype/HP:0011169>,
+        <http://example.org/phenotype/HP:0011171>,
+        <http://example.org/phenotype/HP:0011172>,
+        <http://example.org/phenotype/HP:0011182>,
+        <http://example.org/phenotype/HP:0011185>,
+        <http://example.org/phenotype/HP:0011190>,
+        <http://example.org/phenotype/HP:0011193>,
+        <http://example.org/phenotype/HP:0011198>,
+        <http://example.org/phenotype/HP:0011344>,
+        <http://example.org/phenotype/HP:0011463>,
+        <http://example.org/phenotype/HP:0011468>,
+        <http://example.org/phenotype/HP:0011499>,
+        <http://example.org/phenotype/HP:0011675>,
+        <http://example.org/phenotype/HP:0011968>,
+        <http://example.org/phenotype/HP:0012194>,
+        <http://example.org/phenotype/HP:0012332>,
+        <http://example.org/phenotype/HP:0012448>,
+        <http://example.org/phenotype/HP:0012469>,
+        <http://example.org/phenotype/HP:0012547>,
+        <http://example.org/phenotype/HP:0012554>,
+        <http://example.org/phenotype/HP:0012758>,
+        <http://example.org/phenotype/HP:0012759>,
+        <http://example.org/phenotype/HP:0012847>,
+        <http://example.org/phenotype/HP:0020221>,
+        <http://example.org/phenotype/HP:0025101>,
+        <http://example.org/phenotype/HP:0025335>,
+        <http://example.org/phenotype/HP:0025401>,
+        <http://example.org/phenotype/HP:0030915>,
+        <http://example.org/phenotype/HP:0031284>,
+        <http://example.org/phenotype/HP:0031475>,
+        <http://example.org/phenotype/HP:0031491>,
+        <http://example.org/phenotype/HP:0031546>,
+        <http://example.org/phenotype/HP:0031834>,
+        <http://example.org/phenotype/HP:0031931>,
+        <http://example.org/phenotype/HP:0032649>,
+        <http://example.org/phenotype/HP:0032678>,
+        <http://example.org/phenotype/HP:0032792>,
+        <http://example.org/phenotype/HP:0032794>,
+        <http://example.org/phenotype/HP:0032807>,
+        <http://example.org/phenotype/HP:0032823>,
+        <http://example.org/phenotype/HP:0032906>,
+        <http://example.org/phenotype/HP:0045074>,
+        <http://example.org/phenotype/HP:0045084>,
+        <http://example.org/phenotype/HP:0100543>,
+        <http://example.org/phenotype/HP:0100660>,
+        <http://example.org/phenotype/HP:0100694>,
+        <http://example.org/phenotype/HP:0100702>,
+        <http://example.org/phenotype/HP:0100710>,
+        <http://example.org/phenotype/HP:0100716>,
+        <http://example.org/phenotype/HP:0200048>,
+        <http://example.org/phenotype/HP:0200134>,
+        <http://example.org/phenotype/HP:0200136>,
+        <http://example.org/phenotype/HP:0410263> .
+
+<http://example.org/gene/SCN3A> a :Gene ;
+    :hasPhenotype <http://example.org/phenotype/HP:0000006>,
+        <http://example.org/phenotype/HP:0000252>,
+        <http://example.org/phenotype/HP:0000274>,
+        <http://example.org/phenotype/HP:0000348>,
+        <http://example.org/phenotype/HP:0000494>,
+        <http://example.org/phenotype/HP:0000504>,
+        <http://example.org/phenotype/HP:0000508>,
+        <http://example.org/phenotype/HP:0000546>,
+        <http://example.org/phenotype/HP:0000639>,
+        <http://example.org/phenotype/HP:0000648>,
+        <http://example.org/phenotype/HP:0000668>,
+        <http://example.org/phenotype/HP:0000708>,
+        <http://example.org/phenotype/HP:0000717>,
+        <http://example.org/phenotype/HP:0000750>,
+        <http://example.org/phenotype/HP:0001249>,
+        <http://example.org/phenotype/HP:0001250>,
+        <http://example.org/phenotype/HP:0001251>,
+        <http://example.org/phenotype/HP:0001252>,
+        <http://example.org/phenotype/HP:0001257>,
+        <http://example.org/phenotype/HP:0001263>,
+        <http://example.org/phenotype/HP:0001265>,
+        <http://example.org/phenotype/HP:0001268>,
+        <http://example.org/phenotype/HP:0001273>,
+        <http://example.org/phenotype/HP:0001288>,
+        <http://example.org/phenotype/HP:0001290>,
+        <http://example.org/phenotype/HP:0001298>,
+        <http://example.org/phenotype/HP:0001315>,
+        <http://example.org/phenotype/HP:0001336>,
+        <http://example.org/phenotype/HP:0001337>,
+        <http://example.org/phenotype/HP:0001344>,
+        <http://example.org/phenotype/HP:0001508>,
+        <http://example.org/phenotype/HP:0001558>,
+        <http://example.org/phenotype/HP:0002015>,
+        <http://example.org/phenotype/HP:0002020>,
+        <http://example.org/phenotype/HP:0002059>,
+        <http://example.org/phenotype/HP:0002063>,
+        <http://example.org/phenotype/HP:0002069>,
+        <http://example.org/phenotype/HP:0002079>,
+        <http://example.org/phenotype/HP:0002126>,
+        <http://example.org/phenotype/HP:0002133>,
+        <http://example.org/phenotype/HP:0002317>,
+        <http://example.org/phenotype/HP:0002376>,
+        <http://example.org/phenotype/HP:0002384>,
+        <http://example.org/phenotype/HP:0002421>,
+        <http://example.org/phenotype/HP:0002500>,
+        <http://example.org/phenotype/HP:0002509>,
+        <http://example.org/phenotype/HP:0002510>,
+        <http://example.org/phenotype/HP:0002521>,
+        <http://example.org/phenotype/HP:0002540>,
+        <http://example.org/phenotype/HP:0003593>,
+        <http://example.org/phenotype/HP:0003623>,
+        <http://example.org/phenotype/HP:0004305>,
+        <http://example.org/phenotype/HP:0004322>,
+        <http://example.org/phenotype/HP:0007018>,
+        <http://example.org/phenotype/HP:0007359>,
+        <http://example.org/phenotype/HP:0010844>,
+        <http://example.org/phenotype/HP:0011171>,
+        <http://example.org/phenotype/HP:0011443>,
+        <http://example.org/phenotype/HP:0011463>,
+        <http://example.org/phenotype/HP:0011471>,
+        <http://example.org/phenotype/HP:0011968>,
+        <http://example.org/phenotype/HP:0012332>,
+        <http://example.org/phenotype/HP:0012444>,
+        <http://example.org/phenotype/HP:0012447>,
+        <http://example.org/phenotype/HP:0012547>,
+        <http://example.org/phenotype/HP:0020221>,
+        <http://example.org/phenotype/HP:0100660>,
+        <http://example.org/phenotype/HP:0100704>,
+        <http://example.org/phenotype/HP:0100710>,
+        <http://example.org/phenotype/HP:0200134> .
+
+<http://example.org/gene/SCN4A> a :Gene ;
+    :hasPhenotype <http://example.org/phenotype/HP:0000006>,
+        <http://example.org/phenotype/HP:0000007>,
+        <http://example.org/phenotype/HP:0000194>,
+        <http://example.org/phenotype/HP:0000207>,
+        <http://example.org/phenotype/HP:0000218>,
+        <http://example.org/phenotype/HP:0000276>,
+        <http://example.org/phenotype/HP:0000278>,
+        <http://example.org/phenotype/HP:0000286>,
+        <http://example.org/phenotype/HP:0000322>,
+        <http://example.org/phenotype/HP:0000347>,
+        <http://example.org/phenotype/HP:0000369>,
+        <http://example.org/phenotype/HP:0000431>,
+        <http://example.org/phenotype/HP:0000470>,
+        <http://example.org/phenotype/HP:0000486>,
+        <http://example.org/phenotype/HP:0000490>,
+        <http://example.org/phenotype/HP:0000494>,
+        <http://example.org/phenotype/HP:0000496>,
+        <http://example.org/phenotype/HP:0000508>,
+        <http://example.org/phenotype/HP:0000520>,
+        <http://example.org/phenotype/HP:0000544>,
+        <http://example.org/phenotype/HP:0000597>,
+        <http://example.org/phenotype/HP:0000602>,
+        <http://example.org/phenotype/HP:0000622>,
+        <http://example.org/phenotype/HP:0000651>,
+        <http://example.org/phenotype/HP:0000664>,
+        <http://example.org/phenotype/HP:0000678>,
+        <http://example.org/phenotype/HP:0000767>,
+        <http://example.org/phenotype/HP:0000771>,
+        <http://example.org/phenotype/HP:0000821>,
+        <http://example.org/phenotype/HP:0000883>,
+        <http://example.org/phenotype/HP:0000939>,
+        <http://example.org/phenotype/HP:0000961>,
+        <http://example.org/phenotype/HP:0001249>,
+        <http://example.org/phenotype/HP:0001252>,
+        <http://example.org/phenotype/HP:0001270>,
+        <http://example.org/phenotype/HP:0001276>,
+        <http://example.org/phenotype/HP:0001288>,
+        <http://example.org/phenotype/HP:0001290>,
+        <http://example.org/phenotype/HP:0001315>,
+        <http://example.org/phenotype/HP:0001319>,
+        <http://example.org/phenotype/HP:0001324>,
+        <http://example.org/phenotype/HP:0001371>,
+        <http://example.org/phenotype/HP:0001376>,
+        <http://example.org/phenotype/HP:0001446>,
+        <http://example.org/phenotype/HP:0001488>,
+        <http://example.org/phenotype/HP:0001522>,
+        <http://example.org/phenotype/HP:0001541>,
+        <http://example.org/phenotype/HP:0001558>,
+        <http://example.org/phenotype/HP:0001561>,
+        <http://example.org/phenotype/HP:0001608>,
+        <http://example.org/phenotype/HP:0001611>,
+        <http://example.org/phenotype/HP:0001612>,
+        <http://example.org/phenotype/HP:0001623>,
+        <http://example.org/phenotype/HP:0001635>,
+        <http://example.org/phenotype/HP:0001662>,
+        <http://example.org/phenotype/HP:0001771>,
+        <http://example.org/phenotype/HP:0001790>,
+        <http://example.org/phenotype/HP:0001883>,
+        <http://example.org/phenotype/HP:0002007>,
+        <http://example.org/phenotype/HP:0002015>,
+        <http://example.org/phenotype/HP:0002047>,
+        <http://example.org/phenotype/HP:0002089>,
+        <http://example.org/phenotype/HP:0002091>,
+        <http://example.org/phenotype/HP:0002093>,
+        <http://example.org/phenotype/HP:0002094>,
+        <http://example.org/phenotype/HP:0002098>,
+        <http://example.org/phenotype/HP:0002099>,
+        <http://example.org/phenotype/HP:0002104>,
+        <http://example.org/phenotype/HP:0002153>,
+        <http://example.org/phenotype/HP:0002194>,
+        <http://example.org/phenotype/HP:0002202>,
+        <http://example.org/phenotype/HP:0002203>,
+        <http://example.org/phenotype/HP:0002240>,
+        <http://example.org/phenotype/HP:0002329>,
+        <http://example.org/phenotype/HP:0002343>,
+        <http://example.org/phenotype/HP:0002352>,
+        <http://example.org/phenotype/HP:0002359>,
+        <http://example.org/phenotype/HP:0002380>,
+        <http://example.org/phenotype/HP:0002474>,
+        <http://example.org/phenotype/HP:0002486>,
+        <http://example.org/phenotype/HP:0002491>,
+        <http://example.org/phenotype/HP:0002515>,
+        <http://example.org/phenotype/HP:0002607>,
+        <http://example.org/phenotype/HP:0002650>,
+        <http://example.org/phenotype/HP:0002747>,
+        <http://example.org/phenotype/HP:0002792>,
+        <http://example.org/phenotype/HP:0002808>,
+        <http://example.org/phenotype/HP:0002875>,
+        <http://example.org/phenotype/HP:0002878>,
+        <http://example.org/phenotype/HP:0002900>,
+        <http://example.org/phenotype/HP:0002902>,
+        <http://example.org/phenotype/HP:0002943>,
+        <http://example.org/phenotype/HP:0002987>,
+        <http://example.org/phenotype/HP:0003044>,
+        <http://example.org/phenotype/HP:0003100>,
+        <http://example.org/phenotype/HP:0003121>,
+        <http://example.org/phenotype/HP:0003196>,
+        <http://example.org/phenotype/HP:0003198>,
+        <http://example.org/phenotype/HP:0003200>,
+        <http://example.org/phenotype/HP:0003202>,
+        <http://example.org/phenotype/HP:0003236>,
+        <http://example.org/phenotype/HP:0003273>,
+        <http://example.org/phenotype/HP:0003306>,
+        <http://example.org/phenotype/HP:0003307>,
+        <http://example.org/phenotype/HP:0003324>,
+        <http://example.org/phenotype/HP:0003326>,
+        <http://example.org/phenotype/HP:0003327>,
+        <http://example.org/phenotype/HP:0003388>,
+        <http://example.org/phenotype/HP:0003391>,
+        <http://example.org/phenotype/HP:0003394>,
+        <http://example.org/phenotype/HP:0003401>,
+        <http://example.org/phenotype/HP:0003402>,
+        <http://example.org/phenotype/HP:0003403>,
+        <http://example.org/phenotype/HP:0003443>,
+        <http://example.org/phenotype/HP:0003457>,
+        <http://example.org/phenotype/HP:0003458>,
+        <http://example.org/phenotype/HP:0003470>,
+        <http://example.org/phenotype/HP:0003473>,
+        <http://example.org/phenotype/HP:0003484>,
+        <http://example.org/phenotype/HP:0003547>,
+        <http://example.org/phenotype/HP:0003552>,
+        <http://example.org/phenotype/HP:0003557>,
+        <http://example.org/phenotype/HP:0003577>,
+        <http://example.org/phenotype/HP:0003593>,
+        <http://example.org/phenotype/HP:0003621>,
+        <http://example.org/phenotype/HP:0003623>,
+        <http://example.org/phenotype/HP:0003687>,
+        <http://example.org/phenotype/HP:0003690>,
+        <http://example.org/phenotype/HP:0003691>,
+        <http://example.org/phenotype/HP:0003694>,
+        <http://example.org/phenotype/HP:0003700>,
+        <http://example.org/phenotype/HP:0003701>,
+        <http://example.org/phenotype/HP:0003712>,
+        <http://example.org/phenotype/HP:0003720>,
+        <http://example.org/phenotype/HP:0003722>,
+        <http://example.org/phenotype/HP:0003740>,
+        <http://example.org/phenotype/HP:0003752>,
+        <http://example.org/phenotype/HP:0003768>,
+        <http://example.org/phenotype/HP:0003803>,
+        <http://example.org/phenotype/HP:0003811>,
+        <http://example.org/phenotype/HP:0003829>,
+        <http://example.org/phenotype/HP:0004303>,
+        <http://example.org/phenotype/HP:0004322>,
+        <http://example.org/phenotype/HP:0004875>,
+        <http://example.org/phenotype/HP:0005180>,
+        <http://example.org/phenotype/HP:0005257>,
+        <http://example.org/phenotype/HP:0005348>,
+        <http://example.org/phenotype/HP:0005659>,
+        <http://example.org/phenotype/HP:0005879>,
+        <http://example.org/phenotype/HP:0005949>,
+        <http://example.org/phenotype/HP:0006670>,
+        <http://example.org/phenotype/HP:0007215>,
+        <http://example.org/phenotype/HP:0008081>,
+        <http://example.org/phenotype/HP:0008153>,
+        <http://example.org/phenotype/HP:0008180>,
+        <http://example.org/phenotype/HP:0008256>,
+        <http://example.org/phenotype/HP:0008872>,
+        <http://example.org/phenotype/HP:0008967>,
+        <http://example.org/phenotype/HP:0009004>,
+        <http://example.org/phenotype/HP:0009005>,
+        <http://example.org/phenotype/HP:0009020>,
+        <http://example.org/phenotype/HP:0009077>,
+        <http://example.org/phenotype/HP:0010307>,
+        <http://example.org/phenotype/HP:0010548>,
+        <http://example.org/phenotype/HP:0010628>,
+        <http://example.org/phenotype/HP:0010804>,
+        <http://example.org/phenotype/HP:0011042>,
+        <http://example.org/phenotype/HP:0011309>,
+        <http://example.org/phenotype/HP:0011462>,
+        <http://example.org/phenotype/HP:0011675>,
+        <http://example.org/phenotype/HP:0011809>,
+        <http://example.org/phenotype/HP:0011923>,
+        <http://example.org/phenotype/HP:0011968>,
+        <http://example.org/phenotype/HP:0011998>,
+        <http://example.org/phenotype/HP:0012240>,
+        <http://example.org/phenotype/HP:0012378>,
+        <http://example.org/phenotype/HP:0012515>,
+        <http://example.org/phenotype/HP:0012531>,
+        <http://example.org/phenotype/HP:0012548>,
+        <http://example.org/phenotype/HP:0012726>,
+        <http://example.org/phenotype/HP:0012764>,
+        <http://example.org/phenotype/HP:0012892>,
+        <http://example.org/phenotype/HP:0012899>,
+        <http://example.org/phenotype/HP:0012900>,
+        <http://example.org/phenotype/HP:0012901>,
+        <http://example.org/phenotype/HP:0012902>,
+        <http://example.org/phenotype/HP:0012903>,
+        <http://example.org/phenotype/HP:0012904>,
+        <http://example.org/phenotype/HP:0020045>,
+        <http://example.org/phenotype/HP:0025425>,
+        <http://example.org/phenotype/HP:0025709>,
+        <http://example.org/phenotype/HP:0030196>,
+        <http://example.org/phenotype/HP:0030199>,
+        <http://example.org/phenotype/HP:0030208>,
+        <http://example.org/phenotype/HP:0030319>,
+        <http://example.org/phenotype/HP:0030674>,
+        <http://example.org/phenotype/HP:0030799>,
+        <http://example.org/phenotype/HP:0030842>,
+        <http://example.org/phenotype/HP:0031108>,
+        <http://example.org/phenotype/HP:0031352>,
+        <http://example.org/phenotype/HP:0031372>,
+        <http://example.org/phenotype/HP:0031374>,
+        <http://example.org/phenotype/HP:0033454>,
+        <http://example.org/phenotype/HP:0034197>,
+        <http://example.org/phenotype/HP:0034198>,
+        <http://example.org/phenotype/HP:0034671>,
+        <http://example.org/phenotype/HP:0100021>,
+        <http://example.org/phenotype/HP:0100284>,
+        <http://example.org/phenotype/HP:0100613>,
+        <http://example.org/phenotype/HP:0100749>,
+        <http://example.org/phenotype/HP:0410011>,
+        <http://example.org/phenotype/HP:6000833> .
+
+<http://example.org/gene/SCN5A> a :Gene ;
+    :hasPhenotype <http://example.org/phenotype/HP:0000006>,
+        <http://example.org/phenotype/HP:0000007>,
+        <http://example.org/phenotype/HP:0000365>,
+        <http://example.org/phenotype/HP:0000407>,
+        <http://example.org/phenotype/HP:0000969>,
+        <http://example.org/phenotype/HP:0001197>,
+        <http://example.org/phenotype/HP:0001250>,
+        <http://example.org/phenotype/HP:0001260>,
+        <http://example.org/phenotype/HP:0001279>,
+        <http://example.org/phenotype/HP:0001297>,
+        <http://example.org/phenotype/HP:0001371>,
+        <http://example.org/phenotype/HP:0001426>,
+        <http://example.org/phenotype/HP:0001627>,
+        <http://example.org/phenotype/HP:0001635>,
+        <http://example.org/phenotype/HP:0001638>,
+        <http://example.org/phenotype/HP:0001644>,
+        <http://example.org/phenotype/HP:0001645>,
+        <http://example.org/phenotype/HP:0001649>,
+        <http://example.org/phenotype/HP:0001657>,
+        <http://example.org/phenotype/HP:0001658>,
+        <http://example.org/phenotype/HP:0001662>,
+        <http://example.org/phenotype/HP:0001663>,
+        <http://example.org/phenotype/HP:0001664>,
+        <http://example.org/phenotype/HP:0001678>,
+        <http://example.org/phenotype/HP:0001688>,
+        <http://example.org/phenotype/HP:0001695>,
+        <http://example.org/phenotype/HP:0001699>,
+        <http://example.org/phenotype/HP:0001712>,
+        <http://example.org/phenotype/HP:0001727>,
+        <http://example.org/phenotype/HP:0001789>,
+        <http://example.org/phenotype/HP:0001790>,
+        <http://example.org/phenotype/HP:0001907>,
+        <http://example.org/phenotype/HP:0001962>,
+        <http://example.org/phenotype/HP:0002018>,
+        <http://example.org/phenotype/HP:0002027>,
+        <http://example.org/phenotype/HP:0002047>,
+        <http://example.org/phenotype/HP:0002094>,
+        <http://example.org/phenotype/HP:0002140>,
+        <http://example.org/phenotype/HP:0002301>,
+        <http://example.org/phenotype/HP:0002315>,
+        <http://example.org/phenotype/HP:0002321>,
+        <http://example.org/phenotype/HP:0002381>,
+        <http://example.org/phenotype/HP:0002875>,
+        <http://example.org/phenotype/HP:0002900>,
+        <http://example.org/phenotype/HP:0003198>,
+        <http://example.org/phenotype/HP:0003202>,
+        <http://example.org/phenotype/HP:0003457>,
+        <http://example.org/phenotype/HP:0003546>,
+        <http://example.org/phenotype/HP:0003560>,
+        <http://example.org/phenotype/HP:0003577>,
+        <http://example.org/phenotype/HP:0003581>,
+        <http://example.org/phenotype/HP:0003596>,
+        <http://example.org/phenotype/HP:0003621>,
+        <http://example.org/phenotype/HP:0004308>,
+        <http://example.org/phenotype/HP:0004749>,
+        <http://example.org/phenotype/HP:0004751>,
+        <http://example.org/phenotype/HP:0004754>,
+        <http://example.org/phenotype/HP:0004755>,
+        <http://example.org/phenotype/HP:0004756>,
+        <http://example.org/phenotype/HP:0004757>,
+        <http://example.org/phenotype/HP:0005110>,
+        <http://example.org/phenotype/HP:0005133>,
+        <http://example.org/phenotype/HP:0005135>,
+        <http://example.org/phenotype/HP:0005155>,
+        <http://example.org/phenotype/HP:0005170>,
+        <http://example.org/phenotype/HP:0005172>,
+        <http://example.org/phenotype/HP:0005180>,
+        <http://example.org/phenotype/HP:0005184>,
+        <http://example.org/phenotype/HP:0005949>,
+        <http://example.org/phenotype/HP:0006673>,
+        <http://example.org/phenotype/HP:0006682>,
+        <http://example.org/phenotype/HP:0006699>,
+        <http://example.org/phenotype/HP:0011462>,
+        <http://example.org/phenotype/HP:0011463>,
+        <http://example.org/phenotype/HP:0011675>,
+        <http://example.org/phenotype/HP:0011688>,
+        <http://example.org/phenotype/HP:0011704>,
+        <http://example.org/phenotype/HP:0011705>,
+        <http://example.org/phenotype/HP:0011707>,
+        <http://example.org/phenotype/HP:0011710>,
+        <http://example.org/phenotype/HP:0011711>,
+        <http://example.org/phenotype/HP:0011712>,
+        <http://example.org/phenotype/HP:0011713>,
+        <http://example.org/phenotype/HP:0011715>,
+        <http://example.org/phenotype/HP:0011841>,
+        <http://example.org/phenotype/HP:0012248>,
+        <http://example.org/phenotype/HP:0012251>,
+        <http://example.org/phenotype/HP:0012332>,
+        <http://example.org/phenotype/HP:0012378>,
+        <http://example.org/phenotype/HP:0012664>,
+        <http://example.org/phenotype/HP:0012722>,
+        <http://example.org/phenotype/HP:0012764>,
+        <http://example.org/phenotype/HP:0025169>,
+        <http://example.org/phenotype/HP:0025478>,
+        <http://example.org/phenotype/HP:0030682>,
+        <http://example.org/phenotype/HP:0030973>,
+        <http://example.org/phenotype/HP:0031295>,
+        <http://example.org/phenotype/HP:0031546>,
+        <http://example.org/phenotype/HP:0031595>,
+        <http://example.org/phenotype/HP:0033122>,
+        <http://example.org/phenotype/HP:0034198>,
+        <http://example.org/phenotype/HP:0100578>,
+        <http://example.org/phenotype/HP:0100749>,
+        <http://example.org/phenotype/HP:0410174>,
+        <http://example.org/phenotype/HP:0500018> .
+
+<http://example.org/gene/SCN7A> a :Gene .
+
+<http://example.org/gene/SCN8A> a :Gene ;
+    :hasPhenotype <http://example.org/phenotype/HP:0000006>,
+        <http://example.org/phenotype/HP:0000252>,
+        <http://example.org/phenotype/HP:0000253>,
+        <http://example.org/phenotype/HP:0000348>,
+        <http://example.org/phenotype/HP:0000486>,
+        <http://example.org/phenotype/HP:0000494>,
+        <http://example.org/phenotype/HP:0000504>,
+        <http://example.org/phenotype/HP:0000508>,
+        <http://example.org/phenotype/HP:0000546>,
+        <http://example.org/phenotype/HP:0000609>,
+        <http://example.org/phenotype/HP:0000639>,
+        <http://example.org/phenotype/HP:0000640>,
+        <http://example.org/phenotype/HP:0000646>,
+        <http://example.org/phenotype/HP:0000648>,
+        <http://example.org/phenotype/HP:0000668>,
+        <http://example.org/phenotype/HP:0000708>,
+        <http://example.org/phenotype/HP:0000717>,
+        <http://example.org/phenotype/HP:0000722>,
+        <http://example.org/phenotype/HP:0000729>,
+        <http://example.org/phenotype/HP:0000750>,
+        <http://example.org/phenotype/HP:0000961>,
+        <http://example.org/phenotype/HP:0001249>,
+        <http://example.org/phenotype/HP:0001250>,
+        <http://example.org/phenotype/HP:0001251>,
+        <http://example.org/phenotype/HP:0001252>,
+        <http://example.org/phenotype/HP:0001257>,
+        <http://example.org/phenotype/HP:0001260>,
+        <http://example.org/phenotype/HP:0001263>,
+        <http://example.org/phenotype/HP:0001265>,
+        <http://example.org/phenotype/HP:0001266>,
+        <http://example.org/phenotype/HP:0001268>,
+        <http://example.org/phenotype/HP:0001270>,
+        <http://example.org/phenotype/HP:0001272>,
+        <http://example.org/phenotype/HP:0001273>,
+        <http://example.org/phenotype/HP:0001276>,
+        <http://example.org/phenotype/HP:0001288>,
+        <http://example.org/phenotype/HP:0001290>,
+        <http://example.org/phenotype/HP:0001298>,
+        <http://example.org/phenotype/HP:0001310>,
+        <http://example.org/phenotype/HP:0001315>,
+        <http://example.org/phenotype/HP:0001332>,
+        <http://example.org/phenotype/HP:0001336>,
+        <http://example.org/phenotype/HP:0001337>,
+        <http://example.org/phenotype/HP:0001508>,
+        <http://example.org/phenotype/HP:0001558>,
+        <http://example.org/phenotype/HP:0001561>,
+        <http://example.org/phenotype/HP:0002020>,
+        <http://example.org/phenotype/HP:0002059>,
+        <http://example.org/phenotype/HP:0002063>,
+        <http://example.org/phenotype/HP:0002066>,
+        <http://example.org/phenotype/HP:0002069>,
+        <http://example.org/phenotype/HP:0002072>,
+        <http://example.org/phenotype/HP:0002104>,
+        <http://example.org/phenotype/HP:0002121>,
+        <http://example.org/phenotype/HP:0002133>,
+        <http://example.org/phenotype/HP:0002266>,
+        <http://example.org/phenotype/HP:0002305>,
+        <http://example.org/phenotype/HP:0002317>,
+        <http://example.org/phenotype/HP:0002361>,
+        <http://example.org/phenotype/HP:0002372>,
+        <http://example.org/phenotype/HP:0002373>,
+        <http://example.org/phenotype/HP:0002376>,
+        <http://example.org/phenotype/HP:0002384>,
+        <http://example.org/phenotype/HP:0002421>,
+        <http://example.org/phenotype/HP:0002509>,
+        <http://example.org/phenotype/HP:0002521>,
+        <http://example.org/phenotype/HP:0003577>,
+        <http://example.org/phenotype/HP:0003593>,
+        <http://example.org/phenotype/HP:0003623>,
+        <http://example.org/phenotype/HP:0003680>,
+        <http://example.org/phenotype/HP:0004305>,
+        <http://example.org/phenotype/HP:0004322>,
+        <http://example.org/phenotype/HP:0006813>,
+        <http://example.org/phenotype/HP:0007018>,
+        <http://example.org/phenotype/HP:0007166>,
+        <http://example.org/phenotype/HP:0007334>,
+        <http://example.org/phenotype/HP:0007359>,
+        <http://example.org/phenotype/HP:0010818>,
+        <http://example.org/phenotype/HP:0010841>,
+        <http://example.org/phenotype/HP:0010844>,
+        <http://example.org/phenotype/HP:0010850>,
+        <http://example.org/phenotype/HP:0011097>,
+        <http://example.org/phenotype/HP:0011153>,
+        <http://example.org/phenotype/HP:0011167>,
+        <http://example.org/phenotype/HP:0011169>,
+        <http://example.org/phenotype/HP:0011171>,
+        <http://example.org/phenotype/HP:0011172>,
+        <http://example.org/phenotype/HP:0011182>,
+        <http://example.org/phenotype/HP:0011443>,
+        <http://example.org/phenotype/HP:0011463>,
+        <http://example.org/phenotype/HP:0011968>,
+        <http://example.org/phenotype/HP:0012002>,
+        <http://example.org/phenotype/HP:0012444>,
+        <http://example.org/phenotype/HP:0012447>,
+        <http://example.org/phenotype/HP:0012547>,
+        <http://example.org/phenotype/HP:0020221>,
+        <http://example.org/phenotype/HP:0025162>,
+        <http://example.org/phenotype/HP:0025312>,
+        <http://example.org/phenotype/HP:0031936>,
+        <http://example.org/phenotype/HP:0032678>,
+        <http://example.org/phenotype/HP:0032755>,
+        <http://example.org/phenotype/HP:0032792>,
+        <http://example.org/phenotype/HP:0032807>,
+        <http://example.org/phenotype/HP:0032823>,
+        <http://example.org/phenotype/HP:0032906>,
+        <http://example.org/phenotype/HP:0033258>,
+        <http://example.org/phenotype/HP:0045084>,
+        <http://example.org/phenotype/HP:0100660>,
+        <http://example.org/phenotype/HP:0100710>,
+        <http://example.org/phenotype/HP:0200134>,
+        <http://example.org/phenotype/HP:0410263> .
+
+<http://example.org/gene/SCN9A> a :Gene ;
+    :hasPhenotype <http://example.org/phenotype/HP:0000006>,
+        <http://example.org/phenotype/HP:0000007>,
+        <http://example.org/phenotype/HP:0000020>,
+        <http://example.org/phenotype/HP:0000217>,
+        <http://example.org/phenotype/HP:0000224>,
+        <http://example.org/phenotype/HP:0000458>,
+        <http://example.org/phenotype/HP:0000466>,
+        <http://example.org/phenotype/HP:0000622>,
+        <http://example.org/phenotype/HP:0000632>,
+        <http://example.org/phenotype/HP:0000729>,
+        <http://example.org/phenotype/HP:0000736>,
+        <http://example.org/phenotype/HP:0000739>,
+        <http://example.org/phenotype/HP:0000762>,
+        <http://example.org/phenotype/HP:0000966>,
+        <http://example.org/phenotype/HP:0000970>,
+        <http://example.org/phenotype/HP:0000975>,
+        <http://example.org/phenotype/HP:0000980>,
+        <http://example.org/phenotype/HP:0000989>,
+        <http://example.org/phenotype/HP:0001069>,
+        <http://example.org/phenotype/HP:0001097>,
+        <http://example.org/phenotype/HP:0001182>,
+        <http://example.org/phenotype/HP:0001249>,
+        <http://example.org/phenotype/HP:0001250>,
+        <http://example.org/phenotype/HP:0001251>,
+        <http://example.org/phenotype/HP:0001252>,
+        <http://example.org/phenotype/HP:0001265>,
+        <http://example.org/phenotype/HP:0001284>,
+        <http://example.org/phenotype/HP:0001290>,
+        <http://example.org/phenotype/HP:0001300>,
+        <http://example.org/phenotype/HP:0001327>,
+        <http://example.org/phenotype/HP:0001336>,
+        <http://example.org/phenotype/HP:0001337>,
+        <http://example.org/phenotype/HP:0001649>,
+        <http://example.org/phenotype/HP:0001662>,
+        <http://example.org/phenotype/HP:0001763>,
+        <http://example.org/phenotype/HP:0001810>,
+        <http://example.org/phenotype/HP:0001818>,
+        <http://example.org/phenotype/HP:0001842>,
+        <http://example.org/phenotype/HP:0001872>,
+        <http://example.org/phenotype/HP:0001909>,
+        <http://example.org/phenotype/HP:0001939>,
+        <http://example.org/phenotype/HP:0001962>,
+        <http://example.org/phenotype/HP:0002014>,
+        <http://example.org/phenotype/HP:0002019>,
+        <http://example.org/phenotype/HP:0002020>,
+        <http://example.org/phenotype/HP:0002045>,
+        <http://example.org/phenotype/HP:0002063>,
+        <http://example.org/phenotype/HP:0002067>,
+        <http://example.org/phenotype/HP:0002069>,
+        <http://example.org/phenotype/HP:0002121>,
+        <http://example.org/phenotype/HP:0002123>,
+        <http://example.org/phenotype/HP:0002133>,
+        <http://example.org/phenotype/HP:0002197>,
+        <http://example.org/phenotype/HP:0002205>,
+        <http://example.org/phenotype/HP:0002283>,
+        <http://example.org/phenotype/HP:0002307>,
+        <http://example.org/phenotype/HP:0002311>,
+        <http://example.org/phenotype/HP:0002345>,
+        <http://example.org/phenotype/HP:0002349>,
+        <http://example.org/phenotype/HP:0002373>,
+        <http://example.org/phenotype/HP:0002376>,
+        <http://example.org/phenotype/HP:0002384>,
+        <http://example.org/phenotype/HP:0002396>,
+        <http://example.org/phenotype/HP:0002539>,
+        <http://example.org/phenotype/HP:0002633>,
+        <http://example.org/phenotype/HP:0002645>,
+        <http://example.org/phenotype/HP:0002661>,
+        <http://example.org/phenotype/HP:0002797>,
+        <http://example.org/phenotype/HP:0002815>,
+        <http://example.org/phenotype/HP:0002936>,
+        <http://example.org/phenotype/HP:0003028>,
+        <http://example.org/phenotype/HP:0003066>,
+        <http://example.org/phenotype/HP:0003103>,
+        <http://example.org/phenotype/HP:0003202>,
+        <http://example.org/phenotype/HP:0003272>,
+        <http://example.org/phenotype/HP:0003307>,
+        <http://example.org/phenotype/HP:0003326>,
+        <http://example.org/phenotype/HP:0003380>,
+        <http://example.org/phenotype/HP:0003401>,
+        <http://example.org/phenotype/HP:0003448>,
+        <http://example.org/phenotype/HP:0003577>,
+        <http://example.org/phenotype/HP:0003593>,
+        <http://example.org/phenotype/HP:0003621>,
+        <http://example.org/phenotype/HP:0003623>,
+        <http://example.org/phenotype/HP:0003677>,
+        <http://example.org/phenotype/HP:0004349>,
+        <http://example.org/phenotype/HP:0004409>,
+        <http://example.org/phenotype/HP:0004684>,
+        <http://example.org/phenotype/HP:0005930>,
+        <http://example.org/phenotype/HP:0006121>,
+        <http://example.org/phenotype/HP:0006813>,
+        <http://example.org/phenotype/HP:0007010>,
+        <http://example.org/phenotype/HP:0007021>,
+        <http://example.org/phenotype/HP:0007058>,
+        <http://example.org/phenotype/HP:0007207>,
+        <http://example.org/phenotype/HP:0007240>,
+        <http://example.org/phenotype/HP:0007270>,
+        <http://example.org/phenotype/HP:0007328>,
+        <http://example.org/phenotype/HP:0007359>,
+        <http://example.org/phenotype/HP:0007460>,
+        <http://example.org/phenotype/HP:0008000>,
+        <http://example.org/phenotype/HP:0008081>,
+        <http://example.org/phenotype/HP:0008391>,
+        <http://example.org/phenotype/HP:0008770>,
+        <http://example.org/phenotype/HP:0008872>,
+        <http://example.org/phenotype/HP:0008947>,
+        <http://example.org/phenotype/HP:0009771>,
+        <http://example.org/phenotype/HP:0009830>,
+        <http://example.org/phenotype/HP:0010741>,
+        <http://example.org/phenotype/HP:0010783>,
+        <http://example.org/phenotype/HP:0010818>,
+        <http://example.org/phenotype/HP:0010819>,
+        <http://example.org/phenotype/HP:0010829>,
+        <http://example.org/phenotype/HP:0010830>,
+        <http://example.org/phenotype/HP:0010831>,
+        <http://example.org/phenotype/HP:0010841>,
+        <http://example.org/phenotype/HP:0010850>,
+        <http://example.org/phenotype/HP:0011151>,
+        <http://example.org/phenotype/HP:0011169>,
+        <http://example.org/phenotype/HP:0011172>,
+        <http://example.org/phenotype/HP:0011182>,
+        <http://example.org/phenotype/HP:0011185>,
+        <http://example.org/phenotype/HP:0011198>,
+        <http://example.org/phenotype/HP:0011468>,
+        <http://example.org/phenotype/HP:0012332>,
+        <http://example.org/phenotype/HP:0012531>,
+        <http://example.org/phenotype/HP:0012533>,
+        <http://example.org/phenotype/HP:0012534>,
+        <http://example.org/phenotype/HP:0012847>,
+        <http://example.org/phenotype/HP:0025101>,
+        <http://example.org/phenotype/HP:0031284>,
+        <http://example.org/phenotype/HP:0031417>,
+        <http://example.org/phenotype/HP:0031475>,
+        <http://example.org/phenotype/HP:0032147>,
+        <http://example.org/phenotype/HP:0040129>,
+        <http://example.org/phenotype/HP:0040264>,
+        <http://example.org/phenotype/HP:0100543>,
+        <http://example.org/phenotype/HP:0100694>,
+        <http://example.org/phenotype/HP:0100710>,
+        <http://example.org/phenotype/HP:0200025>,
+        <http://example.org/phenotype/HP:0200026>,
+        <http://example.org/phenotype/HP:0200048>,
+        <http://example.org/phenotype/HP:0200101>,
+        <http://example.org/phenotype/HP:0500005> .
+
+<http://example.org/phenotype/HP:0000010> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000020> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000031> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000054> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000070> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000083> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000099> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000110> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000154> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000155> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000160> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000175> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000179> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000194> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000206> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000207> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000217> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000218> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000219> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000224> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000253> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000274> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000276> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000278> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000286> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000289> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000297> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000316> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000322> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000340> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000343> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000347> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000360> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000369> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000405> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000407> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000421> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000458> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000470> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000488> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000490> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000496> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000509> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000520> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000532> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000541> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000543> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000544> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000554> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000565> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000568> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000575> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000577> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000602> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000609> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000610> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000621> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000632> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000640> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000646> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000657> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000664> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000678> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000707> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000709> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000712> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000716> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000722> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000733> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000741> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000762> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000767> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000771> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000790> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000795> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000821> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000822> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000873> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000883> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000924> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000939> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000952> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000962> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000966> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000969> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000970> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000988> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001000> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001046> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001058> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001061> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001069> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001101> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001123> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001159> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001182> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001254> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001259> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001287> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001302> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001308> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001310> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001319> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001326> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001348> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001350> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001369> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001376> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001386> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001387> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001399> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001446> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001482> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001488> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001500> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001522> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001537> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001541> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001596> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001597> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001608> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001611> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001612> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001623> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001627> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001629> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001637> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001646> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001653> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001654> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001657> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001659> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001678> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001699> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001701> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001712> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001727> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001733> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001744> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001771> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001789> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001810> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001818> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001824> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001842> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001873> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001874> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001883> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001903> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001907> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001920> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001939> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001944> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001945> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001954> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001960> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001999> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002007> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002013> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002017> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002024> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002033> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002037> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002043> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002066> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002076> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002077> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002089> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002092> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002099> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002102> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002103> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002105> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002113> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002126> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002131> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002140> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002153> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002181> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002183> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002194> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002203> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002204> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002206> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002239> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002240> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002263> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002273> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002292> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002305> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002326> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002329> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002332> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002343> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002344> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002352> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002354> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002359> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002360> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002363> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002367> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002380> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002383> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002392> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002463> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002474> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002483> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002486> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002491> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002500> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002505> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002506> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002515> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002516> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002527> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002579> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002607> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002617> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002637> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002638> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002645> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002647> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002661> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002714> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002716> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002754> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002792> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002797> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002815> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002829> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002835> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002878> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002902> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002904> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002908> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002910> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002922> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002923> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002943> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002987> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003028> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003044> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003100> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003103> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003121> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003155> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003196> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003200> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003249> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003270> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003272> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003273> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003306> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003324> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003380> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003388> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003391> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003392> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003394> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003402> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003403> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003418> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003419> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003443> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003448> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003458> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003470> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003473> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003484> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003546> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003547> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003552> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003557> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003560> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003565> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003677> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003680> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003690> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003691> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003694> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003700> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003712> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003720> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003722> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003738> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003740> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003752> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003765> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003768> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003781> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003811> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003828> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003829> a :Phenotype .
+
+<http://example.org/phenotype/HP:0004303> a :Phenotype .
+
+<http://example.org/phenotype/HP:0004306> a :Phenotype .
+
+<http://example.org/phenotype/HP:0004349> a :Phenotype .
+
+<http://example.org/phenotype/HP:0004372> a :Phenotype .
+
+<http://example.org/phenotype/HP:0004379> a :Phenotype .
+
+<http://example.org/phenotype/HP:0004409> a :Phenotype .
+
+<http://example.org/phenotype/HP:0004417> a :Phenotype .
+
+<http://example.org/phenotype/HP:0004420> a :Phenotype .
+
+<http://example.org/phenotype/HP:0004749> a :Phenotype .
+
+<http://example.org/phenotype/HP:0004754> a :Phenotype .
+
+<http://example.org/phenotype/HP:0004756> a :Phenotype .
+
+<http://example.org/phenotype/HP:0004757> a :Phenotype .
+
+<http://example.org/phenotype/HP:0004875> a :Phenotype .
+
+<http://example.org/phenotype/HP:0004887> a :Phenotype .
+
+<http://example.org/phenotype/HP:0004936> a :Phenotype .
+
+<http://example.org/phenotype/HP:0004970> a :Phenotype .
+
+<http://example.org/phenotype/HP:0005110> a :Phenotype .
+
+<http://example.org/phenotype/HP:0005112> a :Phenotype .
+
+<http://example.org/phenotype/HP:0005133> a :Phenotype .
+
+<http://example.org/phenotype/HP:0005155> a :Phenotype .
+
+<http://example.org/phenotype/HP:0005170> a :Phenotype .
+
+<http://example.org/phenotype/HP:0005172> a :Phenotype .
+
+<http://example.org/phenotype/HP:0005216> a :Phenotype .
+
+<http://example.org/phenotype/HP:0005244> a :Phenotype .
+
+<http://example.org/phenotype/HP:0005257> a :Phenotype .
+
+<http://example.org/phenotype/HP:0005280> a :Phenotype .
+
+<http://example.org/phenotype/HP:0005348> a :Phenotype .
+
+<http://example.org/phenotype/HP:0005413> a :Phenotype .
+
+<http://example.org/phenotype/HP:0005484> a :Phenotype .
+
+<http://example.org/phenotype/HP:0005558> a :Phenotype .
+
+<http://example.org/phenotype/HP:0005659> a :Phenotype .
+
+<http://example.org/phenotype/HP:0005764> a :Phenotype .
+
+<http://example.org/phenotype/HP:0005879> a :Phenotype .
+
+<http://example.org/phenotype/HP:0005930> a :Phenotype .
+
+<http://example.org/phenotype/HP:0006121> a :Phenotype .
+
+<http://example.org/phenotype/HP:0006554> a :Phenotype .
+
+<http://example.org/phenotype/HP:0006670> a :Phenotype .
+
+<http://example.org/phenotype/HP:0006673> a :Phenotype .
+
+<http://example.org/phenotype/HP:0006682> a :Phenotype .
+
+<http://example.org/phenotype/HP:0006699> a :Phenotype .
+
+<http://example.org/phenotype/HP:0006824> a :Phenotype .
+
+<http://example.org/phenotype/HP:0007204> a :Phenotype .
+
+<http://example.org/phenotype/HP:0007209> a :Phenotype .
+
+<http://example.org/phenotype/HP:0007210> a :Phenotype .
+
+<http://example.org/phenotype/HP:0007215> a :Phenotype .
+
+<http://example.org/phenotype/HP:0007328> a :Phenotype .
+
+<http://example.org/phenotype/HP:0007460> a :Phenotype .
+
+<http://example.org/phenotype/HP:0007813> a :Phenotype .
+
+<http://example.org/phenotype/HP:0007843> a :Phenotype .
+
+<http://example.org/phenotype/HP:0007906> a :Phenotype .
+
+<http://example.org/phenotype/HP:0007979> a :Phenotype .
+
+<http://example.org/phenotype/HP:0008000> a :Phenotype .
+
+<http://example.org/phenotype/HP:0008046> a :Phenotype .
+
+<http://example.org/phenotype/HP:0008066> a :Phenotype .
+
+<http://example.org/phenotype/HP:0008153> a :Phenotype .
+
+<http://example.org/phenotype/HP:0008180> a :Phenotype .
+
+<http://example.org/phenotype/HP:0008256> a :Phenotype .
+
+<http://example.org/phenotype/HP:0008843> a :Phenotype .
+
+<http://example.org/phenotype/HP:0008936> a :Phenotype .
+
+<http://example.org/phenotype/HP:0008959> a :Phenotype .
+
+<http://example.org/phenotype/HP:0008967> a :Phenotype .
+
+<http://example.org/phenotype/HP:0008981> a :Phenotype .
+
+<http://example.org/phenotype/HP:0009004> a :Phenotype .
+
+<http://example.org/phenotype/HP:0009005> a :Phenotype .
+
+<http://example.org/phenotype/HP:0009020> a :Phenotype .
+
+<http://example.org/phenotype/HP:0009077> a :Phenotype .
+
+<http://example.org/phenotype/HP:0009129> a :Phenotype .
+
+<http://example.org/phenotype/HP:0009381> a :Phenotype .
+
+<http://example.org/phenotype/HP:0009771> a :Phenotype .
+
+<http://example.org/phenotype/HP:0009928> a :Phenotype .
+
+<http://example.org/phenotype/HP:0010174> a :Phenotype .
+
+<http://example.org/phenotype/HP:0010307> a :Phenotype .
+
+<http://example.org/phenotype/HP:0010473> a :Phenotype .
+
+<http://example.org/phenotype/HP:0010532> a :Phenotype .
+
+<http://example.org/phenotype/HP:0010533> a :Phenotype .
+
+<http://example.org/phenotype/HP:0010544> a :Phenotype .
+
+<http://example.org/phenotype/HP:0010548> a :Phenotype .
+
+<http://example.org/phenotype/HP:0010602> a :Phenotype .
+
+<http://example.org/phenotype/HP:0010628> a :Phenotype .
+
+<http://example.org/phenotype/HP:0010804> a :Phenotype .
+
+<http://example.org/phenotype/HP:0010830> a :Phenotype .
+
+<http://example.org/phenotype/HP:0010831> a :Phenotype .
+
+<http://example.org/phenotype/HP:0010833> a :Phenotype .
+
+<http://example.org/phenotype/HP:0010835> a :Phenotype .
+
+<http://example.org/phenotype/HP:0010845> a :Phenotype .
+
+<http://example.org/phenotype/HP:0010849> a :Phenotype .
+
+<http://example.org/phenotype/HP:0010851> a :Phenotype .
+
+<http://example.org/phenotype/HP:0010885> a :Phenotype .
+
+<http://example.org/phenotype/HP:0010984> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011024> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011042> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011107> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011121> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011150> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011157> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011170> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011190> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011193> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011195> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011196> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011197> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011199> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011220> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011227> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011309> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011344> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011499> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011505> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011506> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011508> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011531> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011658> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011688> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011707> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011710> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011711> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011713> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011809> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011841> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011899> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011923> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011998> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012002> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012044> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012075> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012089> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012121> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012122> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012194> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012219> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012229> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012248> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012317> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012379> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012469> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012508> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012515> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012548> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012554> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012649> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012664> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012722> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012726> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012733> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012735> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012759> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012760> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012819> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012892> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012899> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012900> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012901> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012902> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012903> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012904> a :Phenotype .
+
+<http://example.org/phenotype/HP:0016266> a :Phenotype .
+
+<http://example.org/phenotype/HP:0020045> a :Phenotype .
+
+<http://example.org/phenotype/HP:0020141> a :Phenotype .
+
+<http://example.org/phenotype/HP:0020216> a :Phenotype .
+
+<http://example.org/phenotype/HP:0025162> a :Phenotype .
+
+<http://example.org/phenotype/HP:0025168> a :Phenotype .
+
+<http://example.org/phenotype/HP:0025169> a :Phenotype .
+
+<http://example.org/phenotype/HP:0025190> a :Phenotype .
+
+<http://example.org/phenotype/HP:0025312> a :Phenotype .
+
+<http://example.org/phenotype/HP:0025335> a :Phenotype .
+
+<http://example.org/phenotype/HP:0025401> a :Phenotype .
+
+<http://example.org/phenotype/HP:0025425> a :Phenotype .
+
+<http://example.org/phenotype/HP:0025478> a :Phenotype .
+
+<http://example.org/phenotype/HP:0025517> a :Phenotype .
+
+<http://example.org/phenotype/HP:0025532> a :Phenotype .
+
+<http://example.org/phenotype/HP:0025709> a :Phenotype .
+
+<http://example.org/phenotype/HP:0030016> a :Phenotype .
+
+<http://example.org/phenotype/HP:0030099> a :Phenotype .
+
+<http://example.org/phenotype/HP:0030164> a :Phenotype .
+
+<http://example.org/phenotype/HP:0030166> a :Phenotype .
+
+<http://example.org/phenotype/HP:0030196> a :Phenotype .
+
+<http://example.org/phenotype/HP:0030199> a :Phenotype .
+
+<http://example.org/phenotype/HP:0030208> a :Phenotype .
+
+<http://example.org/phenotype/HP:0030319> a :Phenotype .
+
+<http://example.org/phenotype/HP:0030329> a :Phenotype .
+
+<http://example.org/phenotype/HP:0030530> a :Phenotype .
+
+<http://example.org/phenotype/HP:0030609> a :Phenotype .
+
+<http://example.org/phenotype/HP:0030644> a :Phenotype .
+
+<http://example.org/phenotype/HP:0030674> a :Phenotype .
+
+<http://example.org/phenotype/HP:0030682> a :Phenotype .
+
+<http://example.org/phenotype/HP:0030783> a :Phenotype .
+
+<http://example.org/phenotype/HP:0030786> a :Phenotype .
+
+<http://example.org/phenotype/HP:0030799> a :Phenotype .
+
+<http://example.org/phenotype/HP:0030842> a :Phenotype .
+
+<http://example.org/phenotype/HP:0030915> a :Phenotype .
+
+<http://example.org/phenotype/HP:0030973> a :Phenotype .
+
+<http://example.org/phenotype/HP:0031108> a :Phenotype .
+
+<http://example.org/phenotype/HP:0031137> a :Phenotype .
+
+<http://example.org/phenotype/HP:0031179> a :Phenotype .
+
+<http://example.org/phenotype/HP:0031246> a :Phenotype .
+
+<http://example.org/phenotype/HP:0031295> a :Phenotype .
+
+<http://example.org/phenotype/HP:0031352> a :Phenotype .
+
+<http://example.org/phenotype/HP:0031372> a :Phenotype .
+
+<http://example.org/phenotype/HP:0031374> a :Phenotype .
+
+<http://example.org/phenotype/HP:0031417> a :Phenotype .
+
+<http://example.org/phenotype/HP:0031491> a :Phenotype .
+
+<http://example.org/phenotype/HP:0031595> a :Phenotype .
+
+<http://example.org/phenotype/HP:0031811> a :Phenotype .
+
+<http://example.org/phenotype/HP:0031931> a :Phenotype .
+
+<http://example.org/phenotype/HP:0031936> a :Phenotype .
+
+<http://example.org/phenotype/HP:0031956> a :Phenotype .
+
+<http://example.org/phenotype/HP:0031964> a :Phenotype .
+
+<http://example.org/phenotype/HP:0032044> a :Phenotype .
+
+<http://example.org/phenotype/HP:0032106> a :Phenotype .
+
+<http://example.org/phenotype/HP:0032506> a :Phenotype .
+
+<http://example.org/phenotype/HP:0032554> a :Phenotype .
+
+<http://example.org/phenotype/HP:0032649> a :Phenotype .
+
+<http://example.org/phenotype/HP:0032755> a :Phenotype .
+
+<http://example.org/phenotype/HP:0032900> a :Phenotype .
+
+<http://example.org/phenotype/HP:0032901> a :Phenotype .
+
+<http://example.org/phenotype/HP:0033122> a :Phenotype .
+
+<http://example.org/phenotype/HP:0033123> a :Phenotype .
+
+<http://example.org/phenotype/HP:0033430> a :Phenotype .
+
+<http://example.org/phenotype/HP:0033454> a :Phenotype .
+
+<http://example.org/phenotype/HP:0033834> a :Phenotype .
+
+<http://example.org/phenotype/HP:0034197> a :Phenotype .
+
+<http://example.org/phenotype/HP:0034438> a :Phenotype .
+
+<http://example.org/phenotype/HP:0034671> a :Phenotype .
+
+<http://example.org/phenotype/HP:0040081> a :Phenotype .
+
+<http://example.org/phenotype/HP:0040129> a :Phenotype .
+
+<http://example.org/phenotype/HP:0040264> a :Phenotype .
+
+<http://example.org/phenotype/HP:0040313> a :Phenotype .
+
+<http://example.org/phenotype/HP:0045074> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100014> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100021> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100284> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100297> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100326> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100518> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100533> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100545> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100578> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100584> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100613> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100614> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100653> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100654> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100678> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100686> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100716> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100721> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100735> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100758> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100773> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100776> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100792> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100796> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100806> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100809> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100820> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100832> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100851> a :Phenotype .
+
+<http://example.org/phenotype/HP:0200020> a :Phenotype .
+
+<http://example.org/phenotype/HP:0200025> a :Phenotype .
+
+<http://example.org/phenotype/HP:0200026> a :Phenotype .
+
+<http://example.org/phenotype/HP:0200034> a :Phenotype .
+
+<http://example.org/phenotype/HP:0200039> a :Phenotype .
+
+<http://example.org/phenotype/HP:0200042> a :Phenotype .
+
+<http://example.org/phenotype/HP:0200056> a :Phenotype .
+
+<http://example.org/phenotype/HP:0200136> a :Phenotype .
+
+<http://example.org/phenotype/HP:0200149> a :Phenotype .
+
+<http://example.org/phenotype/HP:0410011> a :Phenotype .
+
+<http://example.org/phenotype/HP:0500005> a :Phenotype .
+
+<http://example.org/phenotype/HP:0500006> a :Phenotype .
+
+<http://example.org/phenotype/HP:4000041> a :Phenotype .
+
+<http://example.org/phenotype/HP:6000502> a :Phenotype .
+
+<http://example.org/phenotype/HP:6000833> a :Phenotype .
+
+<http://example.org/phenotype/HP:6000944> a :Phenotype .
+
+<http://example.org/phenotype/HP:6000945> a :Phenotype .
+
+<http://example.org/protein/P04035> a :Protein ;
+    :encodedBy <http://example.org/gene/HMGCR> .
+
+<http://example.org/protein/P35498> a :Protein ;
+    :encodedBy <http://example.org/gene/SCN1A> .
+
+<http://example.org/protein/P35499> a :Protein ;
+    :encodedBy <http://example.org/gene/SCN4A> .
+
+<http://example.org/protein/Q01118> a :Protein ;
+    :encodedBy <http://example.org/gene/SCN7A> .
+
+<http://example.org/protein/Q14524> a :Protein ;
+    :encodedBy <http://example.org/gene/SCN5A> .
+
+<http://example.org/protein/Q15858> a :Protein ;
+    :encodedBy <http://example.org/gene/SCN9A> .
+
+<http://example.org/protein/Q99250> a :Protein ;
+    :encodedBy <http://example.org/gene/SCN2A> .
+
+<http://example.org/protein/Q9NY46> a :Protein ;
+    :encodedBy <http://example.org/gene/SCN3A> .
+
+<http://example.org/protein/Q9UI33> a :Protein ;
+    :encodedBy <http://example.org/gene/SCN11A> .
+
+<http://example.org/protein/Q9UQD0> a :Protein ;
+    :encodedBy <http://example.org/gene/SCN8A> .
+
+<http://example.org/protein/Q9Y5Y9> a :Protein ;
+    :encodedBy <http://example.org/gene/SCN10A> .
+
+<http://example.org/phenotype/HP:0000431> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000463> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000518> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000572> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000597> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000618> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000718> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000737> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000752> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000826> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001097> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001197> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001269> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001279> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001289> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001297> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001344> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001347> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001371> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001426> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001561> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001638> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001644> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001658> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001663> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001664> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001688> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001695> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001790> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001962> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002018> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002027> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002039> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002047> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002079> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002091> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002167> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002172> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002202> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002266> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002301> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002353> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002361> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002372> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002381> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002487> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002510> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002747> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002808> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002875> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003307> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003327> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003457> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003581> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003596> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003687> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003701> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003803> a :Phenotype .
+
+<http://example.org/phenotype/HP:0004302> a :Phenotype .
+
+<http://example.org/phenotype/HP:0004308> a :Phenotype .
+
+<http://example.org/phenotype/HP:0004751> a :Phenotype .
+
+<http://example.org/phenotype/HP:0004755> a :Phenotype .
+
+<http://example.org/phenotype/HP:0005180> a :Phenotype .
+
+<http://example.org/phenotype/HP:0005184> a :Phenotype .
+
+<http://example.org/phenotype/HP:0005949> a :Phenotype .
+
+<http://example.org/phenotype/HP:0007021> a :Phenotype .
+
+<http://example.org/phenotype/HP:0007166> a :Phenotype .
+
+<http://example.org/phenotype/HP:0008391> a :Phenotype .
+
+<http://example.org/phenotype/HP:0008872> a :Phenotype .
+
+<http://example.org/phenotype/HP:0010821> a :Phenotype .
+
+<http://example.org/phenotype/HP:0010829> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011167> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011471> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011704> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011705> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011712> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011715> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012240> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012251> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012448> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012758> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012764> a :Phenotype .
+
+<http://example.org/phenotype/HP:0031284> a :Phenotype .
+
+<http://example.org/phenotype/HP:0031546> a :Phenotype .
+
+<http://example.org/phenotype/HP:0031834> a :Phenotype .
+
+<http://example.org/phenotype/HP:0032678> a :Phenotype .
+
+<http://example.org/phenotype/HP:0032794> a :Phenotype .
+
+<http://example.org/phenotype/HP:0032807> a :Phenotype .
+
+<http://example.org/phenotype/HP:0032823> a :Phenotype .
+
+<http://example.org/phenotype/HP:0032906> a :Phenotype .
+
+<http://example.org/phenotype/HP:0033258> a :Phenotype .
+
+<http://example.org/phenotype/HP:0034198> a :Phenotype .
+
+<http://example.org/phenotype/HP:0045084> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100576> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100702> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100704> a :Phenotype .
+
+<http://example.org/phenotype/HP:0410174> a :Phenotype .
+
+<http://example.org/phenotype/HP:0500018> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000466> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000486> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000504> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000505> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000546> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000613> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000622> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000651> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000668> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000736> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000739> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000961> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000980> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001266> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001272> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001284> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001300> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001327> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001332> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001635> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001645> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001649> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001662> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001763> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001909> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002045> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002067> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002072> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002093> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002094> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002098> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002104> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002123> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002197> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002283> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002307> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002311> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002315> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002317> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002345> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002349> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002396> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002509> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002539> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002540> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002650> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002900> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002936> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003066> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003198> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003202> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003236> a :Phenotype .
+
+<http://example.org/phenotype/HP:0004305> a :Phenotype .
+
+<http://example.org/phenotype/HP:0004684> a :Phenotype .
+
+<http://example.org/phenotype/HP:0005135> a :Phenotype .
+
+<http://example.org/phenotype/HP:0007010> a :Phenotype .
+
+<http://example.org/phenotype/HP:0007018> a :Phenotype .
+
+<http://example.org/phenotype/HP:0007058> a :Phenotype .
+
+<http://example.org/phenotype/HP:0007207> a :Phenotype .
+
+<http://example.org/phenotype/HP:0007240> a :Phenotype .
+
+<http://example.org/phenotype/HP:0007256> a :Phenotype .
+
+<http://example.org/phenotype/HP:0007270> a :Phenotype .
+
+<http://example.org/phenotype/HP:0007334> a :Phenotype .
+
+<http://example.org/phenotype/HP:0008770> a :Phenotype .
+
+<http://example.org/phenotype/HP:0008947> a :Phenotype .
+
+<http://example.org/phenotype/HP:0010741> a :Phenotype .
+
+<http://example.org/phenotype/HP:0010819> a :Phenotype .
+
+<http://example.org/phenotype/HP:0010844> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011097> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011151> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011153> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011185> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011198> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011443> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011462> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011468> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012378> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012444> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012447> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012531> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012533> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012534> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012847> a :Phenotype .
+
+<http://example.org/phenotype/HP:0020221> a :Phenotype .
+
+<http://example.org/phenotype/HP:0025101> a :Phenotype .
+
+<http://example.org/phenotype/HP:0031475> a :Phenotype .
+
+<http://example.org/phenotype/HP:0032147> a :Phenotype .
+
+<http://example.org/phenotype/HP:0032792> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100694> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100749> a :Phenotype .
+
+<http://example.org/phenotype/HP:0200048> a :Phenotype .
+
+<http://example.org/phenotype/HP:0200101> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000007> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000252> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000348> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000365> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000494> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000648> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000717> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000729> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000750> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000975> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000989> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001257> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001263> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001268> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001270> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001273> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001276> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001298> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001324> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001508> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001558> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001872> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002014> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002019> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002020> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002059> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002121> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002321> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002373> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002421> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002521> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002633> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003401> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003623> a :Phenotype .
+
+<http://example.org/phenotype/HP:0004322> a :Phenotype .
+
+<http://example.org/phenotype/HP:0006813> a :Phenotype .
+
+<http://example.org/phenotype/HP:0008081> a :Phenotype .
+
+<http://example.org/phenotype/HP:0009830> a :Phenotype .
+
+<http://example.org/phenotype/HP:0010783> a :Phenotype .
+
+<http://example.org/phenotype/HP:0010818> a :Phenotype .
+
+<http://example.org/phenotype/HP:0010841> a :Phenotype .
+
+<http://example.org/phenotype/HP:0010850> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011169> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011171> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011172> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011182> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011675> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012547> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100543> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100660> a :Phenotype .
+
+<http://example.org/phenotype/HP:0200134> a :Phenotype .
+
+<http://example.org/phenotype/HP:0410263> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000508> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000639> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000708> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001260> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001265> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001288> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001290> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001315> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001336> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001337> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002015> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002063> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002069> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002133> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002205> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002384> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003326> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003577> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003621> a :Phenotype .
+
+<http://example.org/phenotype/HP:0007359> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011968> a :Phenotype .
+
+<http://example.org/phenotype/HP:0100710> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001249> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001251> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001252> a :Phenotype .
+
+<http://example.org/phenotype/HP:0002376> a :Phenotype .
+
+<http://example.org/phenotype/HP:0011463> a :Phenotype .
+
+<http://example.org/phenotype/HP:0012332> a :Phenotype .
+
+<http://example.org/phenotype/HP:0003593> a :Phenotype .
+
+<http://example.org/phenotype/HP:0000006> a :Phenotype .
+
+<http://example.org/phenotype/HP:0001250> a :Phenotype .
+

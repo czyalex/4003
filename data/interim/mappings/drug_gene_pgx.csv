@@ -1,0 +1,4 @@
+﻿drug_id,gene_id,cpic_weight,note
+CHEMBL1064,SLCO1B1,1.0,simvastatin myopathy risk (rs4149056)
+CHEMBL108,HLA-B,1.0,carbamazepine SJS/TEN risk (15:02/31:01)
+CHEMBL108,HLA-A,0.8,carbamazepine hypersensitivity (31:01)

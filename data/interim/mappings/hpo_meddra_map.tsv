@@ -1,0 +1,1275 @@
+hpo_id	meddra_pt
+HP:0000011	Neurogenic bladder
+HP:0000015	Bladder diverticulum
+HP:0000016	Urinary retention
+HP:0000017	Nocturia
+HP:0000020	Urinary incontinence
+HP:0000023	Inguinal hernia
+HP:0000024	Prostatitis
+HP:0000027	Azoospermia
+HP:0000028	Cryptorchism
+HP:0000029	Testicular atrophy
+HP:0000031	Epididymitis
+HP:0000034	Hydrocele
+HP:0000072	Hydroureter
+HP:0000083	Renal failure
+HP:0000093	Proteinuria
+HP:0000097	Focal segmental glomerulosclerosis
+HP:0000099	Glomerulonephritis
+HP:0000100	Nephrotic syndrome
+HP:0000103	Polyuria
+HP:0000104	Renal aplasia
+HP:0000107	Renal cyst
+HP:0000112	Nephropathy
+HP:0000121	Nephrocalcinosis
+HP:0000123	Nephritis
+HP:0000126	Hydronephrosis
+HP:0000131	Uterine leiomyoma
+HP:0000132	Menorrhagia
+HP:0000135	Hypogonadism
+HP:0000138	Ovarian cyst
+HP:0000139	Uterine prolapse
+HP:0000147	Polycystic ovaries
+HP:0000175	Cleft palate
+HP:0000206	Glossitis
+HP:0000211	Lockjaw
+HP:0000212	Gingival hyperplasia
+HP:0000217	Dry mouth
+HP:0000224	Hypogeusia
+HP:0000225	Gingival bleeding
+HP:0000230	Gingivitis
+HP:0000238	Hydrocephalus
+HP:0000246	Sinusitis
+HP:0000252	Microcephaly
+HP:0000255	Acute sinusitis
+HP:0000265	Mastoiditis
+HP:0000360	Tinnitus
+HP:0000365	Deafness
+HP:0000369	Low set ears
+HP:0000388	Otitis media
+HP:0000389	Otitis media chronic
+HP:0000421	Epistaxis
+HP:0000458	Anosmia
+HP:0000473	Torticollis
+HP:0000486	Strabismus
+HP:0000490	Sunken eyes
+HP:0000491	Keratitis
+HP:0000498	Blepharitis
+HP:0000501	Glaucoma
+HP:0000505	Visual impairment
+HP:0000508	Eyelid ptosis
+HP:0000509	Conjunctivitis
+HP:0000518	Cataract
+HP:0000520	Exophthalmos
+HP:0000531	Corneal deposits
+HP:0000541	Retinal detachment
+HP:0000544	External ophthalmoplegia
+HP:0000545	Myopia
+HP:0000546	Retinal degeneration
+HP:0000554	Uveitis
+HP:0000563	Keratoconus
+HP:0000573	Retinal haemorrhage
+HP:0000575	Scotoma
+HP:0000579	Lacrimal duct obstruction
+HP:0000602	Ophthalmoplegia
+HP:0000603	Central scotoma
+HP:0000608	Macular degeneration
+HP:0000613	Photophobia
+HP:0000616	Miosis
+HP:0000618	Blindness
+HP:0000620	Dacryocystitis
+HP:0000629	Periorbital swelling
+HP:0000639	Nystagmus
+HP:0000643	Blepharospasm
+HP:0000646	Amblyopia
+HP:0000648	Optic atrophy
+HP:0000651	Diplopia
+HP:0000656	Ectropion
+HP:0000662	Night blindness
+HP:0000670	Dental caries
+HP:0000691	Tooth hypoplasia
+HP:0000704	Periodontal disease
+HP:0000713	Agitation
+HP:0000716	Depressive disorder
+HP:0000717	Autism
+HP:0000718	Aggression
+HP:0000722	Obsessive-compulsive disorder
+HP:0000726	Dementia
+HP:0000729	Autism spectrum disorder
+HP:0000734	Disinhibition
+HP:0000737	Irritability
+HP:0000738	Hallucination
+HP:0000739	Anxiety
+HP:0000741	Apathy
+HP:0000742	Self mutilation
+HP:0000746	Delusion
+HP:0000751	Personality change
+HP:0000756	Agoraphobia
+HP:0000757	Anosognosia
+HP:0000763	Peripheral sensory neuropathy
+HP:0000767	Pectus excavatum
+HP:0000771	Gynaecomastia
+HP:0000776	Diaphragmatic hernia
+HP:0000787	Nephrolithiasis
+HP:0000789	Infertility
+HP:0000796	Urethral obstruction
+HP:0000798	Oligospermia
+HP:0000805	Enuresis
+HP:0000819	Diabetes mellitus
+HP:0000821	Hypothyroidism
+HP:0000822	Hypertension
+HP:0000823	Delayed puberty
+HP:0000826	Precocious puberty
+HP:0000829	Hypoparathyroidism
+HP:0000832	Primary hypothyroidism
+HP:0000836	Hyperthyroidism
+HP:0000843	Hyperparathyroidism
+HP:0000846	Adrenal insufficiency
+HP:0000851	Congenital hypothyroidism
+HP:0000853	Goitre
+HP:0000854	Thyroid adenoma
+HP:0000855	Insulin resistance
+HP:0000870	Hyperprolactinaemia
+HP:0000873	Diabetes insipidus
+HP:0000934	Chondrocalcinosis
+HP:0000938	Osteopenia
+HP:0000939	Osteoporosis
+HP:0000952	Jaundice
+HP:0000953	Melanoderma
+HP:0000956	Acanthosis nigricans
+HP:0000958	Xerosis
+HP:0000961	Cyanosis
+HP:0000962	Hyperkeratosis
+HP:0000964	Dermatitis
+HP:0000966	Hypohidrosis
+HP:0000967	Petechiae
+HP:0000969	Oedema
+HP:0000970	Anhidrosis
+HP:0000973	Cutis laxa
+HP:0000975	Sweating increased
+HP:0000979	Purpura
+HP:0000980	Pallor
+HP:0000988	Rash
+HP:0000989	Pruritus
+HP:0000991	Xanthomatosis
+HP:0000992	Photosensitivity
+HP:0000995	Melanocytic naevus
+HP:0000998	Hypertrichosis
+HP:0000999	Pyoderma
+HP:0001000	Abnormal pigmentation
+HP:0001004	Lymphoedema
+HP:0001007	Hirsutism
+HP:0001009	Telangiectasia
+HP:0001012	Lipomatosis
+HP:0001022	Albinism
+HP:0001025	Urticaria
+HP:0001030	Skin fragility
+HP:0001041	Rosacea
+HP:0001045	Vitiligo
+HP:0001047	Neurodermatitis
+HP:0001055	Erysipelas
+HP:0001056	Milia
+HP:0001057	Aplasia cutis congenita
+HP:0001059	Pterygium
+HP:0001061	Acne
+HP:0001067	Neurofibroma
+HP:0001081	Cholelithiasis
+HP:0001082	Cholecystitis
+HP:0001084	Arcus juvenilis
+HP:0001087	Developmental glaucoma
+HP:0001094	Iridocyclitis
+HP:0001096	Keratoconjunctivitis
+HP:0001097	Xerophthalmia
+HP:0001101	Iritis
+HP:0001105	Retinal atrophy
+HP:0001114	Xanthoma
+HP:0001131	Corneal dystrophy
+HP:0001133	Visual field constriction
+HP:0001147	Retinal exudates
+HP:0001159	Syndactyly
+HP:0001195	Single umbilical artery
+HP:0001217	Clubbing
+HP:0001249	Mental retardation
+HP:0001250	Epilepsy
+HP:0001251	Ataxia
+HP:0001252	Hypotonia
+HP:0001254	Lethargy
+HP:0001257	Muscle spasticity
+HP:0001259	Stupor
+HP:0001260	Dysarthria
+HP:0001262	Excessive daytime sleepiness
+HP:0001263	Developmental delay
+HP:0001265	Hyporeflexia
+HP:0001266	Choreoathetosis
+HP:0001269	Hemiparesis
+HP:0001271	Polyneuropathy
+HP:0001272	Cerebellar atrophy
+HP:0001274	Corpus callosum agenesis
+HP:0001276	Hypertonicity
+HP:0001278	Orthostatic hypotension
+HP:0001279	Syncope
+HP:0001281	Tetany
+HP:0001284	Areflexia
+HP:0001287	Meningitis
+HP:0001288	Gait disturbance
+HP:0001289	Disorientation
+HP:0001297	Cerebrovascular accident
+HP:0001298	Encephalopathy
+HP:0001300	Parkinsonism
+HP:0001310	Dysmetria
+HP:0001319	Hypotonia neonatal
+HP:0001324	Muscular weakness
+HP:0001325	Hypoglycaemic coma
+HP:0001332	Dystonia
+HP:0001336	Myoclonus
+HP:0001337	Tremor
+HP:0001342	Cerebral haemorrhage
+HP:0001347	Hyperreflexia
+HP:0001350	Slurred speech
+HP:0001363	Craniosynostosis
+HP:0001369	Arthritis
+HP:0001370	Rheumatoid arthritis
+HP:0001373	Joint dislocation
+HP:0001382	Joint instability
+HP:0001385	Hip dysplasia
+HP:0001386	Joint swelling
+HP:0001387	Joint stiffness
+HP:0001394	Hepatic cirrhosis
+HP:0001395	Hepatic fibrosis
+HP:0001396	Cholestasis
+HP:0001397	Hepatic steatosis
+HP:0001399	Hepatic insufficiency
+HP:0001402	Hepatocellular carcinoma
+HP:0001409	Portal hypertension
+HP:0001433	Hepatosplenomegaly
+HP:0001482	Subcutaneous nodule
+HP:0001489	Posterior vitreous detachment
+HP:0001508	Failure to thrive
+HP:0001510	Growth retardation
+HP:0001513	Obesity
+HP:0001537	Umbilical hernia
+HP:0001539	Exomphalos
+HP:0001541	Ascites
+HP:0001561	Polyhydramnios
+HP:0001562	Oligohydramnios
+HP:0001596	Alopecia
+HP:0001604	Vocal cord paresis
+HP:0001605	Vocal cord paralysis
+HP:0001609	Hoarseness
+HP:0001618	Dysphonia
+HP:0001622	Premature delivery
+HP:0001623	Breech presentation
+HP:0001629	Ventricular septal defect
+HP:0001631	Atrial septal defect
+HP:0001635	Cardiac failure
+HP:0001638	Cardiomyopathy
+HP:0001639	Hypertrophic cardiomyopathy
+HP:0001640	Cardiomegaly
+HP:0001643	Patent ductus arteriosus
+HP:0001644	Congestive cardiomyopathy
+HP:0001645	Sudden cardiac death
+HP:0001648	Cor pulmonale
+HP:0001649	Heart racing
+HP:0001650	Aortic valve stenosis
+HP:0001657	Long QT syndrome
+HP:0001658	Myocardial infarction
+HP:0001662	Bradycardia
+HP:0001663	Ventricular fibrillation
+HP:0001664	Torsade de pointes
+HP:0001678	Atrioventricular block
+HP:0001680	Coarctation of the aorta
+HP:0001681	Angina pectoris
+HP:0001686	Aphonia
+HP:0001688	Sinus bradycardia
+HP:0001692	Atrial arrhythmia
+HP:0001695	Cardiac arrest
+HP:0001698	Pericardial effusion
+HP:0001699	Sudden death
+HP:0001700	Myocardial necrosis
+HP:0001701	Pericarditis
+HP:0001708	Right ventricular failure
+HP:0001712	Left ventricular hypertrophy
+HP:0001714	Ventricular hypertrophy
+HP:0001723	Restrictive cardiomyopathy
+HP:0001727	Thromboembolic stroke
+HP:0001733	Pancreatitis
+HP:0001735	Pancreatitis acute
+HP:0001738	Pancreatic insufficiency
+HP:0001741	Phimosis
+HP:0001742	Nasal obstruction
+HP:0001744	Splenomegaly
+HP:0001788	Premature rupture of membranes
+HP:0001806	Onycholysis
+HP:0001807	Nail ridging
+HP:0001818	Paronychia
+HP:0001820	Leukonychia
+HP:0001873	Thrombocytopenia
+HP:0001875	Neutropenia
+HP:0001876	Pancytopenia
+HP:0001878	Haemolytic anaemia
+HP:0001880	Eosinophilia
+HP:0001882	Leukopenia
+HP:0001883	Talipes
+HP:0001888	Lymphopenia
+HP:0001890	Autoimmune haemolytic anaemia
+HP:0001891	Iron deficiency anaemia
+HP:0001892	Bleeding tendency
+HP:0001894	Thrombocytosis
+HP:0001896	Reticulocytopenia
+HP:0001897	Normocytic anemia
+HP:0001901	Erythrocytosis
+HP:0001903	Anaemia
+HP:0001907	Thromboembolism
+HP:0001908	Hypoplastic anaemia
+HP:0001909	Leukaemia
+HP:0001915	Aplastic anaemia
+HP:0001919	Acute kidney injury
+HP:0001920	Renal artery stenosis
+HP:0001923	Reticulocytosis
+HP:0001924	Sideroblastic anaemia
+HP:0001929	Factor XI deficiency
+HP:0001935	Microcytic anaemia
+HP:0001941	Acidosis
+HP:0001942	Metabolic acidosis
+HP:0001943	Hypoglycaemia
+HP:0001944	Dehydration
+HP:0001946	Ketosis
+HP:0001947	Renal tubular acidosis
+HP:0001948	Alkalosis
+HP:0001950	Respiratory alkalosis
+HP:0001953	Diabetic ketoacidosis
+HP:0001954	Intermittent fever
+HP:0001959	Polydipsia
+HP:0001962	Palpitations
+HP:0001970	Tubulointerstitial nephritis
+HP:0001971	Hypersplenism
+HP:0001973	Autoimmune thrombocytopenia
+HP:0001974	Leukocytosis
+HP:0001993	Ketoacidosis
+HP:0001997	Gouty arthritis
+HP:0002013	Vomiting
+HP:0002014	Diarrhoea
+HP:0002015	Dysphagia
+HP:0002018	Nausea
+HP:0002019	Constipation
+HP:0002020	Heartburn
+HP:0002021	Pyloric stenosis
+HP:0002023	Anal atresia
+HP:0002024	Malabsorption
+HP:0002027	Abdominal discomfort
+HP:0002028	Chronic diarrhea
+HP:0002035	Rectal prolapse
+HP:0002036	Hiatus hernia
+HP:0002037	Inflammatory bowel disease
+HP:0002039	Anorexia
+HP:0002044	Zollinger-Ellison syndrome
+HP:0002045	Hypothermia
+HP:0002046	Heat intolerance
+HP:0002049	Proximal renal tubular acidosis
+HP:0002059	Cerebral atrophy
+HP:0002063	Muscle rigidity
+HP:0002066	Ataxic gait
+HP:0002067	Bradykinesia
+HP:0002071	Extrapyramidal symptoms
+HP:0002072	Chorea
+HP:0002075	Dysdiadochokinesis
+HP:0002076	Migraine
+HP:0002083	Migraine without aura
+HP:0002084	Encephalocele
+HP:0002089	Pulmonary hypoplasia
+HP:0002090	Pneumonia
+HP:0002092	Pulmonary arterial hypertension
+HP:0002093	Respiratory insufficiency
+HP:0002094	Dyspnoea
+HP:0002097	Emphysema
+HP:0002098	Labored breathing
+HP:0002099	Asthma
+HP:0002102	Pleurisy
+HP:0002104	Apnoea
+HP:0002105	Haemoptysis
+HP:0002107	Pneumothorax
+HP:0002110	Bronchiectasis
+HP:0002133	Status epilepticus
+HP:0002140	Ischaemic stroke
+HP:0002148	Hypophosphataemia
+HP:0002149	Hyperuricaemia
+HP:0002150	Hypercalciuria
+HP:0002156	Homocystinuria
+HP:0002157	Azotaemia
+HP:0002169	Clonus
+HP:0002176	Spinal cord compression
+HP:0002179	Opisthotonus
+HP:0002181	Brain oedema
+HP:0002183	Phonophobia
+HP:0002186	Apraxia
+HP:0002202	Pleural effusion
+HP:0002203	Respiratory paralysis
+HP:0002204	Pulmonary embolism
+HP:0002206	Pulmonary fibrosis
+HP:0002239	Gastrointestinal haemorrhage
+HP:0002240	Hepatomegaly
+HP:0002273	Quadriparesis
+HP:0002277	Horner's syndrome
+HP:0002300	Mutism
+HP:0002301	Hemiplegia
+HP:0002304	Akinesia
+HP:0002305	Athetosis
+HP:0002307	Drooling
+HP:0002310	Orofacial dyskinesia
+HP:0002312	Clumsiness
+HP:0002313	Spastic paraparesis
+HP:0002315	Headache
+HP:0002317	Unsteady gait
+HP:0002321	Dizziness
+HP:0002323	Anencephaly
+HP:0002326	Transient ischaemic attack
+HP:0002329	Somnolence
+HP:0002330	Sleep attacks
+HP:0002345	Action tremor
+HP:0002352	Leukoencephalopathy
+HP:0002353	Electroencephalogram abnormal
+HP:0002354	Memory impairment
+HP:0002360	Sleep disturbance
+HP:0002373	Febrile convulsion
+HP:0002375	Hypokinesia
+HP:0002378	Tremor of hands
+HP:0002380	Fasciculation
+HP:0002381	Aphasia
+HP:0002384	Complex partial seizures
+HP:0002385	Paraparesis
+HP:0002396	Cogwheel rigidity
+HP:0002414	Spina bifida
+HP:0002435	Meningocele
+HP:0002445	Quadriplegia
+HP:0002475	Meningomyelocele
+HP:0002480	Hepatic encephalopathy
+HP:0002486	Myotonia
+HP:0002487	Hyperkinesia
+HP:0002488	Acute leukaemia
+HP:0002495	Decreased vibratory sense
+HP:0002519	Hypnagogic hallucination
+HP:0002524	Cataplexy
+HP:0002558	Supernumerary nipple
+HP:0002576	Intussusception
+HP:0002578	Delayed gastric emptying
+HP:0002580	Volvulus
+HP:0002583	Colitis
+HP:0002584	Intestinal haemorrhage
+HP:0002586	Peritonitis
+HP:0002588	Duodenal ulcer
+HP:0002591	Hyperphagia
+HP:0002592	Gastric ulcer
+HP:0002595	Ileus
+HP:0002599	Head titubation
+HP:0002605	Hepatic necrosis
+HP:0002607	Faecal incontinence
+HP:0002611	Cholestatic liver disease
+HP:0002615	Hypotension
+HP:0002617	Aneurysm
+HP:0002621	Atherosclerosis
+HP:0002625	Deep vein thrombosis
+HP:0002633	Vasculitis
+HP:0002634	Arteriosclerosis
+HP:0002639	Budd-Chiari syndrome
+HP:0002647	Aortic dissection
+HP:0002650	Scoliosis
+HP:0002653	Bone pain
+HP:0002664	Neoplasm
+HP:0002665	Lymphoma
+HP:0002669	Osteosarcoma
+HP:0002671	Basal cell carcinoma
+HP:0002672	Gastrointestinal carcinoma
+HP:0002716	Lymphadenopathy
+HP:0002721	Immunodeficiency
+HP:0002725	Systemic lupus erythematosus
+HP:0002728	Mucocutaneous candidiasis
+HP:0002748	Rickets
+HP:0002749	Osteomalacia
+HP:0002754	Osteomyelitis
+HP:0002757	Multiple fractures
+HP:0002758	Osteoarthritis
+HP:0002781	Upper airway obstruction
+HP:0002791	Respiratory depression
+HP:0002797	Osteolysis
+HP:0002808	Kyphosis
+HP:0002821	Neuropathic arthropathy
+HP:0002827	Hip dislocation
+HP:0002829	Arthralgia
+HP:0002835	Aspiration
+HP:0002840	Lymphadenitis
+HP:0002857	Genu valgum
+HP:0002858	Meningioma
+HP:0002860	Squamous cell carcinoma
+HP:0002861	Malignant melanoma
+HP:0002862	Bladder carcinoma
+HP:0002863	Myelodysplastic syndrome
+HP:0002878	Respiratory failure
+HP:0002883	Hyperventilation
+HP:0002884	Hepatoblastoma
+HP:0002890	Thyroid carcinoma
+HP:0002893	Pituitary adenoma
+HP:0002901	Hypocalcaemia
+HP:0002907	Microscopic hematuria
+HP:0002913	Myoglobinuria
+HP:0002919	Ketonuria
+HP:0002960	Autoimmune disorder
+HP:0003002	Breast cancer
+HP:0003003	Colon cancer
+HP:0003040	Arthropathy
+HP:0003072	Hypercalcaemia
+HP:0003073	Hypoalbuminaemia
+HP:0003076	Glycosuria
+HP:0003111	Electrolyte disturbance
+HP:0003119	Dyslipidaemia
+HP:0003124	High cholesterol
+HP:0003125	Factor VIII deficiency
+HP:0003127	Hypocalciuria
+HP:0003128	Lactic acidosis
+HP:0003149	Hyperuricosuria
+HP:0003158	Hyposthenuria
+HP:0003198	Myopathy
+HP:0003201	Rhabdomyolysis
+HP:0003202	Muscle atrophy
+HP:0003236	Blood creatine phosphokinase increased
+HP:0003256	Coagulopathy
+HP:0003270	Abdominal bloating
+HP:0003298	Spina bifida occulta
+HP:0003307	Lordosis
+HP:0003326	Myalgia
+HP:0003355	Aminoaciduria
+HP:0003365	Coxalgia
+HP:0003394	Muscle spasms
+HP:0003418	Back pain
+HP:0003419	Low back pain
+HP:0003470	Paralysis
+HP:0003472	Hypocalcemic tetany
+HP:0003473	Myasthenia
+HP:0003477	Axonal neuropathy
+HP:0003487	Extensor plantar response
+HP:0003493	Antinuclear antibody positive
+HP:0003510	Dwarfism
+HP:0003552	Muscle stiffness
+HP:0003750	Muscle fatigue
+HP:0003761	Calcinosis
+HP:0003763	Bruxism
+HP:0003764	Nevus
+HP:0003765	Psoriasis
+HP:0003826	Stillbirth
+HP:0004308	Ventricular arrhythmia
+HP:0004319	Hypoaldosteronism
+HP:0004326	Cachexia
+HP:0004334	Skin atrophy
+HP:0004386	Gastrointestinal inflammation
+HP:0004387	Enterocolitis
+HP:0004389	Intestinal pseudo-obstruction
+HP:0004395	Malnutrition
+HP:0004396	Decreased appetite
+HP:0004398	Peptic ulcer
+HP:0004409	Hyposmia
+HP:0004417	Intermittent claudication
+HP:0004418	Thrombophlebitis
+HP:0004420	Arterial thrombosis
+HP:0004447	Poikilocytosis
+HP:0004749	Atrial flutter
+HP:0004751	Paroxysmal ventricular tachycardia
+HP:0004755	Supraventricular tachycardia
+HP:0004756	Ventricular tachycardia
+HP:0004757	Paroxysmal atrial fibrillation
+HP:0004789	Lactose intolerance
+HP:0004796	Gastrointestinal obstruction
+HP:0004808	Acute myeloid leukaemia
+HP:0004818	Paroxysmal nocturnal haemoglobinuria
+HP:0004836	Acute promyelocytic leukaemia
+HP:0004840	Hypochromic microcytic anemia
+HP:0004872	Incisional hernia
+HP:0004934	Vascular calcification
+HP:0004936	Venous thrombosis
+HP:0004942	Aortic aneurysm
+HP:0004944	Intracranial aneurysm
+HP:0004947	Arteriovenous fistula
+HP:0005101	High frequency deafness
+HP:0005110	Atrial fibrillation
+HP:0005112	Abdominal aortic aneurysm
+HP:0005145	Coronary artery stenosis
+HP:0005162	Left ventricular dysfunction
+HP:0005200	Retroperitoneal fibrosis
+HP:0005206	Pancreatic pseudocyst
+HP:0005214	Intestinal obstruction
+HP:0005224	Rectal abscess
+HP:0005263	Gastritis
+HP:0005293	Venous insufficiency
+HP:0005305	Cerebral thrombosis
+HP:0005505	Refractory anemia
+HP:0005506	Chronic myeloid leukaemia
+HP:0005521	Disseminated intravascular coagulation
+HP:0005523	Lymphoproliferative disorder
+HP:0005543	Protein C deficiency
+HP:0005547	Myeloproliferative disorder
+HP:0005550	Chronic lymphocytic leukaemia
+HP:0005558	Toxic epidermal necrolysis
+HP:0005584	Renal cell carcinoma
+HP:0005681	Juvenile idiopathic arthritis
+HP:0005943	Respiratory arrest
+HP:0005972	Respiratory acidosis
+HP:0005973	Fructose intolerance
+HP:0006510	Chronic obstructive pulmonary disease
+HP:0006517	Alveolar proteinosis
+HP:0006530	Interstitial lung disease
+HP:0006554	Acute hepatic failure
+HP:0006573	Acute fatty liver
+HP:0006579	Jaundice neonatal
+HP:0006671	Paroxysmal atrial tachycardia
+HP:0006682	Ventricular extrasystoles
+HP:0006685	Endocardial fibrosis
+HP:0006721	Acute lymphocytic leukaemia
+HP:0006744	Adrenal carcinoma
+HP:0006767	Prolactinoma
+HP:0006772	Angiomyolipoma
+HP:0006824	Cranial nerve paralysis
+HP:0006896	Hypnopompic hallucination
+HP:0006970	Periventricular leukomalacia
+HP:0007018	Attention deficit disorder
+HP:0007178	Peripheral motor neuropathy
+HP:0007185	Loss of consciousness
+HP:0007209	Facial paralysis
+HP:0007302	Bipolar disorder
+HP:0007359	Partial seizures
+HP:0007379	Genitourinary tract neoplasm
+HP:0007417	Discoid lupus erythematosus
+HP:0007430	Generalised oedema
+HP:0007641	Colour blindness
+HP:0007705	Corneal degeneration
+HP:0007787	Posterior subcapsular cataract
+HP:0007902	Vitreous haemorrhage
+HP:0007906	Ocular hypertension
+HP:0007957	Corneal opacity
+HP:0007994	Tunnel vision
+HP:0008064	Ichthyosis
+HP:0008066	Blister
+HP:0008069	Skin cancer
+HP:0008070	Hypotrichosis
+HP:0008207	Addison's disease
+HP:0008209	Premature menopause
+HP:0008326	Vitamin B6 deficiency
+HP:0008404	Nail dystrophy
+HP:0008568	Vestibular ataxia
+HP:0008661	Urethral stenosis
+HP:0008665	Enlarged clitoris
+HP:0008682	Renal tubular necrosis
+HP:0008711	Benign prostatic hyperplasia
+HP:0008760	Violent behavior
+HP:0008940	Generalized lymphadenopathy
+HP:0008947	Floppy infant
+HP:0009027	Footdrop
+HP:0009059	Congenital generalised lipodystrophy
+HP:0009125	Lipodystrophy
+HP:0009592	Astrocytoma
+HP:0009725	Bladder neoplasm
+HP:0009726	Renal neoplasm
+HP:0009733	Glioma
+HP:0009741	Nephrosclerosis
+HP:0009798	Euthyroid goiter
+HP:0009800	Gestational diabetes
+HP:0009806	Nephrogenic diabetes insipidus
+HP:0009827	Amelia
+HP:0009829	Phocomelia
+HP:0009830	Neuropathy
+HP:0009831	Mononeuropathy
+HP:0009900	Deafness unilateral
+HP:0010280	Stomatitis
+HP:0010307	Stridor
+HP:0010310	Chylothorax
+HP:0010313	Breast enlargement
+HP:0010442	Polydactyly
+HP:0010447	Anal fistula
+HP:0010475	Cloacal exstrophy
+HP:0010522	Dyslexia
+HP:0010524	Agnosia
+HP:0010526	Dysgraphia
+HP:0010529	Echolalia
+HP:0010534	Transient global amnesia
+HP:0010550	Paraplegia
+HP:0010553	Oculogyric crisis
+HP:0010566	Hamartoma
+HP:0010605	Chalazion
+HP:0010606	Hordeolum
+HP:0010614	Fibroma
+HP:0010619	Fibroadenosis of breast
+HP:0010622	Bone neoplasm
+HP:0010628	Bell's palsy
+HP:0010677	Nocturnal enuresis
+HP:0010702	Hypergammaglobulinaemia
+HP:0010741	Leg edema
+HP:0010750	Dermatochalasis
+HP:0010769	Pilonidal cyst
+HP:0010780	Hyperacusis
+HP:0010783	Erythema
+HP:0010784	Uterine neoplasm
+HP:0010822	Scintillating scotoma
+HP:0010871	Sensory ataxia
+HP:0010885	Aseptic necrosis
+HP:0011001	Osteosclerosis
+HP:0011032	Fluid imbalance
+HP:0011034	Amyloidosis
+HP:0011096	Demyelination
+HP:0011107	Aphthous stomatitis
+HP:0011109	Chronic sinusitis
+HP:0011273	Anisocytosis
+HP:0011359	Dry hair
+HP:0011450	Central nervous system infection
+HP:0011458	Abdominal symptom
+HP:0011499	Mydriasis
+HP:0011508	Macular hole
+HP:0011623	Muscular ventricular septal defect
+HP:0011675	Arrhythmia
+HP:0011701	Multifocal atrial tachycardia
+HP:0011703	Sinus tachycardia
+HP:0011704	Sick sinus syndrome
+HP:0011709	Atrioventricular dissociation
+HP:0011710	Bundle branch block
+HP:0011726	Persistent foetal circulation
+HP:0011734	Secondary adrenal insufficiency
+HP:0011841	Ventricular flutter
+HP:0011848	Abdominal colic
+HP:0011850	Parotitis
+HP:0011855	Pharyngeal oedema
+HP:0011856	Pica
+HP:0011857	Plasmacytoma
+HP:0011859	Punctate keratitis
+HP:0011868	Sciatica
+HP:0011874	Heparin-induced thrombocytopenia
+HP:0011896	Subconjunctival hemorrhage
+HP:0011897	Neutrophilia
+HP:0011946	Obliterative bronchiolitis
+HP:0011947	Respiratory tract infection
+HP:0011950	Bronchiolitis
+HP:0011953	Pulmonary lymphoma
+HP:0011958	Retinal tear
+HP:0011967	Copper deficiency
+HP:0011974	Myelofibrosis
+HP:0011985	Acholia
+HP:0011986	Ectopic ossification
+HP:0011999	Paranoia
+HP:0012027	Laryngeal oedema
+HP:0012028	Hepatic adenoma
+HP:0012032	Lipoma
+HP:0012040	Corneal stromal edema
+HP:0012048	Oromandibular dystonia
+HP:0012049	Spasmodic dysphonia
+HP:0012075	Personality disorder
+HP:0012085	Pyuria
+HP:0012089	Arteritis
+HP:0012109	Angle closure glaucoma
+HP:0012115	Hepatitis
+HP:0012117	Hyperalbuminaemia
+HP:0012118	Laryngeal cancer
+HP:0012121	Panuveitis
+HP:0012122	Anterior uveitis
+HP:0012123	Posterior uveitis
+HP:0012125	Prostate cancer
+HP:0012126	Gastric cancer
+HP:0012154	Anhedonia
+HP:0012164	Asterixis
+HP:0012166	Dermatillomania
+HP:0012167	Trichotillomania
+HP:0012174	Glioblastoma
+HP:0012182	Oropharyngeal squamous cell carcinoma
+HP:0012185	Carpal tunnel syndrome
+HP:0012188	Hyperemesis gravidarum
+HP:0012190	T-cell lymphoma
+HP:0012191	B-cell lymphoma
+HP:0012192	Cutaneous T-cell lymphoma
+HP:0012193	Anaplastic large-cell lymphoma
+HP:0012196	Cheyne-Stokes respiration
+HP:0012197	Insulinoma
+HP:0012199	Cluster headache
+HP:0012203	Onychomycosis
+HP:0012219	Erythema nodosum
+HP:0012223	Splenic rupture
+HP:0012231	Serous retinal detachment
+HP:0012234	Agranulocytosis
+HP:0012276	Trigger finger
+HP:0012302	Herpes simplex encephalitis
+HP:0012311	Monocytosis
+HP:0012317	Sacroiliitis
+HP:0012318	Occipital neuralgia
+HP:0012324	Myeloid leukaemia
+HP:0012325	Chronic myelomonocytic leukaemia
+HP:0012330	Pyelonephritis
+HP:0012332	Autonomic dysfunction
+HP:0012375	Chemosis
+HP:0012377	Hemianopia
+HP:0012378	Fatigue
+HP:0012384	Ataxia
+HP:0012387	Bronchitis
+HP:0012388	Acute bronchitis
+HP:0012390	Anal fissure
+HP:0012395	Seasonal allergy
+HP:0012399	Decubitus ulcer
+HP:0012410	Red cell aplasia
+HP:0012416	Hypercapnia
+HP:0012417	Hypocapnia
+HP:0012418	Hypoxia
+HP:0012424	Chorioretinitis
+HP:0012441	Sphincter of Oddi dysfunction
+HP:0012450	Infrequent bowel movements
+HP:0012452	Restless legs syndrome
+HP:0012461	Bacteriuria
+HP:0012474	Carotid artery occlusion
+HP:0012486	Myelitis
+HP:0012490	Panniculitis
+HP:0012492	Cerebral artery stenosis
+HP:0012514	Leg pain
+HP:0012531	Pain
+HP:0012532	Chronic pain
+HP:0012533	Allodynia
+HP:0012534	Dysaesthesia
+HP:0012537	Food intolerance
+HP:0012592	Albuminuria
+HP:0012594	Microalbuminuria
+HP:0012622	Chronic kidney disease
+HP:0012636	Retinal vein occlusion
+HP:0012651	Abasia
+HP:0012653	Status asthmaticus
+HP:0012723	Sinoatrial block
+HP:0012733	Macule
+HP:0012735	Cough
+HP:0012740	Papilloma
+HP:0012743	Central obesity
+HP:0012798	Lymphangioleiomyomatosis
+HP:0012819	Myocarditis
+HP:0012871	Varicocele
+HP:0012875	Abnormal ejaculation
+HP:0012876	Premature ejaculation
+HP:0012877	Retrograde ejaculation
+HP:0012883	Fallopian tube cyst
+HP:0016266	Stevens-Johnson syndrome
+HP:0020074	Crystalluria
+HP:0020083	Furuncle
+HP:0020084	Carbuncle
+HP:0020102	Pneumocystis jirovecii pneumonia
+HP:0020166	Central retinal vein occlusion
+HP:0020225	Breast abscess
+HP:0020226	Nipple tenderness
+HP:0025017	Capillary fragility
+HP:0025044	Lung abscess
+HP:0025066	Microcytosis
+HP:0025079	Pancreatic abscess
+HP:0025084	Folliculitis
+HP:0025085	Blood in stool
+HP:0025088	Onychomadesis
+HP:0025127	Actinic keratosis
+HP:0025130	Lactase deficiency
+HP:0025143	Chills
+HP:0025144	Shivering
+HP:0025145	Rigors
+HP:0025187	Sleep talking
+HP:0025230	Tendonitis
+HP:0025232	Bursitis
+HP:0025233	Sleep paralysis
+HP:0025234	Parasomnia
+HP:0025236	Somnambulism
+HP:0025238	Foot pain
+HP:0025247	Dermoid cyst
+HP:0025253	Claustrophobia
+HP:0025258	Neck stiffness
+HP:0025267	Snoring
+HP:0025268	Stuttering
+HP:0025269	Panic attack
+HP:0025272	Chloasma
+HP:0025314	Choroidal nevus
+HP:0025318	Ovarian carcinoma
+HP:0025322	Venous occlusion
+HP:0025324	Arterial occlusion
+HP:0025326	Retinal artery occlusion
+HP:0025328	Antepartum hemorrhage
+HP:0025383	Buffalo hump
+HP:0025387	Pill rolling
+HP:0025388	Thyroid nodule
+HP:0025406	Asthenia
+HP:0025418	Renal cortical necrosis
+HP:0025421	Pneumomediastinum
+HP:0025425	Laryngospasm
+HP:0025439	Pharyngitis
+HP:0025452	Pyoderma gangrenosum
+HP:0025470	Telogen effluvium
+HP:0025615	Abscess
+HP:0025636	Endometritis
+HP:0025637	Vasospasm
+HP:0025691	Impaired fasting glucose
+HP:0025694	Pituitary microadenoma
+HP:0025804	Lymph node pain
+HP:0030011	Imperforate hymen
+HP:0030014	Female sexual dysfunction
+HP:0030015	Female orgasmic disorder
+HP:0030016	Dyspareunia
+HP:0030017	Vaginismus
+HP:0030049	Brain abscess
+HP:0030050	Narcolepsy
+HP:0030051	Toe walking
+HP:0030053	Skin induration
+HP:0030061	Neuroectodermal neoplasm
+HP:0030127	Endometriosis
+HP:0030142	Abnormal bowel sounds
+HP:0030143	Borborygmi
+HP:0030148	Cardiac murmur
+HP:0030149	Cardiogenic shock
+HP:0030151	Cholangitis
+HP:0030153	Cholangiocarcinoma
+HP:0030155	Scrotal pain
+HP:0030157	Flank pain
+HP:0030159	Cervical polyp
+HP:0030160	Cervicitis
+HP:0030166	Night sweats
+HP:0030186	Essential tremor
+HP:0030213	Flat affect
+HP:0030218	Punding
+HP:0030223	Perseveration
+HP:0030242	Portal vein thrombosis
+HP:0030243	Hepatic vein thrombosis
+HP:0030249	Enanthema
+HP:0030318	Angular cheilitis
+HP:0030357	Small cell lung cancer
+HP:0030358	Non-small cell lung cancer
+HP:0030430	Neuroma
+HP:0030683	Vulvovaginitis
+HP:0030692	Brain neoplasm
+HP:0030731	Carcinoma
+HP:0030746	Intraventricular haemorrhage
+HP:0030757	Tooth abscess
+HP:0030760	Kidney fibrosis
+HP:0030764	Ochronosis
+HP:0030765	Sleep terror
+HP:0030766	Ear pain
+HP:0030769	Exencephaly
+HP:0030784	Word finding difficulty
+HP:0030786	Photopsia
+HP:0030812	Tonsillar hypertrophy
+HP:0030816	Gingival recession
+HP:0030828	Wheezing
+HP:0030830	Rales
+HP:0030831	Rhonchi
+HP:0030833	Neck pain
+HP:0030834	Shoulder pain
+HP:0030839	Knee pain
+HP:0030843	Cardiac amyloidosis
+HP:0030880	Raynaud's phenomenon
+HP:0030947	Conjunctival follicles
+HP:0030953	Conjunctival hyperaemia
+HP:0030955	Alcoholism
+HP:0031002	Neuritis
+HP:0031003	Polyneuritis
+HP:0031041	Superior vena cava syndrome
+HP:0031088	Vaginal dryness
+HP:0031179	Nuchal rigidity
+HP:0031189	Wrist drop
+HP:0031218	Inappropriate antidiuretic hormone secretion
+HP:0031244	Lip swelling
+HP:0031245	Productive cough
+HP:0031246	Dry cough
+HP:0031249	Dysgeusia
+HP:0031258	Delirium
+HP:0031273	Shock
+HP:0031284	Flushing
+HP:0031352	Chest tightness
+HP:0031355	Middle insomnia
+HP:0031356	Terminal insomnia
+HP:0031363	Palpable purpura
+HP:0031364	Ecchymosis
+HP:0031368	Intestinal perforation
+HP:0031370	Small intestinal perforation
+HP:0031456	Ectopic pregnancy
+HP:0031473	Anger
+HP:0031475	Nonconvulsive status epilepticus
+HP:0031520	Groin pain
+HP:0031525	Keratoacanthoma
+HP:0031549	Lymphocytoma cutis
+HP:0031589	Suicidal ideation
+HP:0031590	Asthenopia
+HP:0031615	Hypopyon
+HP:0031616	Anterior chamber flare
+HP:0031649	Aortic rupture
+HP:0031676	Monomorphic ventricular tachycardia
+HP:0031690	Opportunistic infection
+HP:0031777	Cyclophoria
+HP:0031807	Basophilia
+HP:0031843	Bradyphrenia
+HP:0031844	Euphoric mood
+HP:0031846	Femur fracture
+HP:0031943	Akathisia
+HP:0031944	Pleural thickening
+HP:0031956	Aspartate aminotransferase increased
+HP:0031964	Alanine aminotransferase increased
+HP:0031967	Cloudy urine
+HP:0031972	Presyncope
+HP:0031987	Poor concentration
+HP:0032000	Pleural rub
+HP:0032004	Pruritus vulvae
+HP:0032007	Skin maceration
+HP:0032008	Fat embolism
+HP:0032020	Eosinophilic cystitis
+HP:0032024	Ileal ulcer
+HP:0032043	Odynophagia
+HP:0032061	Hypereosinophilia
+HP:0032071	Pulmonary eosinophilia
+HP:0032106	Scleral icterus
+HP:0032118	Retinitis
+HP:0032131	Cervical dysplasia
+HP:0032141	Precordial pain
+HP:0032142	Foetor hepaticus
+HP:0032143	Burning mouth
+HP:0032147	Erythromelalgia
+HP:0032149	Breakthrough pain
+HP:0032152	Keratosis pilaris
+HP:0032155	Abdominal cramps
+HP:0032163	Molluscum contagiosum
+HP:0032168	Clostridium difficile colitis
+HP:0032171	Bladder pain
+HP:0032192	Hydatidiform mole
+HP:0032227	Sebaceous hyperplasia
+HP:0032252	Granuloma
+HP:0032256	Histoplasmosis
+HP:0032310	Granulocytosis
+HP:0032326	Methicillin-resistant Staphylococcus aureus infection
+HP:0032368	Acidemia
+HP:0032408	Breast mass
+HP:0032504	Lhermitte's sign
+HP:0032510	Tendon pain
+HP:0032545	Abdominal rigidity
+HP:0032551	Haemorrhoids
+HP:0032564	Ileitis
+HP:0032620	Renal abscess
+HP:0032632	Renal papillary necrosis
+HP:0032940	Dissociation
+HP:0033000	Laryngitis
+HP:0033005	Plantar warts
+HP:0033031	Hyperpyrexia
+HP:0033113	Gallop rhythm
+HP:0033117	Duodenitis
+HP:0033126	Skin necrosis
+HP:0033134	Abdominal adhesions
+HP:0033136	Lymph node abscess
+HP:0033165	Necrotizing enterocolitis
+HP:0033256	Pancolitis
+HP:0033279	Enterocutaneous fistula
+HP:0033345	Neuralgia
+HP:0033361	Nasal ulcer
+HP:0033400	Acute abdomen
+HP:0033415	Cardiac tamponade
+HP:0033425	Periungual erythema
+HP:0033431	Cytomegalovirus colitis
+HP:0033434	Nasal septum perforation
+HP:0033505	Livedo reticularis
+HP:0033521	Nasal dryness
+HP:0033543	Nicotine dependence
+HP:0033589	Flatulence
+HP:0033631	Spondylitis
+HP:0033677	Acute respiratory distress syndrome
+HP:0033678	Acute coronary syndrome
+HP:0033687	Short-term memory loss
+HP:0033688	Long-term memory loss
+HP:0033689	Anterograde amnesia
+HP:0033690	Retrograde amnesia
+HP:0033705	Tearfulness
+HP:0033710	Dyspnoea at rest
+HP:0033748	Hypoaesthesia
+HP:0033794	Acromegaly
+HP:0033808	Spermatocele
+HP:0033821	Pulmonary mass
+HP:0033834	Malaise
+HP:0033838	Dysphoria
+HP:0033839	Testicular pain
+HP:0033842	Early satiety
+HP:0033850	Coldness
+HP:0034004	Parosmia
+HP:0034192	Pulmonary thromboembolism
+HP:0034239	Renal vein thrombosis
+HP:0034265	Breast pain
+HP:0034267	Pelvic pain
+HP:0034274	Gastrointestinal ulcer
+HP:0034306	Ventricular bigeminy
+HP:0034326	Adenomyosis
+HP:0034336	Splenic infarction
+HP:0034368	Urolithiasis
+HP:0034392	Joint contracture
+HP:0034438	Balanitis
+HP:0034492	Salpingitis
+HP:0034705	Pulmonary vasculitis
+HP:0034773	Oscillopsia
+HP:0034782	Obstipation
+HP:0034786	Leukocytoclastic vasculitis
+HP:0034801	Epidermal necrosis
+HP:0034805	Buttock pain
+HP:0034808	Eyelid pain
+HP:0034881	Uterine mass
+HP:0034967	Uterine cyst
+HP:0040049	Macular oedema
+HP:0040075	Hypopituitarism
+HP:0040141	Tardive dyskinesia
+HP:0040165	Periostitis
+HP:0040181	Chapped lips
+HP:0040188	Osteochondrosis
+HP:0040212	Risus sardonicus
+HP:0040213	Shallow breathing
+HP:0040223	Pulmonary haemorrhage
+HP:0040242	Muscle haemorrhage
+HP:0040270	Glucose tolerance decreased
+HP:0040307	Male sexual dysfunction
+HP:0040315	Tongue oedema
+HP:0040323	Erythema of eyelid
+HP:0040403	Breast microcalcification
+HP:0040407	Mastitis
+HP:0040411	Penile pain
+HP:0041051	Ageusia
+HP:0041055	Humerus fracture
+HP:0041081	Lower limb fracture
+HP:0041092	Hypersensitivity
+HP:0041153	Ankle fracture
+HP:0041161	Pelvic fracture
+HP:0041248	Wrist fracture
+HP:0045005	Neural tube defect
+HP:0045073	Serositis
+HP:0046502	Anorgasmia
+HP:0046505	Hand pain
+HP:0100022	Movement disorder
+HP:0100242	Sarcoma
+HP:0100247	Hiccups
+HP:0100255	Metaphyseal dysplasia
+HP:0100280	Crohn's disease
+HP:0100309	Subdural haematoma
+HP:0100310	Epidural haemorrhage
+HP:0100324	Scleroderma
+HP:0100495	Mastocytosis
+HP:0100502	Vitamin B12 deficiency
+HP:0100507	Folate deficiency
+HP:0100518	Dysuria
+HP:0100519	Anuria
+HP:0100520	Oliguria
+HP:0100523	Liver abscess
+HP:0100532	Scleritis
+HP:0100534	Episcleritis
+HP:0100537	Fasciitis
+HP:0100539	Periorbital oedema
+HP:0100540	Eyelid oedema
+HP:0100543	Cognitive impairment
+HP:0100546	Carotid artery stenosis
+HP:0100550	Tendon rupture
+HP:0100570	Carcinoid tumour
+HP:0100576	Amaurosis fugax
+HP:0100578	Lipoatrophy
+HP:0100580	Barrett's oesophagus
+HP:0100582	Nasal polyps
+HP:0100583	Corneal perforation
+HP:0100584	Endocarditis
+HP:0100590	Rectal fistula
+HP:0100601	Eclampsia
+HP:0100602	Pre-eclampsia
+HP:0100608	Metrorrhagia
+HP:0100614	Myositis
+HP:0100615	Ovarian cancer
+HP:0100626	Chronic hepatic failure
+HP:0100633	Oesophagitis
+HP:0100639	Erectile dysfunction
+HP:0100644	Melanonychia
+HP:0100645	Cystocele
+HP:0100646	Thyroiditis
+HP:0100650	Vaginal neoplasm
+HP:0100653	Optic neuritis
+HP:0100658	Cellulitis
+HP:0100660	Dyskinesia
+HP:0100661	Trigeminal neuralgia
+HP:0100665	Angioedema
+HP:0100694	Tibial torsion
+HP:0100718	Uterine rupture
+HP:0100723	Gastrointestinal stromal tumour
+HP:0100724	Thrombophilia
+HP:0100725	Lichenification
+HP:0100726	Kaposi's sarcoma
+HP:0100727	Histiocytosis
+HP:0100735	Hypertensive crisis
+HP:0100739	Bulimia
+HP:0100749	Chest discomfort
+HP:0100750	Atelectasis
+HP:0100753	Schizophrenia
+HP:0100754	Hypomania
+HP:0100758	Gangrene
+HP:0100762	Haemobilia
+HP:0100768	Choriocarcinoma
+HP:0100769	Synovitis
+HP:0100774	Hyperostosis
+HP:0100785	Insomnia
+HP:0100786	Hypersomnia
+HP:0100790	Hernia
+HP:0100796	Orchitis
+HP:0100806	Sepsis
+HP:0100817	Renovascular hypertension
+HP:0100822	Rectocele
+HP:0100825	Cheilitis
+HP:0100827	Lymphocytosis
+HP:0100829	Galactorrhoea
+HP:0100832	Vitreous floaters
+HP:0100845	Anaphylactic shock
+HP:0100963	Hyperaesthesia
+HP:0200020	Corneal erosion
+HP:0200023	Priapism
+HP:0200026	Eye pain
+HP:0200029	Cutaneous vasculitis
+HP:0200034	Papule
+HP:0200036	Skin nodule
+HP:0200039	Pustule
+HP:0200041	Skin erosion
+HP:0200042	Skin ulcer
+HP:0200043	Warts
+HP:0200114	Metabolic alkalosis
+HP:0200120	Hepatitis chronic active
+HP:0200123	Chronic hepatitis
+HP:0400008	Menometrorrhagia
+HP:0410017	Otitis externa
+HP:0410019	Epigastric pain
+HP:0410030	Cleft lip
+HP:0410175	Ketonemia
+HP:0410281	Dyspepsia
+HP:0410291	Negativism
+HP:0500001	Body odor
+HP:0500005	Proctalgia
+HP:0500006	Urethritis
+HP:0500043	Eyelid retraction
+HP:0500049	Retinopathy of prematurity
+HP:0500093	Food allergy
+HP:0500094	Latex allergy
+HP:4000007	Bronchospasm
+HP:4000047	Compression fracture
+HP:5200038	Slow speech
+HP:5200214	Somatic hallucination
+HP:5200227	Thought blocking
+HP:5200231	Hypervigilance
+HP:5200232	Phobia
+HP:5200234	Flight of ideas
+HP:5200273	Depressed mood
+HP:5200321	Hypersexuality
+HP:5200424	Delusional perception
+HP:6000011	Feelings of worthlessness
+HP:6000060	Aerophagia
+HP:6000076	Renal vasculitis
+HP:6000087	Penile oedema
+HP:6000106	Costovertebral angle tenderness
+HP:6000143	Appendicitis
+HP:6000154	Bone marrow granuloma
+HP:6000321	Labile hypertension
+HP:6000364	Synovial cyst
+HP:6000377	Pneumatosis intestinalis
+HP:6000383	Gastric perforation
+HP:6000655	Femoral neck fracture
+HP:6000793	Black spot
+HP:6000852	Megacolon
+HP:6000855	Cold intolerance
+HP:6000933	Koebner phenomenon
+HP:6001046	Breast cyst
+HP:6001125	Skin laceration
+HP:6001182	Bullous keratopathy
+HP:6001193	Conjunctival xerosis
+HP:6001260	Gallbladder polyp
+HP:6001267	Halo vision
+HP:6001302	Aphakia
+HP:6001359	Subcutaneous abscess
+HPO_ID	meddra_pt
