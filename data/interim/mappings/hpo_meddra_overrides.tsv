@@ -5,3 +5,24 @@ HP:0016266	Stevens-Johnson syndrome
 HP:0005558	Toxic epidermal necrolysis
 hpo_id	meddra_pt
 HP:0003236	Blood creatine phosphokinase increased
+# --- simvastatin: 肌肉毒性 + 肝酶升高 ---
+HP:0003198	Myopathy
+HP:0003201	Rhabdomyolysis
+HP:0003236	Blood creatine phosphokinase increased
+HP:0031964	Alanine aminotransferase increased
+HP:0031956	Aspartate aminotransferase increased
+
+# --- carbamazepine: 电解质/血液毒性 + 已有 SJS/TEN/皮疹/共济失调 ---
+HP:0002902	Hyponatraemia
+HP:0012234	Agranulocytosis
+HP:0001915	Aplastic anaemia
+HP:0001876	Pancytopenia
+HP:0001882	Leukopenia
+HP:0001873	Thrombocytopenia
+
+# --- 两个药都常见的一般不适（如果你想把“常见 AE”覆盖得更全，可以加） ---
+HP:0002018	Nausea
+HP:0002013	Vomiting
+HP:0002321	Dizziness
+HP:0002829	Arthralgia
+HP:0003326	Myalgia

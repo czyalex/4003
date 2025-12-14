@@ -1,0 +1,12 @@
+DEMO SCRIPT (2–3 min)
+
+1) Show repo structure.
+2) Run one-liner:
+   - Windows: powershell -ExecutionPolicy Bypass -File scripts/midterm_demo.ps1
+   - Mac/Linux: python scripts/make_midterm_artifacts.py
+3) Open reports/midterm_YYYY-MM-DD:
+   - r1_paths.csv (evidence chains)
+   - shacl_report.txt (Conforms: True)
+   - triple_counts.txt / predicate_usage.csv
+   - eval_stdout.txt (P@10 / nDCG@10 numbers)
+4) Close with next steps: replace toy with real IDs; add CPIC prior; expand mappings.

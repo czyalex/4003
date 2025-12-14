@@ -1,0 +1,16 @@
+﻿hpo:
+  - {name: genes_to_phenotype.txt, url: "<PUT_HPO_GENES_TO_PHENOTYPE_URL>"}
+  - {name: hp.json,                 url: "<PUT_HPO_HP_JSON_URL>"}
+hgnc:
+  - {name: hgnc_complete_set.txt,   url: "<PUT_HGNC_COMPLETE_SET_URL>"}
+uniprot:
+  - {name: idmapping_selected.tab,  url: "<PUT_UNIPROT_IDMAPPING_URL>"}
+chembl:
+  - {name: targets.csv,             url: "<PUT_CHEMBL_TARGETS_EXPORT_URL>"}
+  - {name: mechanisms.csv,          url: "<PUT_CHEMBL_MECHANISMS_EXPORT_URL>"}
+drugcentral:
+  - {name: structures.csv,          url: "<PUT_DRUGCENTRAL_STRUCTURES_URL>"}
+  - {name: target_mapping.csv,      url: "<PUT_DRUGCENTRAL_TARGETS_URL>"}
+sider:
+  - {name: drug_names.tsv.gz,       url: "<PUT_SIDER_DRUG_NAMES_URL>"}
+  - {name: meddra_all_se.tsv.gz,    url: "<PUT_SIDER_MEDDRA_ALL_SE_URL>"}

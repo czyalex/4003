@@ -1,0 +1,3 @@
+﻿drug_id	target_uniprot_or_name	confidence	ref
+CHEMBL109	P04035	1.0	HMGCR primary target
+CHEMBL481	P35498	0.8	Voltage-gated sodium channel (placeholder)

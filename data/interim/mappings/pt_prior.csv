@@ -1,0 +1,4252 @@
+meddra_pt,prior
+Dizziness,1.0
+Asthenia,0.979928
+Dermatitis,0.972663
+Nausea,0.959843
+Rash,0.954392
+Musculoskeletal discomfort,0.953534
+Headache,0.951035
+Vomiting,0.946119
+Diarrhoea,0.943011
+Feeling abnormal,0.941252
+Pruritus,0.928119
+Abdominal pain,0.925755
+Hypersensitivity,0.922401
+Decreased appetite,0.918402
+Pain,0.916995
+Gastrointestinal disorder,0.914568
+Body temperature increased,0.909279
+Dyspepsia,0.908979
+Urticaria,0.908678
+Gastrointestinal pain,0.907012
+Somnolence,0.903459
+Anaphylactic shock,0.902989
+Hyperhidrosis,0.898029
+Fatigue,0.894394
+Paraesthesia,0.893047
+Skin disorder,0.891687
+Hypotension,0.890313
+Constipation,0.889794
+Shock,0.888575
+Dyspnoea,0.8884
+Insomnia,0.883403
+Muscle spasms,0.881018
+Cough,0.879154
+Chest pain,0.875925
+Agitation,0.874378
+Nervous system disorder,0.873402
+Discomfort,0.873402
+Infection,0.868411
+Tachycardia,0.867391
+Thrombocytopenia,0.86698
+Arthralgia,0.866774
+Erythema multiforme,0.865117
+Loss of consciousness,0.864909
+Oedema,0.86174
+Hypertension,0.860667
+Anxiety,0.858931
+Myalgia,0.858275
+Erythema,0.857615
+Dry mouth,0.855616
+Confusional state,0.8506
+Convulsion,0.850134
+Angioedema,0.849667
+Chills,0.848728
+Anaemia,0.847307
+Dysgeusia,0.846351
+Malaise,0.846111
+Visual impairment,0.845871
+Leukopenia,0.845147
+Back pain,0.844662
+Syncope,0.842951
+Palpitations,0.841715
+Tremor,0.841466
+Vertigo,0.839966
+Flatulence,0.838193
+Ill-defined disorder,0.836138
+Neuropathy peripheral,0.83273
+Vision blurred,0.831396
+Mental disorder,0.831127
+Malnutrition,0.831127
+Oedema peripheral,0.830589
+Alopecia,0.829505
+Nervousness,0.828138
+Tension,0.825922
+Mediastinal disorder,0.824517
+Angiopathy,0.824235
+Stomatitis,0.823952
+Immune system disorder,0.822813
+Flushing,0.821664
+Renal failure,0.81963
+Eye disorder,0.81486
+Cardiac disorder,0.813641
+Arrhythmia,0.81148
+Hypoaesthesia,0.810856
+Haemorrhage,0.810543
+Pancytopenia,0.8096
+Tinnitus,0.809284
+Rhinitis,0.808649
+Connective tissue disorder,0.808649
+Photosensitivity reaction,0.808331
+Pharyngitis,0.806406
+Haemoglobin,0.805432
+Urethral disorder,0.805106
+Urinary tract disorder,0.802136
+Hepatitis,0.801467
+Bradycardia,0.798756
+Abdominal distension,0.796687
+Epistaxis,0.794231
+Sinusitis,0.793877
+Haematuria,0.793521
+Pollakiuria,0.793521
+Nasopharyngitis,0.79173
+Hallucination,0.791006
+Conjunctivitis,0.791006
+Depression,0.790643
+Urinary tract infection,0.790643
+Infestation,0.790643
+Pneumonia,0.789548
+Abdominal discomfort,0.788813
+Acute coronary syndrome,0.787702
+Agranulocytosis,0.787702
+Hepatobiliary disease,0.786956
+Hyperglycaemia,0.786582
+Myocardial infarction,0.786207
+Upper respiratory tract infection,0.783549
+Jaundice,0.783549
+Weight increased,0.783165
+Stevens-Johnson syndrome,0.782394
+Blood creatinine increased,0.782007
+Dysuria,0.782007
+Neutropenia,0.781618
+Angina pectoris,0.779659
+Pancreatitis,0.779263
+Weight decreased,0.778469
+Bronchitis,0.775244
+Bronchospasm,0.772774
+Muscular weakness,0.77194
+Eosinophilia,0.77194
+Asthma,0.768552
+Erectile dysfunction,0.767691
+Abdominal pain upper,0.765076
+Disturbance in sexual arousal,0.765076
+Influenza,0.764635
+Aspartate aminotransferase increased,0.762856
+Toxic epidermal necrolysis,0.762408
+Pain in extremity,0.760599
+Alanine aminotransferase increased,0.760143
+Dysphagia,0.755496
+Dry skin,0.75407
+Liver function test abnormal,0.75407
+Hypokalaemia,0.753111
+Osteoarthritis,0.753111
+Gastritis,0.751659
+Psychotic disorder,0.751171
+Breast disorder,0.749698
+Renal impairment,0.748208
+Arthritis,0.748208
+Anaphylactoid reaction,0.747708
+Orthostatic hypotension,0.747708
+Urinary retention,0.745178
+Hypoglycaemia,0.744666
+Affect lability,0.743637
+Dehydration,0.743119
+Mood swings,0.743119
+Face oedema,0.742078
+Dermatitis bullous,0.742078
+Cardiac arrest,0.741554
+Deafness,0.7405
+Ataxia,0.7405
+Migraine,0.7405
+Menopausal symptoms,0.738904
+Candida infection,0.738904
+Diabetes mellitus,0.737829
+Hyponatraemia,0.735653
+Purpura,0.733998
+Injury,0.732321
+Hot flush,0.731758
+Cerebrovascular accident,0.731758
+Irritability,0.731758
+Amnesia,0.731192
+Increased appetite,0.731192
+Lethargy,0.730624
+Blood alkaline phosphatase increased,0.730624
+Renal failure acute,0.72948
+Cardiac failure,0.72948
+Mental disability,0.728904
+Atrial fibrillation,0.728326
+Gastrointestinal haemorrhage,0.727162
+Sleep disorder,0.726577
+Thirst,0.725398
+Haemolytic anaemia,0.725398
+Diplopia,0.724804
+Nasal congestion,0.724208
+Dermatitis exfoliative,0.723609
+Hepatic failure,0.722404
+Polyuria,0.722404
+Swelling,0.721797
+Sepsis,0.720575
+Cardiac failure congestive,0.720575
+Thrombophlebitis,0.720575
+Libido decreased,0.720575
+Eye pain,0.718096
+Vascular purpura,0.718096
+Injection site reaction,0.716207
+Lymphadenopathy,0.716207
+Mouth ulceration,0.714933
+Gastroenteritis,0.714291
+Eczema,0.712347
+Influenza like illness,0.711035
+Vaginal infection,0.709042
+Pulmonary oedema,0.708371
+Dyskinesia,0.708371
+Blood urea increased,0.707019
+Hepatic function abnormal,0.706338
+Skin exfoliation,0.705654
+Phlebitis,0.705654
+Fluid retention,0.704966
+Ecchymosis,0.704274
+Musculoskeletal pain,0.702178
+Ear pain,0.702178
+Neoplasm,0.701472
+Dermatitis contact,0.701472
+Wheezing,0.700048
+Pulmonary embolism,0.700048
+Depressed level of consciousness,0.700048
+Dry eye,0.700048
+Urine output increased,0.700048
+Gynaecomastia,0.69933
+Hypertonia,0.697884
+Oesophagitis,0.697884
+Disorientation,0.697884
+Bladder pain,0.697884
+Coma,0.695684
+Rash maculo-papular,0.694942
+Euphoric mood,0.694197
+Hyperkinesia,0.691172
+Atrioventricular block,0.691172
+Lacrimation increased,0.691172
+Blood uric acid increased,0.691172
+Hearing impaired,0.689634
+Salivary hypersecretion,0.689634
+Aplastic anaemia,0.688858
+Photophobia,0.688858
+Hyperkalaemia,0.688078
+Respiratory failure,0.687293
+Musculoskeletal stiffness,0.687293
+Vaginal inflammation,0.685709
+Abnormal dreams,0.685709
+Injection site pain,0.68491
+Inflammation,0.68491
+Urinary incontinence,0.684107
+Hepatocellular injury,0.684107
+Bone pain,0.683298
+Ventricular tachycardia,0.682485
+Chest discomfort,0.681666
+Cystitis,0.681666
+Leukocytosis,0.680843
+Blood bilirubin increased,0.680843
+Eructation,0.680843
+Vasculitis,0.680843
+Colitis,0.67918
+Oropharyngeal pain,0.67918
+Melaena,0.678341
+Blood pressure increased,0.678341
+Disturbance in attention,0.678341
+Cataract,0.677497
+Gastrooesophageal reflux disease,0.676647
+Dysarthria,0.676647
+Neck pain,0.675792
+Cystitis noninfective,0.675792
+Hyperbilirubinaemia,0.674931
+Hiccups,0.674065
+Gait disturbance,0.674065
+Nightmare,0.673193
+Protein urine present,0.671432
+Gout,0.671432
+Skin discolouration,0.670543
+Dysmenorrhoea,0.669648
+Pallor,0.668747
+Muscle twitching,0.668747
+Acne,0.66784
+Ventricular extrasystoles,0.66784
+Aggression,0.66784
+Breast pain,0.66784
+Dysphonia,0.66784
+Hypercholesterolaemia,0.666926
+Contusion,0.666926
+Coordination abnormal,0.666926
+Neoplasm malignant,0.666926
+Liver injury,0.666006
+Cellulitis,0.66508
+Rectal haemorrhage,0.66508
+Glossitis,0.66508
+Proteinuria,0.66508
+Herpes simplex,0.664148
+Rash pustular,0.664148
+Rhabdomyolysis,0.664148
+Hepatic enzyme increased,0.664148
+Hypocalcaemia,0.663209
+Hyperuricaemia,0.663209
+Drug interaction,0.662263
+Feeling hot,0.66131
+Nocturia,0.66131
+Arthropathy,0.66131
+Vasodilation procedure,0.660351
+Eye irritation,0.660351
+Jaundice cholestatic,0.660351
+Tubulointerstitial nephritis,0.660351
+Ulcer,0.659385
+Viral infection,0.659385
+Oliguria,0.658412
+Endocrine disorder,0.656444
+Bone disorder,0.654446
+Sensory loss,0.653436
+Extrapyramidal disorder,0.653436
+Amenorrhoea,0.652418
+Glycosuria,0.652418
+Interstitial lung disease,0.652418
+Cardiovascular disorder,0.65036
+Thinking abnormal,0.65036
+Petechiae,0.649318
+Memory impairment,0.649318
+Speech disorder,0.649318
+Embolism,0.648269
+Tenderness,0.648269
+Blood disorder,0.648269
+Rhinorrhoea,0.648269
+Gamma-glutamyltransferase increased,0.646144
+Apnoea,0.646144
+Fungal infection,0.646144
+Nephrolithiasis,0.646144
+Blood triglycerides increased,0.645069
+Herpes zoster,0.645069
+Vaginal haemorrhage,0.645069
+Pleural effusion,0.643986
+Myocardial ischaemia,0.643986
+Coagulopathy,0.643986
+Myopathy,0.643986
+Extrasystoles,0.641792
+Metrorrhagia,0.641792
+Menorrhagia,0.641792
+Haemoptysis,0.640681
+Thrombosis,0.640681
+Cholestasis,0.640681
+Skin ulcer,0.639561
+Delirium,0.639561
+Hepatotoxicity,0.639561
+Glaucoma,0.639561
+Abscess,0.638432
+Mydriasis,0.638432
+Hyperaesthesia,0.637293
+Tongue disorder,0.637293
+Ageusia,0.637293
+Dermatitis atopic,0.636144
+Optic neuritis,0.636144
+Rash erythematous,0.634986
+Extravasation,0.633817
+Laryngeal pain,0.633817
+Blood creatine phosphokinase increased,0.633817
+Haemoglobin decreased,0.633817
+Neuritis,0.632638
+Oropharyngeal discomfort,0.632638
+Scotoma,0.631448
+Otitis media,0.631448
+Hypercalcaemia,0.629037
+Haematoma,0.629037
+Mania,0.629037
+Amblyopia,0.627815
+Gingivitis,0.627815
+Oral candidiasis,0.627815
+Paralysis,0.627815
+Ventricular fibrillation,0.626582
+Burning sensation,0.625337
+Laryngospasm,0.625337
+Ventricular arrhythmia,0.62408
+Transaminases increased,0.62408
+Ileus,0.62408
+Albuminuria,0.62408
+Hepatomegaly,0.62408
+Haematemesis,0.62408
+Cyanosis,0.622812
+Vaginal discharge,0.622812
+Seborrhoeic dermatitis,0.621531
+Necrosis,0.621531
+Liver disorder,0.621531
+Neuralgia,0.621531
+Blister,0.621531
+Folliculitis,0.620238
+Paranoia,0.620238
+Deep vein thrombosis,0.620238
+Nephropathy toxic,0.620238
+Peptic ulcer,0.618932
+Blood lactate dehydrogenase increased,0.618932
+Electrocardiogram QT prolonged,0.618932
+Aphasia,0.617614
+Laryngitis,0.617614
+Hypoxia,0.617614
+Pulmonary function test decreased,0.617614
+Stupor,0.617614
+Nail disorder,0.617614
+Keratitis,0.617614
+Nystagmus,0.617614
+Delusion,0.616282
+Respiratory depression,0.614937
+Laryngeal oedema,0.614937
+Cyst,0.613579
+Breast enlargement,0.613579
+Galactorrhoea,0.613579
+Hyperlipidaemia,0.613579
+Systemic lupus erythematosus,0.613579
+Vulvovaginal mycotic infection,0.612206
+Hypomagnesaemia,0.612206
+Torsade de pointes,0.610819
+Menstrual disorder,0.610819
+Suicidal ideation,0.610819
+Hypothyroidism,0.610819
+Hyperventilation,0.609418
+Intestinal obstruction,0.609418
+Flat affect,0.609418
+Mucosal inflammation,0.609418
+Thrombocytosis,0.609418
+Supraventricular tachycardia,0.608002
+Cholelithiasis,0.608002
+Psoriasis,0.608002
+Febrile neutropenia,0.606571
+Sneezing,0.606571
+Parosmia,0.606571
+Respiratory distress,0.605124
+Electrocardiogram abnormal,0.603661
+Apathy,0.603661
+Depersonalisation,0.603661
+Skin hyperpigmentation,0.602183
+Hirsutism,0.602183
+Toothache,0.602183
+Anorectal discomfort,0.602183
+Local reaction,0.600687
+Tooth disorder,0.600687
+Osteoporosis,0.600687
+Polyp,0.600687
+Haemorrhoids,0.600687
+Encephalopathy,0.599175
+Hypophosphataemia,0.599175
+Drug eruption,0.597646
+Embolism venous,0.596099
+Hypertriglyceridaemia,0.596099
+Pelvic pain,0.596099
+Blindness,0.596099
+Platelet count decreased,0.594533
+Hypokinesia,0.594533
+Libido increased,0.59295
+Respiratory tract infection,0.59295
+Menstruation irregular,0.59295
+Blepharitis,0.591347
+Vulvovaginal candidiasis,0.591347
+Multiple fractures,0.589725
+Fracture,0.589725
+Lung disorder,0.589725
+Cerebral haemorrhage,0.588083
+Gingival bleeding,0.588083
+Myoclonus,0.588083
+Night sweats,0.588083
+Akathisia,0.588083
+Hepatic necrosis,0.588083
+Pneumothorax,0.58642
+Micturition urgency,0.58642
+Completed suicide,0.58642
+Cholecystitis,0.58642
+Visual acuity reduced,0.58642
+Generalised oedema,0.58642
+Pseudomembranous colitis,0.58642
+Hypernatraemia,0.584737
+Throat irritation,0.583032
+Amylase increased,0.581305
+Lymphopenia,0.581305
+Tongue oedema,0.579556
+Sexual dysfunction,0.579556
+Foetor hepaticus,0.579556
+Urine analysis abnormal,0.579556
+Application site pain,0.577784
+Inappropriate antidiuretic hormone secretion,0.577784
+Blood glucose increased,0.577784
+Accommodation disorder,0.577784
+Leukoderma,0.575987
+Gastric ulcer,0.575987
+Azotaemia,0.575987
+Balance disorder,0.575987
+White blood cell count decreased,0.575987
+Pregnancy,0.574166
+Transient ischaemic attack,0.574166
+Nuchal rigidity,0.572321
+Suicide attempt,0.572321
+Neuroleptic malignant syndrome,0.572321
+Sudden death,0.572321
+Acidosis,0.568551
+Renal pain,0.568551
+Cardiomyopathy,0.568551
+Faecal incontinence,0.568551
+Hypothermia,0.566625
+Body temperature decreased,0.566625
+Priapism,0.566625
+Hostility,0.566625
+Hypotonia,0.566625
+Intraocular pressure increased,0.566625
+Ear disorder,0.566625
+Sinus congestion,0.564671
+Parkinsonism,0.564671
+Proctalgia,0.564671
+Bundle branch block,0.564671
+Serum sickness,0.562689
+Drug withdrawal syndrome,0.562689
+Impaired healing,0.562689
+Joint swelling,0.562689
+Nephrotic syndrome,0.562689
+Induration,0.560676
+Paraesthesia oral,0.560676
+Epigastric discomfort,0.560676
+Cognitive disorder,0.560676
+Nephropathy,0.560676
+Urine abnormality,0.560676
+Lung infiltration,0.560676
+Eyelid oedema,0.558633
+Endophthalmitis,0.558633
+Bursitis,0.558633
+Myositis,0.558633
+Furuncle,0.558633
+Nasal discomfort,0.558633
+Anorectal disorder,0.558633
+Sinus bradycardia,0.558633
+Osteonecrosis,0.558633
+Peripheral vascular disorder,0.556558
+Intracranial pressure increased,0.556558
+Prurigo,0.556558
+Pericarditis,0.556558
+Pulmonary fibrosis,0.556558
+Eye haemorrhage,0.556558
+Tongue discolouration,0.556558
+Muscle rigidity,0.554451
+Pruritus genital,0.554451
+Pancreatitis acute,0.554451
+Haemorrhage intracranial,0.55231
+Ocular hyperaemia,0.55231
+Muscle relaxant therapy,0.55231
+Cold sweat,0.55231
+Aphthous stomatitis,0.55231
+Cerebral ischaemia,0.55231
+Leukocytoclastic vasculitis,0.55231
+Fluid overload,0.550134
+Grand mal convulsion,0.550134
+Peripheral coldness,0.550134
+Altered state of consciousness,0.550134
+Bacterial infection,0.550134
+Thrombocytopenic purpura,0.550134
+Hyperreflexia,0.547922
+Muscle contractions involuntary,0.547922
+Prothrombin level increased,0.547922
+Skin striae,0.547922
+Conjunctival hyperaemia,0.545672
+Duodenal ulcer,0.545672
+Breast cancer,0.545672
+Skin irritation,0.545672
+Erythema nodosum,0.545672
+Hypertrichosis,0.545672
+Skin atrophy,0.545672
+Eye pruritus,0.543385
+Ear infection,0.541057
+Meningitis,0.541057
+Lacrimal disorder,0.541057
+Opportunistic infection,0.541057
+Haematocrit decreased,0.541057
+Respiratory arrest,0.538689
+Swelling face,0.538689
+Rash generalised,0.538689
+Loss of libido,0.538689
+Hyporeflexia,0.538689
+Arrhythmia supraventricular,0.538689
+VIIth nerve paralysis,0.538689
+Application site reaction,0.536277
+Throat tightness,0.536277
+Tooth abscess,0.536277
+Musculoskeletal chest pain,0.536277
+Depressed mood,0.536277
+Goitre,0.536277
+Dementia,0.536277
+Electrolyte imbalance,0.536277
+Fungal skin infection,0.536277
+Hernia,0.536277
+Dysaesthesia,0.533822
+Hyperthyroidism,0.533822
+Epilepsy,0.533822
+Haematochezia,0.533822
+Metabolic acidosis,0.533822
+Ileus paralytic,0.533822
+Coronary artery disease,0.53132
+Rash macular,0.53132
+Personality disorder,0.53132
+Neurotoxicity,0.53132
+Pericardial effusion,0.53132
+Cheilitis,0.53132
+Miosis,0.53132
+Ascites,0.528771
+Prostatic disorder,0.528771
+Injection site inflammation,0.528771
+Dental caries,0.528771
+Flank pain,0.528771
+Dysphoria,0.528771
+Cerebrovascular disorder,0.528771
+Dry throat,0.528771
+Rales,0.528771
+Blood potassium decreased,0.528771
+Hepatitis cholestatic,0.528771
+Periorbital oedema,0.528771
+Disseminated intravascular coagulation,0.526173
+Hypochromic anaemia,0.526173
+Oesophageal ulcer,0.526173
+Urinary hesitation,0.526173
+Dermatitis acneiform,0.526173
+Blood cholesterol increased,0.526173
+Sinus tachycardia,0.523523
+Nasal dryness,0.523523
+Respiratory tract congestion,0.523523
+Developmental delay,0.523523
+Injection site haemorrhage,0.520819
+Ejaculation disorder,0.520819
+Skin necrosis,0.520819
+Drug hypersensitivity,0.520819
+Pruritus generalised,0.520819
+Traumatic liver injury,0.520819
+Rectal tenesmus,0.520819
+Laboratory test abnormal,0.520819
+Atrophy,0.520819
+Oculogyric crisis,0.520819
+Abdominal pain lower,0.51806
+Breast tenderness,0.51806
+Instillation site pain,0.51806
+Tendonitis,0.51806
+Incontinence,0.51806
+Varicose vein,0.51806
+Cardio-respiratory arrest,0.51806
+Withdrawal syndrome,0.51806
+Nephritis,0.51806
+Non-Hodgkin's lymphoma,0.51806
+Iritis,0.51806
+Retinal disorder,0.51806
+Skin hypertrophy,0.515242
+Atrioventricular block first degree,0.515242
+Gastrointestinal tract irritation,0.515242
+Paresis,0.515242
+Pyelonephritis,0.515242
+Papilloedema,0.515242
+Rash papular,0.515242
+Atrial flutter,0.515242
+Lymphoma,0.515242
+Emotional distress,0.515242
+Feeling jittery,0.512364
+Congenital anomaly,0.512364
+Glossodynia,0.512364
+Abnormal behaviour,0.512364
+Hepatic steatosis,0.512364
+Miliaria,0.512364
+Hyperpyrexia,0.512364
+Drug dependence,0.509423
+Yawning,0.509423
+Tardive dyskinesia,0.509423
+Pigmentation disorder,0.509423
+Peripheral ischaemia,0.509423
+Cardiomegaly,0.509423
+Neurosis,0.509423
+Supraventricular extrasystoles,0.506415
+Tachypnoea,0.506415
+Breath odour,0.506415
+Musculoskeletal disorder,0.506415
+Sinus headache,0.506415
+Ischaemia,0.506415
+Cataract subcapsular,0.506415
+Hypoventilation,0.506415
+Skin cancer,0.503339
+Venous thrombosis,0.503339
+Hyperacusis,0.503339
+Uterine haemorrhage,0.503339
+Glucose tolerance impaired,0.503339
+Benign intracranial hypertension,0.503339
+Cerebral infarction,0.503339
+Pulmonary hypertension,0.503339
+Tenosynovitis,0.503339
+Sensitisation,0.50019
+Pain in jaw,0.50019
+Anuria,0.50019
+Nodule,0.50019
+Anger,0.50019
+Micturition disorder,0.50019
+Procedural pain,0.50019
+Local swelling,0.50019
+Acute respiratory distress syndrome,0.50019
+Uveitis,0.50019
+Pyuria,0.50019
+Intermittent claudication,0.50019
+Serotonin syndrome,0.50019
+Polydipsia,0.50019
+Chromaturia,0.50019
+Peritonitis,0.496965
+Skin papilloma,0.496965
+Intestinal perforation,0.496965
+Hypovolaemia,0.496965
+Sensation of foreign body,0.496965
+Cardiac murmur,0.496965
+Acute leukaemia,0.496965
+Atelectasis,0.496965
+Trismus,0.496965
+Dizziness postural,0.496965
+Lower respiratory tract infection,0.496965
+Excoriation,0.493661
+Vasospasm,0.493661
+Enterocolitis,0.493661
+Eye swelling,0.493661
+Retching,0.493661
+Stridor,0.493661
+Polyneuropathy,0.493661
+Azoospermia,0.493661
+Autoimmune disorder,0.493661
+Conjunctival oedema,0.493661
+Enteritis,0.493661
+Blood potassium increased,0.493661
+Skin odour abnormal,0.490273
+Joint stiffness,0.490273
+Swollen tongue,0.490273
+Hemiplegia,0.490273
+Renal tubular necrosis,0.490273
+Skin mass,0.490273
+Septic shock,0.490273
+Conjunctival haemorrhage,0.490273
+Telangiectasia,0.490273
+Retinal haemorrhage,0.490273
+Alcohol intolerance,0.490273
+Hypoaesthesia oral,0.486796
+Peripheral sensory neuropathy,0.486796
+Dependence,0.486796
+Multi-organ failure,0.486796
+Breast feeding,0.486796
+Epididymitis,0.486796
+Brain oedema,0.483228
+Presyncope,0.483228
+Lipase increased,0.483228
+Hyperphosphataemia,0.483228
+Infarction,0.483228
+Dyspnoea exertional,0.483228
+Malignant melanoma,0.483228
+Rheumatoid arthritis,0.483228
+Scab,0.479561
+Splenomegaly,0.479561
+Injection site swelling,0.479561
+Panic attack,0.479561
+Diverticulitis,0.479561
+Toxicity to various agents,0.479561
+Colitis ischaemic,0.479561
+Abnormal faeces,0.479561
+Skin infection,0.479561
+Hypoproteinaemia,0.479561
+Lymphocytosis,0.479561
+Photopsia,0.479561
+Otitis externa,0.479561
+Atrioventricular block complete,0.475791
+Skin lesion,0.475791
+Neurological symptom,0.475791
+Angle closure glaucoma,0.475791
+Herpes virus infection,0.475791
+Oral pain,0.475791
+Hypomania,0.475791
+Pulmonary congestion,0.475791
+Eye infection,0.475791
+Uterine leiomyoma,0.475791
+Lacrimal structural disorder,0.475791
+Increased bronchial secretion,0.475791
+Electrocardiogram change,0.475791
+Torticollis,0.475791
+Duodenitis,0.475791
+Hypertensive crisis,0.475791
+Application site irritation,0.471912
+Hyperkeratosis,0.471912
+Hyperaemia,0.471912
+Sciatica,0.471912
+Sensory disturbance,0.471912
+Tumour lysis syndrome,0.471912
+Feeling cold,0.471912
+Catatonia,0.471912
+Salivary gland enlargement,0.471912
+Antinuclear antibody positive,0.471912
+Fibrosis,0.467917
+Leukaemia,0.467917
+Drug abuse,0.467917
+Ovarian cyst,0.467917
+Lipohypertrophy,0.467917
+Growth retardation,0.467917
+Renal failure chronic,0.467917
+Henoch-Schonlein purpura,0.467917
+Ulcerative keratitis,0.467917
+Neutrophil count decreased,0.467917
+Sunburn,0.463799
+Atrioventricular block second degree,0.463799
+Hypersomnia,0.463799
+Tetany,0.463799
+Injection site erythema,0.463799
+Tendon rupture,0.463799
+Hyperlactacidaemia,0.463799
+Chronic obstructive pulmonary disease,0.463799
+Cushing's syndrome,0.463799
+Muscle atrophy,0.463799
+Abdominal tenderness,0.45955
+Major depression,0.45955
+Enuresis,0.45955
+Akinesia,0.45955
+Viral diarrhoea,0.45955
+Vulvovaginal pruritus,0.45955
+Arterial thrombosis,0.45955
+Thrombotic thrombocytopenic purpura,0.45955
+Meningitis aseptic,0.45955
+Sputum increased,0.45955
+Exophthalmos,0.45955
+Pulmonary haemorrhage,0.45955
+Hypoalbuminaemia,0.45955
+Punctate keratitis,0.45955
+Rhinitis allergic,0.45955
+Pemphigus,0.45955
+Red blood cell sedimentation rate increased,0.45955
+Retinal detachment,0.45955
+Blood albumin decreased,0.45955
+Movement disorder,0.45955
+Gastrointestinal perforation,0.45955
+Corneal oedema,0.455162
+Laceration,0.455162
+Heart rate irregular,0.455162
+Gingival pain,0.455162
+Pain of skin,0.455162
+Application site erythema,0.455162
+Breast neoplasm,0.455162
+Lactic acidosis,0.455162
+Methaemoglobinaemia,0.455162
+Cutaneous vasculitis,0.455162
+Pulmonary eosinophilia,0.455162
+Cachexia,0.455162
+Lymphoedema,0.455162
+Gingival hyperplasia,0.455162
+Lipodystrophy acquired,0.455162
+Alveolitis allergic,0.455162
+Cardiac fibrillation,0.455162
+Choreoathetosis,0.455162
+Corneal opacity,0.450625
+Regurgitation,0.450625
+Bruxism,0.450625
+Basal cell carcinoma,0.450625
+Rhinitis seasonal,0.450625
+Tonsillitis,0.450625
+Tendon disorder,0.450625
+Porphyrin metabolism disorder,0.450625
+Endometrial cancer,0.450625
+Anaemia megaloblastic,0.450625
+Restless legs syndrome,0.450625
+Faecalith,0.450625
+Faecaloma,0.450625
+Bleeding time prolonged,0.450625
+Pharyngeal oedema,0.450625
+Oral herpes,0.450625
+Colitis ulcerative,0.450625
+Breath sounds abnormal,0.450625
+Diarrhoea haemorrhagic,0.450625
+Oral disorder,0.450625
+Hyperprolactinaemia,0.450625
+Xerophthalmia,0.450625
+Superinfection,0.450625
+Angina unstable,0.450625
+Biliary colic,0.450625
+"Hallucination, visual",0.450625
+Disease progression,0.445929
+Seasonal allergy,0.445929
+Vasculitis necrotising,0.445929
+Gangrene,0.445929
+Proctocolitis,0.445929
+Myocarditis,0.445929
+Crystalluria,0.445929
+Osteomyelitis,0.445929
+Sialoadenitis,0.445929
+Prostate cancer,0.445929
+Application site pruritus,0.441062
+Obstructive airways disorder,0.441062
+Carpal tunnel syndrome,0.441062
+Premenstrual syndrome,0.441062
+Nerve injury,0.441062
+Breast discharge,0.441062
+Personality change,0.441062
+Cardiotoxicity,0.441062
+Pneumonia aspiration,0.441062
+Myasthenia gravis,0.441062
+Post procedural haemorrhage,0.441062
+Localised oedema,0.441062
+Myelodysplastic syndrome,0.441062
+Mastitis,0.441062
+Functional gastrointestinal disorder,0.441062
+Strangury,0.441062
+Adrenal insufficiency,0.441062
+Panophthalmitis,0.441062
+Rosacea,0.441062
+Blood prolactin increased,0.441062
+Application site burn,0.441062
+Osteopenia,0.441062
+Suicidal behaviour,0.441062
+Blood urine present,0.441062
+Polycythaemia,0.441062
+Anorgasmia,0.441062
+Device related infection,0.436012
+Haemolysis,0.436012
+Testicular pain,0.436012
+Surgery,0.436012
+Blood calcium decreased,0.436012
+Vitreous floaters,0.436012
+Chorea,0.436012
+Productive cough,0.436012
+Infertility,0.436012
+Tracheobronchitis,0.436012
+High density lipoprotein decreased,0.436012
+Skin burning sensation,0.436012
+Macular oedema,0.436012
+Proctitis,0.436012
+Gravitational oedema,0.436012
+Upper-airway cough syndrome,0.436012
+Secondary adrenocortical insufficiency,0.436012
+Pleurisy,0.436012
+Ocular discomfort,0.436012
+Bronchial hyperreactivity,0.436012
+Eye discharge,0.436012
+Haemorrhagic disorder,0.436012
+Urethritis,0.436012
+Application site rash,0.430763
+Pleuritic pain,0.430763
+Emotional disorder,0.430763
+Chloasma,0.430763
+Porphyria non-acute,0.430763
+Genital candidiasis,0.430763
+Pulmonary toxicity,0.430763
+Bacteraemia,0.430763
+Subarachnoid haemorrhage,0.430763
+Night blindness,0.430763
+Haemolytic uraemic syndrome,0.430763
+Lupus-like syndrome,0.430763
+Acute generalised exanthematous pustulosis,0.430763
+Infusion site pain,0.430763
+Autonomic neuropathy,0.430763
+Status epilepticus,0.430763
+Retroperitoneal haemorrhage,0.430763
+Vulvovaginal dryness,0.430763
+Corneal erosion,0.430763
+Blood glucose decreased,0.430763
+Hepatic cancer,0.430763
+Obesity,0.430763
+Urethritis noninfective,0.430763
+Impaired gastric emptying,0.4253
+Electrocardiogram ST segment depression,0.4253
+Poisoning,0.4253
+Menopause,0.4253
+Frequent bowel movements,0.4253
+Ligament sprain,0.4253
+Muscle tightness,0.4253
+Thrombophlebitis superficial,0.4253
+Ovarian cancer,0.4253
+Ototoxicity,0.4253
+Subdural haematoma,0.4253
+Cardiogenic shock,0.4253
+Mental status changes,0.4253
+Conduction disorder,0.4253
+Blepharospasm,0.4253
+Autonomic nervous system imbalance,0.4253
+Conversion disorder,0.4253
+Iron deficiency anaemia,0.4253
+Blood creatinine decreased,0.4253
+Squamous cell carcinoma,0.4253
+Metabolic disorder,0.4253
+Hair disorder,0.4253
+Lung neoplasm malignant,0.4253
+Hemiparesis,0.419604
+Sinus arrest,0.419604
+Fibrocystic breast disease,0.419604
+Gallbladder disorder,0.419604
+Guillain-Barre syndrome,0.419604
+Piloerection,0.419604
+Recall phenomenon,0.419604
+Hangover,0.419604
+Mental retardation,0.419604
+Clostridium difficile colitis,0.419604
+Anosmia,0.419604
+Congenital eye disorder,0.419604
+Opisthotonus,0.419604
+Acute myocardial infarction,0.419604
+Irritable bowel syndrome,0.419604
+Crying,0.419604
+White blood cell count increased,0.419604
+Penis disorder,0.413656
+Anal pruritus,0.413656
+Vulvovaginitis,0.413656
+Glucose tolerance decreased,0.413656
+Blood pressure fluctuation,0.413656
+Sticky skin,0.413656
+Arachnoiditis,0.413656
+Monoplegia,0.413656
+Basedow's disease,0.413656
+Mucous membrane disorder,0.413656
+Hepatitis B,0.413656
+Hepatitis fulminant,0.413656
+Corneal deposits,0.413656
+Parotid gland enlargement,0.413656
+Lip swelling,0.413656
+Testicular atrophy,0.413656
+Ejaculation failure,0.413656
+Vulvovaginal discomfort,0.40743
+Prostatitis,0.40743
+Rash vesicular,0.40743
+Depressive symptom,0.40743
+Electroencephalogram abnormal,0.40743
+Increased tendency to bruise,0.40743
+Condition aggravated,0.40743
+Diplegia,0.40743
+Tongue ulceration,0.40743
+Exfoliative rash,0.40743
+Optic atrophy,0.40743
+Cystitis haemorrhagic,0.40743
+Neutropenic sepsis,0.40743
+Metastatic neoplasm,0.40743
+Myopia,0.40743
+Nitrogen balance negative,0.40743
+Cardiac valve disease,0.40743
+Sleep apnoea syndrome,0.40743
+Lenticular opacities,0.40743
+Eye oedema,0.40743
+Iridocyclitis,0.40743
+Tuberculosis,0.40743
+Cogwheel rigidity,0.40743
+Hepatocellular carcinoma,0.40743
+Posterior reversible encephalopathy syndrome,0.40743
+Bladder cancer,0.40743
+Vestibular disorder,0.40743
+Eosinophil count increased,0.40743
+Panic reaction,0.400901
+Hair colour changes,0.400901
+Breast engorgement,0.400901
+Carbohydrate tolerance decreased,0.400901
+Staphylococcal infection,0.400901
+Cerebellar syndrome,0.400901
+Paraplegia,0.400901
+Thyroid disorder,0.400901
+Non-cardiac chest pain,0.400901
+Hydronephrosis,0.400901
+Acute hepatic failure,0.400901
+Mouth haemorrhage,0.400901
+Muscle mass,0.400901
+Spinal compression fracture,0.400901
+Aplasia pure red cell,0.400901
+Prothrombin level decreased,0.400901
+Erythema of eyelid,0.400901
+Haemorrhagic stroke,0.400901
+Hyperadrenocorticism,0.400901
+Electrocardiogram T wave inversion,0.400901
+International normalised ratio increased,0.400901
+Injection site irritation,0.400901
+Hepatic cirrhosis,0.400901
+Sinus arrhythmia,0.400901
+Type IV hypersensitivity reaction,0.394037
+Somnambulism,0.394037
+Bradykinesia,0.394037
+Papule,0.394037
+Peripheral motor neuropathy,0.394037
+Ejection fraction decreased,0.394037
+Dyslipidaemia,0.394037
+Fat redistribution,0.394037
+Teratogenicity,0.394037
+Muscle contracture,0.394037
+Blood thyroid stimulating hormone increased,0.394037
+Eosinophilic pneumonia,0.394037
+Hypogeusia,0.394037
+Oesophageal candidiasis,0.394037
+Ejaculation delayed,0.394037
+Glomerulonephritis,0.394037
+Appendicitis,0.394037
+Onychomycosis,0.394037
+Xanthopsia,0.394037
+Drooling,0.394037
+Cholangitis,0.394037
+Scrotal oedema,0.386801
+Choking,0.386801
+Electrocardiogram QRS complex,0.386801
+Hepatitis C,0.386801
+Wound infection,0.386801
+"Hallucination, auditory",0.386801
+Dyspareunia,0.386801
+Testicular swelling,0.386801
+Mass,0.386801
+Lung infection,0.386801
+Meningism,0.386801
+Oesophageal stenosis,0.386801
+Dystonia,0.386801
+Alcohol abuse,0.386801
+Infusion site reaction,0.386801
+Acute myeloid leukaemia,0.386801
+Gastrointestinal toxicity,0.386801
+Hepatitis toxic,0.386801
+Drug reaction with eosinophilia and systemic symptoms,0.386801
+Road traffic accident,0.386801
+Bronchospasm paradoxical,0.386801
+Tooth discolouration,0.386801
+Acquired immunodeficiency syndrome,0.386801
+Heat stroke,0.386801
+Abnormal sensation in eye,0.386801
+Illusion,0.386801
+Protrusion tongue,0.386801
+Megacolon,0.386801
+Abortion spontaneous,0.386801
+Hypohidrosis,0.386801
+Arteriosclerosis,0.386801
+Lipoatrophy,0.386801
+Oesophagitis ulcerative,0.386801
+Balanitis,0.379152
+Peyronie's disease,0.379152
+Injection site haematoma,0.379152
+Drug ineffective,0.379152
+Respiratory disorder,0.379152
+Cardiac flutter,0.379152
+Urethral pain,0.379152
+Respiration abnormal,0.379152
+Breast discomfort,0.379152
+Urine output,0.379152
+Tachyarrhythmia,0.379152
+Temperature intolerance,0.379152
+Asphyxia,0.379152
+Osteomalacia,0.379152
+Lichen planus,0.379152
+Idiopathic thrombocytopenic purpura,0.379152
+Death,0.379152
+Onycholysis,0.379152
+Pseudolymphoma,0.379152
+Immunodeficiency,0.379152
+Schizophrenia,0.379152
+Alkalosis hypokalaemic,0.379152
+Increased insulin requirement,0.379152
+Affective disorder,0.379152
+Cardiac output decreased,0.379152
+Benign prostatic hyperplasia,0.379152
+Feeling drunk,0.379152
+Asthenopia,0.379152
+Renal colic,0.379152
+Labyrinthitis,0.379152
+Wound,0.379152
+Monocytosis,0.379152
+Activated partial thromboplastin time prolonged,0.379152
+Blood testosterone decreased,0.379152
+IIIrd nerve paralysis,0.379152
+Unintended pregnancy,0.379152
+Renal tubular disorder,0.379152
+Drug tolerance,0.379152
+Faeces discoloured,0.379152
+Facial pain,0.379152
+Injection site pruritus,0.371039
+Bipolar I disorder,0.371039
+Endometriosis,0.371039
+Hepatic neoplasm,0.371039
+Bronchopneumonia,0.371039
+Rhonchi,0.371039
+Hydrocephalus,0.371039
+Ureteric obstruction,0.371039
+Crohn's disease,0.371039
+Blindness transient,0.371039
+Oedema mouth,0.371039
+Dermatitis psoriasiform,0.371039
+Scleritis,0.371039
+Encephalitis,0.371039
+Haemorrhoidal haemorrhage,0.371039
+Injection site induration,0.371039
+Insulin resistance,0.371039
+Venoocclusive liver disease,0.371039
+Pemphigoid,0.371039
+Type I hypersensitivity,0.371039
+Psychomotor retardation,0.371039
+Optic nerve disorder,0.371039
+Keratopathy,0.371039
+Nail discolouration,0.371039
+Peliosis hepatis,0.371039
+Bladder spasm,0.371039
+Hepatic encephalopathy,0.371039
+Conjunctivitis allergic,0.371039
+Hair growth abnormal,0.371039
+Cushingoid,0.371039
+Sedation,0.371039
+Disability,0.371039
+Blood phosphorus decreased,0.371039
+Blood urine,0.371039
+Ophthalmoplegia,0.371039
+Urogenital disorder,0.371039
+Thyroiditis,0.371039
+Progressive multifocal leukoencephalopathy,0.371039
+Anxiety disorder,0.371039
+Subileus,0.371039
+Wound secretion,0.362402
+Stillbirth,0.362402
+Ear discomfort,0.362402
+Bipolar disorder,0.362402
+Hordeolum,0.362402
+Motion sickness,0.362402
+Ovarian disorder,0.362402
+Viral upper respiratory tract infection,0.362402
+Initial insomnia,0.362402
+Lip dry,0.362402
+Sensation of heaviness,0.362402
+Endometrial hyperplasia,0.362402
+Haemangioma,0.362402
+Alkalosis,0.362402
+Granulomatous liver disease,0.362402
+White blood cell disorder,0.362402
+Gastric haemorrhage,0.362402
+Cardiac tamponade,0.362402
+Oropharyngeal swelling,0.362402
+Water intoxication,0.362402
+Gastrointestinal infection,0.362402
+Hypersexuality,0.362402
+Brain injury,0.362402
+Foreign body sensation in eyes,0.362402
+Lymphadenitis,0.362402
+Parkinson's disease,0.362402
+Vital dye staining cornea present,0.362402
+Varicella,0.362402
+Left ventricular failure,0.362402
+Refraction disorder,0.362402
+X-linked lymphoproliferative syndrome,0.362402
+Lymphoproliferative disorder,0.362402
+Hypertrophic cardiomyopathy,0.362402
+Scleroderma,0.362402
+Vitreous detachment,0.362402
+Gastrointestinal ulcer,0.362402
+Hypogonadism,0.362402
+Oligomenorrhoea,0.362402
+Lichenoid keratosis,0.362402
+Paronychia,0.362402
+Hair texture abnormal,0.362402
+Corneal disorder,0.362402
+Creatinine renal clearance decreased,0.362402
+Blindness cortical,0.362402
+Aneurysm,0.362402
+Dissociation,0.362402
+Neutropenic colitis,0.362402
+Fasting,0.362402
+Benign neoplasm of skin,0.362402
+Groin pain,0.362402
+Procedural complication,0.353169
+Inguinal hernia,0.353169
+Testicular disorder,0.353169
+Calcinosis,0.353169
+Orgasm abnormal,0.353169
+Tension headache,0.353169
+Salpingitis,0.353169
+Pharyngitis streptococcal,0.353169
+Muscle strain,0.353169
+Poor quality sleep,0.353169
+Middle insomnia,0.353169
+Tooth infection,0.353169
+Hepatitis acute,0.353169
+Bradyphrenia,0.353169
+Odynophagia,0.353169
+Motor dysfunction,0.353169
+Oral discomfort,0.353169
+Hepatosplenomegaly,0.353169
+Ketosis,0.353169
+Hypochloraemia,0.353169
+Pneumocystis jirovecii pneumonia,0.353169
+Myocardial rupture,0.353169
+Dysthymic disorder,0.353169
+Rash follicular,0.353169
+Peroneal nerve palsy,0.353169
+Aplasia,0.353169
+Sluggishness,0.353169
+Pathological gambling,0.353169
+Virilism,0.353169
+Macular degeneration,0.353169
+Nodal arrhythmia,0.353169
+Eyelid disorder,0.353169
+Nasal septum perforation,0.353169
+Blood sodium increased,0.353169
+Purpura non-thrombocytopenic,0.353169
+Fibroadenoma of breast,0.353169
+Vitreous disorder,0.353169
+Oxygen saturation decreased,0.353169
+Corneal thinning,0.353169
+Haemoglobin increased,0.353169
+Periodontitis,0.353169
+Lipoma,0.353169
+Hiatus hernia,0.353169
+Platelet disorder,0.353169
+Exostosis,0.353169
+Cardiovascular insufficiency,0.353169
+Diabetic ketoacidosis,0.353169
+Arteriospasm coronary,0.353169
+Emphysema,0.353169
+Red blood cell count decreased,0.353169
+Optic ischaemic neuropathy,0.353169
+Hyperpathia,0.343252
+Vulvovaginal pain,0.343252
+Carbon dioxide increased,0.343252
+Hypercapnia,0.343252
+Application site dryness,0.343252
+Snoring,0.343252
+Gastric pH decreased,0.343252
+Derealisation,0.343252
+Nipple pain,0.343252
+Stress,0.343252
+Coronary artery thrombosis,0.343252
+Retinal vein occlusion,0.343252
+Venoocclusive disease,0.343252
+Cervix disorder,0.343252
+Areflexia,0.343252
+Malabsorption,0.343252
+Gastrointestinal sounds abnormal,0.343252
+Inflammatory bowel disease,0.343252
+Hypermagnesaemia,0.343252
+Hyperplasia,0.343252
+Nephrogenic diabetes insipidus,0.343252
+Alveolitis,0.343252
+Hypercalciuria,0.343252
+Toxic skin eruption,0.343252
+Low density lipoprotein increased,0.343252
+Retinal vein thrombosis,0.343252
+Myoglobin urine present,0.343252
+Myoglobinuria,0.343252
+Drug-induced liver injury,0.343252
+Psychiatric symptom,0.343252
+Drug level increased,0.343252
+Serum sickness-like reaction,0.343252
+Lymphocyte count decreased,0.343252
+Synovitis,0.343252
+Prostatic specific antigen increased,0.343252
+Polymyalgia rheumatica,0.343252
+Foetal death,0.343252
+Plasma cell myeloma,0.343252
+Plasmacytoma,0.343252
+Inner ear disorder,0.343252
+Libido disorder,0.343252
+Intestinal ulcer,0.343252
+Glucose-6-phosphate dehydrogenase deficiency,0.343252
+Vascular headache,0.343252
+Left ventricular dysfunction,0.343252
+Skin toxicity,0.343252
+Head injury,0.343252
+Drug withdrawal syndrome neonatal,0.343252
+Corneal lesion,0.343252
+Wound haemorrhage,0.343252
+Neoplasm skin,0.33254
+Respiratory rate decreased,0.33254
+Injection site bruising,0.33254
+Hunger,0.33254
+Hypotrichosis,0.33254
+Hyperchlorhydria,0.33254
+Paraparesis,0.33254
+Cranial nerve paralysis,0.33254
+Ocular toxicity,0.33254
+Paralysis flaccid,0.33254
+Cystoid macular oedema,0.33254
+Uterine spasm,0.33254
+Administration site reaction,0.33254
+Effusion,0.33254
+Injection site infection,0.33254
+Asterixis,0.33254
+Tracheitis,0.33254
+Steatorrhoea,0.33254
+Muscle spasticity,0.33254
+Myelitis transverse,0.33254
+Precocious puberty,0.33254
+Granuloma,0.33254
+Gastrointestinal carcinoma,0.33254
+Eyelids pruritus,0.33254
+Anterograde amnesia,0.33254
+Retroperitoneal fibrosis,0.33254
+Thrombotic microangiopathy,0.33254
+Haematocrit increased,0.33254
+Myelitis,0.33254
+Hepatitis viral,0.33254
+Tongue coated,0.33254
+Deafness neurosensory,0.33254
+Chromatopsia,0.33254
+Clonus,0.33254
+Female sexual dysfunction,0.33254
+Impetigo,0.33254
+Acute psychosis,0.33254
+Ectopic pregnancy,0.33254
+Peritoneal haemorrhage,0.33254
+Ovarian hyperstimulation syndrome,0.33254
+Renal cyst,0.33254
+Oesophageal spasm,0.33254
+Upper gastrointestinal haemorrhage,0.33254
+Fat embolism,0.33254
+Blood pressure systolic increased,0.33254
+Cycloplegia,0.33254
+Electrocardiogram PR prolongation,0.33254
+Fanconi syndrome,0.33254
+Epidermal necrosis,0.33254
+Decubitus ulcer,0.33254
+Walking disability,0.33254
+Fistula,0.33254
+Infusion site erythema,0.33254
+Caecitis,0.320896
+Oedema genital,0.320896
+Right ventricular failure,0.320896
+Perineal pain,0.320896
+Erection increased,0.320896
+Clonic convulsion,0.320896
+Localised infection,0.320896
+Lacrimation decreased,0.320896
+Dermal cyst,0.320896
+Arthropod bite,0.320896
+Breast swelling,0.320896
+Breast mass,0.320896
+Allergic oedema,0.320896
+Gastrointestinal necrosis,0.320896
+Ichthyosis acquired,0.320896
+Ichthyosis,0.320896
+Vitamin B12 deficiency,0.320896
+Fibromyalgia,0.320896
+Aortic valve stenosis,0.320896
+Heart disease congenital,0.320896
+Ventricular dysfunction,0.320896
+Renal tubular acidosis,0.320896
+Coma hepatic,0.320896
+Acute febrile neutrophilic dermatosis,0.320896
+Respiratory alkalosis,0.320896
+Hyperchloraemia,0.320896
+Infusion related reaction,0.320896
+Osteonecrosis of jaw,0.320896
+Pancreatitis haemorrhagic,0.320896
+Feeling of body temperature change,0.320896
+Panic disorder,0.320896
+Disinhibition,0.320896
+Homicidal ideation,0.320896
+Bundle branch block left,0.320896
+Thyroid neoplasm,0.320896
+Orchitis,0.320896
+Thyroid function test abnormal,0.320896
+Enterocolitis haemorrhagic,0.320896
+Eyelid ptosis,0.320896
+Eyelid margin crusting,0.320896
+Coronary artery occlusion,0.320896
+Sick sinus syndrome,0.320896
+White blood cells urine positive,0.320896
+Ischaemic stroke,0.320896
+Anaemia macrocytic,0.320896
+Wound dehiscence,0.320896
+Type 2 diabetes mellitus,0.320896
+Impulse-control disorder,0.320896
+Neutrophil count increased,0.320896
+Application site vesicles,0.320896
+Eye movement disorder,0.320896
+Dermatomyositis,0.320896
+Change of bowel habit,0.320896
+Masked facies,0.320896
+Cerebral thrombosis,0.320896
+Drug intolerance,0.320896
+Gastrointestinal candidiasis,0.320896
+Phobia,0.320896
+Electric shock,0.320896
+Menometrorrhagia,0.320896
+Orchitis noninfective,0.320896
+Appetite disorder,0.320896
+Tearfulness,0.320896
+Obstruction,0.320896
+Retinal degeneration,0.320896
+Vitreous haemorrhage,0.320896
+Melanocytic naevus,0.320896
+Nail pigmentation,0.320896
+Attention deficit/hyperactivity disorder,0.320896
+Menstruation delayed,0.320896
+Post procedural complication,0.320896
+Alcoholism,0.320896
+Coagulation time prolonged,0.320896
+Bundle branch block right,0.320896
+Prostatomegaly,0.320896
+Fontanelle bulging,0.320896
+Tumour pain,0.320896
+Hyperparathyroidism,0.320896
+Smear cervix abnormal,0.320896
+Cytomegalovirus infection,0.320896
+Faeces hard,0.320896
+Seborrhoeic keratosis,0.320896
+Parathyroid disorder,0.308141
+Hemianopia,0.308141
+Post procedural infection,0.308141
+Joint dislocation,0.308141
+Hypertrophy,0.308141
+Vulvovaginal burning sensation,0.308141
+Ventricular hypertrophy,0.308141
+Phlebitis superficial,0.308141
+Thermal burn,0.308141
+Electrocardiogram ST segment,0.308141
+Defaecation urgency,0.308141
+Terminal insomnia,0.308141
+Uterine cervical erosion,0.308141
+Ectropion of cervix,0.308141
+Retinal vascular thrombosis,0.308141
+Leukoencephalopathy,0.308141
+Necrotising colitis,0.308141
+Pneumonia streptococcal,0.308141
+Injection site dermatitis,0.308141
+Respiratory paralysis,0.308141
+Gastric disorder,0.308141
+Blood insulin increased,0.308141
+Nasal ulcer,0.308141
+Injection site necrosis,0.308141
+Haemoglobinuria,0.308141
+Electrocardiogram U-wave abnormality,0.308141
+Oesophageal achalasia,0.308141
+Skin candida,0.308141
+Heart sounds abnormal,0.308141
+Palmar-plantar erythrodysaesthesia syndrome,0.308141
+Diabetes insipidus,0.308141
+Hypopnoea,0.308141
+Bladder dysfunction,0.308141
+Normochromic normocytic anaemia,0.308141
+Injection site phlebitis,0.308141
+"Hallucinations, mixed",0.308141
+Blood pressure systolic decreased,0.308141
+Blood pressure diastolic decreased,0.308141
+Infertility male,0.308141
+Blood electrolytes abnormal,0.308141
+Hypopituitarism,0.308141
+Haemorrhage urinary tract,0.308141
+Overdose,0.308141
+Pustular psoriasis,0.308141
+Mitral valve incompetence,0.308141
+Cervical dysplasia,0.308141
+Hypoaesthesia eye,0.308141
+Skin discomfort,0.308141
+Cutaneous lupus erythematosus,0.308141
+Dermatitis diaper,0.308141
+Prothrombin time shortened,0.308141
+Basophilia,0.308141
+Adenoma benign,0.308141
+Diverticulum,0.308141
+Large intestine polyp,0.308141
+Pregnancy test false positive,0.308141
+Blood creatinine abnormal,0.308141
+Colour blindness,0.308141
+Skin haemorrhage,0.308141
+Protein total decreased,0.308141
+Lymphatic disorder,0.308141
+Melanosis,0.308141
+Anal fissure,0.308141
+Obsessive-compulsive disorder,0.308141
+Nodal rhythm,0.308141
+Infection parasitic,0.308141
+Apraxia,0.308141
+Haemarthrosis,0.308141
+Gastritis haemorrhagic,0.308141
+Ketoacidosis,0.308141
+Myasthenic syndrome,0.308141
+Pericardial haemorrhage,0.308141
+Retinal vascular disorder,0.308141
+Skin depigmentation,0.308141
+Eyelid irritation,0.308141
+Acute pulmonary oedema,0.308141
+Neutropenic infection,0.308141
+Arteritis,0.308141
+Serositis,0.308141
+Calculus urinary,0.308141
+Enlarged clitoris,0.308141
+Central nervous system neoplasm,0.308141
+Hypoglycaemic coma,0.308141
+Skin fissures,0.308141
+Compartment syndrome,0.308141
+Pituitary tumour benign,0.308141
+Pituitary haemorrhage,0.308141
+Uterine disorder,0.308141
+Adenocarcinoma,0.308141
+Madarosis,0.308141
+Injection site extravasation,0.308141
+Spinal cord compression,0.308141
+Gastric atony,0.294041
+Skin tightness,0.294041
+Accidental exposure to product,0.294041
+Electrocardiogram ST segment elevation,0.294041
+Microcephaly,0.294041
+Pyoderma,0.294041
+Dermatitis infected,0.294041
+Obliterative bronchiolitis,0.294041
+Gastrointestinal obstruction,0.294041
+Gastrointestinal ulcer haemorrhage,0.294041
+Tinea pedis,0.294041
+Endometrial disorder,0.294041
+Capillary leak syndrome,0.294041
+Cauda equina syndrome,0.294041
+Injection site urticaria,0.294041
+Nephrocalcinosis,0.294041
+Sjogren's syndrome,0.294041
+Hepatic pain,0.294041
+Nasal polyps,0.294041
+Vascular anomaly,0.294041
+Red blood cell abnormality,0.294041
+Autoimmune haemolytic anaemia,0.294041
+Graft versus host disease,0.294041
+Congestive cardiomyopathy,0.294041
+Cryptococcosis,0.294041
+Retinitis,0.294041
+Metastases to liver,0.294041
+Hepatic cancer metastatic,0.294041
+Hodgkin's disease lymphocyte predominance type stage unspecified,0.294041
+Hodgkin's disease lymphocyte depletion type stage unspecified,0.294041
+Hodgkin's disease,0.294041
+Polyarteritis nodosa,0.294041
+Dysphemia,0.294041
+Steroid withdrawal syndrome,0.294041
+Reticulocytosis,0.294041
+Cholinergic syndrome,0.294041
+Femur fracture,0.294041
+Floppy iris syndrome,0.294041
+Logorrhoea,0.294041
+Onychoclasis,0.294041
+Tumour flare,0.294041
+Corneal infiltrates,0.294041
+Ventricular septal defect,0.294041
+Immune-mediated necrotising myopathy,0.294041
+Coombs test positive,0.294041
+Oropharyngeal candidiasis,0.294041
+Vein disorder,0.294041
+Binge eating,0.294041
+Premature ejaculation,0.294041
+Urine flow decreased,0.294041
+Aphonia,0.294041
+Application site oedema,0.294041
+Patent ductus arteriosus,0.294041
+Folate deficiency,0.294041
+Ketonuria,0.294041
+Bone density decreased,0.294041
+Acute sinusitis,0.294041
+Costochondritis,0.294041
+Atrophic vulvovaginitis,0.294041
+Respiratory acidosis,0.294041
+Intentional self-injury,0.294041
+Corneal epithelium defect,0.294041
+Hyperphagia,0.294041
+Tympanic membrane perforation,0.294041
+Benign breast neoplasm,0.294041
+Xeroderma,0.294041
+Injection site abscess,0.294041
+Corneal perforation,0.294041
+Procedural haemorrhage,0.294041
+Radiation pneumonitis,0.294041
+Cancer pain,0.294041
+Essential hypertension,0.294041
+Retrograde ejaculation,0.294041
+Enzyme abnormality,0.294041
+Lip pain,0.294041
+Androgenetic alopecia,0.294041
+Gastric ulcer haemorrhage,0.294041
+Diabetic retinopathy,0.294041
+Balanoposthitis,0.294041
+Arterial spasm,0.294041
+Nasal oedema,0.294041
+Hypovitaminosis,0.294041
+Blood testosterone increased,0.294041
+Orthopnoea,0.294041
+Sudden cardiac death,0.294041
+Retinal artery occlusion,0.294041
+Injection site mass,0.294041
+Pancreatitis necrotising,0.294041
+Blood bicarbonate decreased,0.294041
+Small intestinal obstruction,0.294041
+Brain neoplasm,0.278279
+Vulvitis,0.278279
+Sinoatrial block,0.278279
+Device capturing issue,0.278279
+Limb discomfort,0.278279
+Urethral haemorrhage,0.278279
+Occult blood positive,0.278279
+Food allergy,0.278279
+Food poisoning,0.278279
+Sinus disorder,0.278279
+Vaginitis bacterial,0.278279
+Energy increased,0.278279
+Self-injurious ideation,0.278279
+Hypertonic bladder,0.278279
+Contact lens intolerance,0.278279
+Pre-existing disease,0.278279
+Pelvic venous thrombosis,0.278279
+Generalised erythema,0.278279
+Abnormal withdrawal bleeding,0.278279
+Reflexes abnormal,0.278279
+Liver tenderness,0.278279
+Spinal cord injury,0.278279
+Oesophageal pain,0.278279
+Tourette's disorder,0.278279
+Renal papillary necrosis,0.278279
+Pseudoporphyria,0.278279
+Myeloid leukaemia,0.278279
+Lymphangitis,0.278279
+Radiation injury,0.278279
+Staphylococcal bacteraemia,0.278279
+Transfusion reaction,0.278279
+Catheter site haemorrhage,0.278279
+Chapped lips,0.278279
+Saliva altered,0.278279
+Oesophageal disorder,0.278279
+Intestinal ischaemia,0.278279
+Atrial tachycardia,0.278279
+Acute interstitial pneumonitis,0.278279
+Idiopathic pulmonary fibrosis,0.278279
+Chronic myeloid leukaemia,0.278279
+Hip fracture,0.278279
+Osteoporotic fracture,0.278279
+Tendinous contracture,0.278279
+Blood magnesium decreased,0.278279
+Mucosal ulceration,0.278279
+Pathogen resistance,0.278279
+Neurogenic bladder,0.278279
+Conjunctival disorder,0.278279
+Raynaud's phenomenon,0.278279
+Pharyngeal disorder,0.278279
+C-reactive protein increased,0.278279
+Anhidrosis,0.278279
+Rhinalgia,0.278279
+Congenital genitourinary abnormality,0.278279
+Necrotising enterocolitis neonatal,0.278279
+Application site paraesthesia,0.278279
+Application site exfoliation,0.278279
+Onychomadesis,0.278279
+Coronary artery insufficiency,0.278279
+Adverse reaction,0.278279
+Renal artery stenosis,0.278279
+Facial paresis,0.278279
+Hepatitis chronic active,0.278279
+Multiple sclerosis,0.278279
+Maculopathy,0.278279
+Petit mal epilepsy,0.278279
+Urine odour abnormal,0.278279
+Gastric polyps,0.278279
+Vulvovaginal disorder,0.278279
+Polyarthritis,0.278279
+Sensation of pressure,0.278279
+Ureteral spasm,0.278279
+Gingival disorder,0.278279
+Psychomotor skills impaired,0.278279
+Immobile,0.278279
+Adrenocortical insufficiency acute,0.278279
+Compulsions,0.278279
+Hepatorenal syndrome,0.278279
+Scleral hyperaemia,0.278279
+Large intestine perforation,0.278279
+Light anaesthesia,0.278279
+Intestinal infarction,0.278279
+Peripheral embolism,0.278279
+Lip ulceration,0.278279
+Psychotic behaviour,0.278279
+Hypomenorrhoea,0.278279
+Asocial behaviour,0.278279
+Antisocial personality disorder,0.278279
+Antisocial behaviour,0.278279
+Monoparesis,0.278279
+Injection site thrombosis,0.278279
+Tongue paralysis,0.278279
+Pleural disorder,0.278279
+Malignant hypertension,0.278279
+Catheter site pain,0.278279
+Injection site coldness,0.278279
+Injection site hypersensitivity,0.278279
+Hormone level abnormal,0.278279
+Kaposi's sarcoma,0.278279
+Prinzmetal angina,0.278279
+Venous insufficiency,0.278279
+Genital discharge,0.278279
+Cervicitis,0.278279
+Diabetic coma,0.278279
+Diabetic hyperglycaemic coma,0.278279
+Lobar pneumonia,0.278279
+Fall,0.278279
+Blood phosphorus increased,0.278279
+Injection site discomfort,0.278279
+Ocular icterus,0.278279
+Nephrogenic systemic fibrosis,0.278279
+Urosepsis,0.278279
+Foetal distress syndrome,0.260409
+Uterine rupture,0.260409
+Collagen disorder,0.260409
+Application site erosion,0.260409
+Vasodilatation,0.260409
+Jarisch-Herxheimer reaction,0.260409
+Soft tissue injury,0.260409
+Joint injury,0.260409
+Limb injury,0.260409
+Increased upper airway secretion,0.260409
+Hereditary angioedema,0.260409
+Vulval disorder,0.260409
+Withdrawal bleed,0.260409
+Vascular pain,0.260409
+Weight fluctuation,0.260409
+Medical device complication,0.260409
+Spinal cord disorder,0.260409
+Non-cardiogenic pulmonary oedema,0.260409
+Endometrial hypertrophy,0.260409
+Hyperammonaemia,0.260409
+Meniere's disease,0.260409
+Metabolic alkalosis,0.260409
+Hyperinsulinism,0.260409
+Xanthoma,0.260409
+Acute yellow liver atrophy,0.260409
+Hypoprothrombinaemia,0.260409
+Factor II deficiency,0.260409
+Infertility female,0.260409
+Nephritic syndrome,0.260409
+Skin fragility,0.260409
+Acute lymphocytic leukaemia,0.260409
+Tumour necrosis,0.260409
+Electrocardiogram QRS complex abnormal,0.260409
+General physical health deterioration,0.260409
+Chorioretinopathy,0.260409
+Hyperamylasaemia,0.260409
+Xerosis,0.260409
+Multiple pregnancy,0.260409
+Choking sensation,0.260409
+Elevated mood,0.260409
+Organising pneumonia,0.260409
+Peripheral sensorimotor neuropathy,0.260409
+Conjunctival follicles,0.260409
+Status asthmaticus,0.260409
+Vitiligo,0.260409
+Paranasal sinus hypersecretion,0.260409
+Necrosis ischaemic,0.260409
+Scleral thinning,0.260409
+Pupils unequal,0.260409
+Pleural fibrosis,0.260409
+Sudden onset of sleep,0.260409
+Blood cortisol decreased,0.260409
+Dyschezia,0.260409
+Procedural nausea,0.260409
+Pelvic inflammatory disease,0.260409
+Addison's disease,0.260409
+Varices oesophageal,0.260409
+Cheilosis,0.260409
+Dysplasia,0.260409
+Haematological malignancy,0.260409
+Drug effect increased,0.260409
+Infusion site phlebitis,0.260409
+Application site warmth,0.260409
+Microsomia,0.260409
+Hypocholesterolaemia,0.260409
+Oesophageal perforation,0.260409
+Venous occlusion,0.260409
+Parkinsonian rest tremor,0.260409
+Ingrowing nail,0.260409
+Oesophageal haemorrhage,0.260409
+Mental disorder due to a general medical condition,0.260409
+Deafness transitory,0.260409
+Ileitis,0.260409
+Radiculopathy,0.260409
+Acute abdomen,0.260409
+Anencephaly,0.260409
+Talipes,0.260409
+Trisomy 21,0.260409
+Cleft palate,0.260409
+Dermoid cyst,0.260409
+Schizophreniform disorder,0.260409
+Gastrointestinal inflammation,0.260409
+Premature labour,0.260409
+Myxoedema,0.260409
+Gingival hypertrophy,0.260409
+Microangiopathic haemolytic anaemia,0.260409
+Subcutaneous abscess,0.260409
+Anterior chamber inflammation,0.260409
+Cardiac death,0.260409
+Physical assault,0.260409
+Erythropenia,0.260409
+Orbital oedema,0.260409
+Oedema mucosal,0.260409
+Buccoglossal syndrome,0.260409
+Abortion,0.260409
+Metastasis,0.260409
+Haematospermia,0.260409
+Rhythm idioventricular,0.260409
+Transplant rejection,0.260409
+Retinal oedema,0.260409
+Retrograde amnesia,0.260409
+Administration site infection,0.260409
+Halo vision,0.260409
+Blood iron decreased,0.260409
+Periarthritis,0.260409
+Breath holding,0.260409
+Iris hyperpigmentation,0.260409
+Ophthalmic herpes simplex,0.260409
+Hypouricaemia,0.260409
+Pituitary infarction,0.260409
+Joint effusion,0.260409
+Duodenal ulcer perforation,0.260409
+Muscle injury,0.260409
+Pulse abnormal,0.260409
+Mean arterial pressure,0.260409
+Spontaneous penile erection,0.260409
+Hypovolaemic shock,0.260409
+Endocarditis,0.260409
+Fungaemia,0.260409
+Medication overuse headache,0.260409
+Blood bilirubin decreased,0.260409
+Microcytic anaemia,0.260409
+Male sexual dysfunction,0.260409
+Skin wrinkling,0.260409
+Iron deficiency,0.260409
+Sarcoidosis,0.260409
+Retinal exudates,0.260409
+Unresponsive to stimuli,0.260409
+Actinic keratosis,0.260409
+Therapeutic response unexpected,0.260409
+Electrocardiogram T wave abnormal,0.260409
+Corneal abrasion,0.260409
+Lymphocyte count increased,0.260409
+Glycosylated haemoglobin increased,0.260409
+Endometritis,0.23978
+Haemothorax,0.23978
+Partner stress,0.23978
+Dandruff,0.23978
+Hypoplastic anaemia,0.23978
+Duodenal ulcer haemorrhage,0.23978
+Nerve compression,0.23978
+Foetal disorder,0.23978
+Vaginal disorder,0.23978
+Bacterial disease carrier,0.23978
+Palmar erythema,0.23978
+Chemical cystitis,0.23978
+Gastrointestinal fistula,0.23978
+Epidural haemorrhage,0.23978
+Spinal haematoma,0.23978
+Cerebral artery embolism,0.23978
+Vertigo positional,0.23978
+Oral mucosal blistering,0.23978
+Central nervous system stimulation,0.23978
+Gouty arthritis,0.23978
+Blood iron increased,0.23978
+Quadriparesis,0.23978
+Leukoplakia oral,0.23978
+Blood thromboplastin decreased,0.23978
+Embolism arterial,0.23978
+Measles,0.23978
+Rash morbilliform,0.23978
+Perirectal abscess,0.23978
+Peptic ulcer haemorrhage,0.23978
+Neutrophilia,0.23978
+Episcleritis,0.23978
+Skin oedema,0.23978
+Blood bilirubin abnormal,0.23978
+Drug withdrawal convulsions,0.23978
+Sleep talking,0.23978
+Substance abuse,0.23978
+Livedo reticularis,0.23978
+Neuromyopathy,0.23978
+Pulmonary alveolar haemorrhage,0.23978
+Abdominal symptom,0.23978
+Muscle fatigue,0.23978
+Formication,0.23978
+Nodular regenerative hyperplasia,0.23978
+Eye burns,0.23978
+Rhinitis perennial,0.23978
+Lipoedema,0.23978
+Lip oedema,0.23978
+Cardiac failure acute,0.23978
+Erythromelalgia,0.23978
+Vasoconstriction,0.23978
+Anal haemorrhage,0.23978
+Spinal anaesthesia,0.23978
+Horner's syndrome,0.23978
+Hyperuricosuria,0.23978
+Hepatitis A,0.23978
+Arterial insufficiency,0.23978
+Sperm concentration decreased,0.23978
+Depression suicidal,0.23978
+Peripheral nerve palsy,0.23978
+Plantar fasciitis,0.23978
+Application site hypersensitivity,0.23978
+Hepatic fibrosis,0.23978
+Self injurious behaviour,0.23978
+Candiduria,0.23978
+Monocyte count increased,0.23978
+Cerebral arteritis,0.23978
+Bone marrow toxicity,0.23978
+Blunted affect,0.23978
+Cerumen impaction,0.23978
+Early satiety,0.23978
+Genital pain,0.23978
+Application site discolouration,0.23978
+Splenic infarction,0.23978
+Limb reduction defect,0.23978
+Renal cell carcinoma,0.23978
+Exomphalos,0.23978
+Pelvic discomfort,0.23978
+Arterial occlusive disease,0.23978
+Mutism,0.23978
+Infection susceptibility increased,0.23978
+Parotitis,0.23978
+Duodenitis haemorrhagic,0.23978
+Colitis microscopic,0.23978
+Diabetic hyperosmolar coma,0.23978
+Ovarian failure,0.23978
+Graft loss,0.23978
+Anovulatory cycle,0.23978
+Anterior chamber flare,0.23978
+Assisted fertilisation,0.23978
+Application site induration,0.23978
+Complex regional pain syndrome,0.23978
+Cellulitis gangrenous,0.23978
+Necrotising fasciitis,0.23978
+Fluid imbalance,0.23978
+Tooth hypoplasia,0.23978
+Bilirubin conjugated increased,0.23978
+Lung cancer metastatic,0.23978
+Deafness permanent,0.23978
+Accidental overdose,0.23978
+Upper airway obstruction,0.23978
+Upper respiratory tract congestion,0.23978
+Neoplasm prostate,0.23978
+Aspergillus infection,0.23978
+Renal function test abnormal,0.23978
+Wound complication,0.23978
+Polymenorrhoea,0.23978
+Muscle haemorrhage,0.23978
+Genital haemorrhage,0.23978
+Obsessive thoughts,0.23978
+Conjunctival irritation,0.23978
+Skin bacterial infection,0.23978
+Cardiopulmonary failure,0.23978
+Aura,0.23978
+Diabetic neuropathy,0.23978
+Postoperative wound infection,0.23978
+Brain cancer metastatic,0.23978
+Metastases to central nervous system,0.23978
+Gastrointestinal motility disorder,0.23978
+Pneumonia bacterial,0.23978
+Colour blindness acquired,0.23978
+Portal vein thrombosis,0.23978
+Electrocardiogram ST segment abnormal,0.23978
+Vascular insufficiency,0.23978
+Cholecystitis acute,0.23978
+Mucosal dryness,0.23978
+Painful respiration,0.23978
+Eating disorder,0.23978
+Cervix carcinoma,0.23978
+Pulse pressure decreased,0.23978
+Ear congestion,0.23978
+Uterine contractions during pregnancy,0.23978
+Stereotypy,0.23978
+Immunoglobulins increased,0.23978
+Pancreatic disorder,0.23978
+Viraemia,0.23978
+Vocal cord paralysis,0.23978
+Acute tonsillitis,0.23978
+Ear haemorrhage,0.23978
+Respiratory tract infection viral,0.23978
+Genital disorder female,0.23978
+Breast atrophy,0.23978
+Dysgraphia,0.23978
+Drug tolerance decreased,0.23978
+Cor pulmonale,0.23978
+Molluscum contagiosum,0.23978
+Calculus bladder,0.23978
+Sudden hearing loss,0.23978
+Eosinophilic myocarditis,0.23978
+Aortic aneurysm,0.23978
+Red blood cell count increased,0.23978
+Granulocytosis,0.23978
+Vein discolouration,0.23978
+Blood chloride decreased,0.23978
+Bone cancer metastatic,0.23978
+Tooth fracture,0.23978
+Uterine atony,0.23978
+Uterine hypotonus,0.23978
+Keratoacanthoma,0.23978
+Vascular occlusion,0.23978
+Infusion site induration,0.23978
+Infusion site pruritus,0.23978
+Squamous cell carcinoma of skin,0.23978
+Photodermatosis,0.215381
+Penile oedema,0.215381
+Joint hyperextension,0.215381
+Device malfunction,0.215381
+Back injury,0.215381
+Concussion,0.215381
+Toxic shock syndrome,0.215381
+Pneumatosis intestinalis,0.215381
+Haemorrhagic anaemia,0.215381
+Nephrosclerosis,0.215381
+Amyloidosis,0.215381
+Culture negative,0.215381
+Hand and foot syndrome secondary to sickle cell anaemia,0.215381
+Extensor plantar response,0.215381
+Skin induration,0.215381
+Injection site discolouration,0.215381
+Catheter site erythema,0.215381
+Lipomatosis,0.215381
+Urine calcium increased,0.215381
+Bladder neck obstruction,0.215381
+Anaemia postoperative,0.215381
+Haemoglobinaemia,0.215381
+Acute phase reaction,0.215381
+Erosive oesophagitis,0.215381
+Intervertebral disc disorder,0.215381
+Clumsiness,0.215381
+Acute respiratory failure,0.215381
+Blindness unilateral,0.215381
+Hypoparathyroidism,0.215381
+Cerebellar ataxia,0.215381
+Polycythaemia vera,0.215381
+Oestrogenic effect,0.215381
+Reye's syndrome,0.215381
+Systolic hypertension,0.215381
+Antinuclear antibody increased,0.215381
+Muscle swelling,0.215381
+Sarcoma,0.215381
+Small bowel angioedema,0.215381
+Skin sensitisation,0.215381
+Retinopathy of prematurity,0.215381
+Breast abscess,0.215381
+Yellow skin,0.215381
+Abdominal rigidity,0.215381
+Respiratory tract haemorrhage,0.215381
+Developmental glaucoma,0.215381
+Skin warm,0.215381
+Allergic granulomatous angiitis,0.215381
+Infusion site inflammation,0.215381
+Atrioventricular dissociation,0.215381
+Application site inflammation,0.215381
+Application site papules,0.215381
+Oligohydramnios,0.215381
+Enzyme induction,0.215381
+Porphyria acute,0.215381
+Jaundice hepatocellular,0.215381
+Meningitis chemical,0.215381
+Aortic valve incompetence,0.215381
+Bacteriuria,0.215381
+Alveolar osteitis,0.215381
+Erysipelas,0.215381
+Blood culture positive,0.215381
+Gingival infection,0.215381
+Haemorrhage subcutaneous,0.215381
+Kidney infection,0.215381
+Renal neoplasm,0.215381
+Retinal toxicity,0.215381
+Drug level decreased,0.215381
+Head discomfort,0.215381
+Intervertebral disc protrusion,0.215381
+Genital infection,0.215381
+Abnormal labour,0.215381
+Application site atrophy,0.215381
+Diaphragmatic hernia,0.215381
+Tracheo-oesophageal fistula,0.215381
+Hepatic adenoma,0.215381
+Ovarian enlargement,0.215381
+Congenital central nervous system anomaly,0.215381
+Adnexal torsion,0.215381
+Arteriovenous fistula,0.215381
+Anticholinergic syndrome,0.215381
+Alcohol poisoning,0.215381
+Infectious mononucleosis,0.215381
+Delusional perception,0.215381
+Withdrawal hypertension,0.215381
+Ulcer haemorrhage,0.215381
+Blood creatine increased,0.215381
+Puncture site haemorrhage,0.215381
+Cataplexy,0.215381
+Lactase deficiency,0.215381
+Lactose intolerance,0.215381
+Myotonia,0.215381
+Renal graft loss,0.215381
+Anoxia,0.215381
+Eschar,0.215381
+Retinal tear,0.215381
+Vitreous opacities,0.215381
+Eye allergy,0.215381
+Transient global amnesia,0.215381
+Portal hypertension,0.215381
+Mesenteric vascular insufficiency,0.215381
+Neonatal disorder,0.215381
+Hypervigilance,0.215381
+Choroidal detachment,0.215381
+Semen analysis abnormal,0.215381
+Adjustment disorder,0.215381
+Trigeminal neuralgia,0.215381
+Skin reaction,0.215381
+Radial nerve palsy,0.215381
+Epstein-Barr virus infection,0.215381
+Congenital skin disorder,0.215381
+Device expulsion,0.215381
+Demyelination,0.215381
+Carcinogenicity,0.215381
+Labile blood pressure,0.215381
+Albumin urine present,0.215381
+Capillary fragility increased,0.215381
+Lower gastrointestinal haemorrhage,0.215381
+Spine malformation,0.215381
+Catheter site infection,0.215381
+Barrett's oesophagus,0.215381
+Cheyne-Stokes respiration,0.215381
+Post herpetic neuralgia,0.215381
+Urethral stenosis,0.215381
+Bezoar,0.215381
+Mucosal pigmentation,0.215381
+Strabismus,0.215381
+Spleen disorder,0.215381
+Grimacing,0.215381
+Quadriplegia,0.215381
+Colon cancer,0.215381
+Hepatic enzyme abnormal,0.215381
+Chronic hepatitis,0.215381
+Auricular swelling,0.215381
+Action tremor,0.215381
+B-cell lymphoma,0.215381
+Oestrogen deficiency,0.215381
+Rectal polyp,0.215381
+Spinal fracture,0.215381
+Metastases to spine,0.215381
+Red man syndrome,0.215381
+Dyspnoea paroxysmal nocturnal,0.215381
+Ectropion,0.215381
+Burkitt's lymphoma,0.215381
+Partial seizures,0.215381
+Benign neoplasm,0.215381
+Therapeutic response decreased,0.215381
+Pituitary-dependent Cushing's syndrome,0.215381
+General symptom,0.215381
+Orthostatic hypertension,0.215381
+Autoimmune hepatitis,0.215381
+Oral infection,0.215381
+International normalised ratio abnormal,0.215381
+Oral fungal infection,0.215381
+Infusion site extravasation,0.215381
+Bladder neoplasm,0.215381
+Multiple congenital abnormalities,0.215381
+Dementia Alzheimer's type,0.215381
+Heat exhaustion,0.215381
+Rheumatic disorder,0.215381
+Oral pruritus,0.215381
+Incision site complication,0.215381
+Chronic hepatitis B,0.215381
+Genital ulceration,0.215381
+Dysentery,0.215381
+Tendon pain,0.215381
+Metastatic pain,0.215381
+Infusion site rash,0.215381
+Chronic lymphocytic leukaemia,0.215381
+Glomerulonephritis membranous,0.215381
+Vitamin K deficiency,0.215381
+Bronchiolitis,0.215381
+Fasciitis,0.215381
+Parasomnia,0.215381
+Carotid artery occlusion,0.215381
+Peripheral arterial occlusive disease,0.215381
+Parkinsonian gait,0.215381
+Congenital arterial malformation,0.215381
+Bone neoplasm,0.215381
+Tongue spasm,0.215381
+Penile haemorrhage,0.215381
+Fat tissue increased,0.215381
+Gastrointestinal ulcer perforation,0.215381
+Eczema herpeticum,0.215381
+Graft dysfunction,0.215381
+Cardiac hypertrophy,0.215381
+Uterine polyp,0.215381
+Hyposmia,0.215381
+Growth accelerated,0.215381
+Breast induration,0.215381
+Nipple disorder,0.215381
+Erythropoiesis abnormal,0.215381
+Traumatic haemorrhage,0.215381
+Poor peripheral circulation,0.215381
+Pulmonary mass,0.215381
+Genitourinary tract neoplasm,0.215381
+Infusion site swelling,0.215381
+Blood bicarbonate increased,0.215381
+Intestinal haemorrhage,0.215381
+Chalazion,0.215381
+Tinea infection,0.215381
+Diastolic hypertension,0.215381
+Electrocardiogram T wave amplitude decreased,0.215381
+Periorbital haematoma,0.215381
+Genital herpes,0.215381
+Meibomianitis,0.215381
+Subcutaneous haematoma,0.215381
+Eyelash discolouration,0.215381
+Thrombosis in device,0.215381
+Arthritis bacterial,0.215381
+Clostridial infection,0.215381
+Sensitivity of teeth,0.215381
+Vessel puncture site haematoma,0.215381
+Anaphylactoid syndrome of pregnancy,0.185519
+Uterine hypertonus,0.185519
+Death neonatal,0.185519
+Hypersplenism,0.185519
+Phimosis,0.185519
+Spermatocele,0.185519
+Tachyphylaxis,0.185519
+Painful erection,0.185519
+Penile pain,0.185519
+Drug effect decreased,0.185519
+Nasal obstruction,0.185519
+Aspiration,0.185519
+Epicondylitis,0.185519
+Perseveration,0.185519
+Circumoral oedema,0.185519
+Genital rash,0.185519
+Mouth injury,0.185519
+Painful ejaculation,0.185519
+Wrist fracture,0.185519
+Lower limb fracture,0.185519
+Cervical polyp,0.185519
+Meningioma,0.185519
+Uterine enlargement,0.185519
+Uterine cancer,0.185519
+Reproductive tract disorder,0.185519
+Vaginal ulceration,0.185519
+Uterine pain,0.185519
+Forced expiratory volume decreased,0.185519
+Immunology test,0.185519
+Diffuse large B-cell lymphoma,0.185519
+Injection site fibrosis,0.185519
+Marrow hyperplasia,0.185519
+Cinchonism,0.185519
+Sudden visual loss,0.185519
+Streptococcal infection,0.185519
+Viral skin infection,0.185519
+Cholangitis sclerosing,0.185519
+Oral neoplasm,0.185519
+Toxoplasmosis,0.185519
+Scrotal erythema,0.185519
+Bladder stenosis,0.185519
+Premature menopause,0.185519
+Multiple sclerosis relapse,0.185519
+Pyoderma gangrenosum,0.185519
+Abscess limb,0.185519
+Neuropathic arthropathy,0.185519
+Epidural lipomatosis,0.185519
+Meningitis cryptococcal,0.185519
+Renal abscess,0.185519
+Epidermolysis,0.185519
+Tachycardia foetal,0.185519
+Vascular resistance systemic,0.185519
+Intussusception,0.185519
+Fear,0.185519
+Contrast media reaction,0.185519
+Haemodynamic instability,0.185519
+Trigger finger,0.185519
+Eyelid retraction,0.185519
+Cervix carcinoma stage 0,0.185519
+Hepatosplenic T-cell lymphoma,0.185519
+Keratosis pilaris,0.185519
+Nocturnal dyspnoea,0.185519
+Pyloric stenosis,0.185519
+Nasal septum ulceration,0.185519
+Periostitis,0.185519
+Hypertransaminasaemia,0.185519
+Pericarditis constrictive,0.185519
+Anterior spinal artery syndrome,0.185519
+Rectal discharge,0.185519
+Injury associated with device,0.185519
+Procedural hypotension,0.185519
+Procedural hypertension,0.185519
+Organ failure,0.185519
+Failure to thrive,0.185519
+Brain hypoxia,0.185519
+Macule,0.185519
+Application site haematoma,0.185519
+Application site swelling,0.185519
+Adams-Stokes syndrome,0.185519
+Neurodermatitis,0.185519
+High density lipoprotein increased,0.185519
+Meningitis bacterial,0.185519
+Acute prerenal failure,0.185519
+Foot fracture,0.185519
+Tongue geographic,0.185519
+Salivary gland pain,0.185519
+Bladder discomfort,0.185519
+Puberty,0.185519
+Oral mucosal exfoliation,0.185519
+Alkalosis hypochloraemic,0.185519
+Bradyarrhythmia,0.185519
+Polymyositis,0.185519
+Fixed eruption,0.185519
+Medication residue present,0.185519
+Retinal pigmentation,0.185519
+Lhermitte's sign,0.185519
+Eye injury,0.185519
+Femoral neck fracture,0.185519
+Neck injury,0.185519
+Rib fracture,0.185519
+Facial spasm,0.185519
+Ligament injury,0.185519
+Traumatic haematoma,0.185519
+Post-traumatic pain,0.185519
+Corneal pigmentation,0.185519
+Cleft lip,0.185519
+Pituitary tumour,0.185519
+Renal aplasia,0.185519
+Cryptorchism,0.185519
+Gastrointestinal malformation,0.185519
+Polydactyly,0.185519
+Amaurosis,0.185519
+Stomach dilation procedure,0.185519
+Gastric dilatation,0.185519
+Colonic pseudo-obstruction,0.185519
+Sleep terror,0.185519
+Otitis media acute,0.185519
+Factor VIII deficiency,0.185519
+Phenylketonuria,0.185519
+Iris adhesions,0.185519
+Myeloproliferative disorder,0.185519
+Enanthema,0.185519
+Erythrodermic psoriasis,0.185519
+Polyomavirus-associated nephropathy,0.185519
+Intra-abdominal haemorrhage,0.185519
+Pancreatic enzymes increased,0.185519
+Ocular hypertension,0.185519
+Hypotony of eye,0.185519
+Device dislocation,0.185519
+Tic,0.185519
+Urine phosphorus increased,0.185519
+Cervicobrachial syndrome,0.185519
+Retinal depigmentation,0.185519
+Application site discomfort,0.185519
+Prostatism,0.185519
+Defect conduction intraventricular,0.185519
+Liver function test normal,0.185519
+Dacryostenosis acquired,0.185519
+QRS axis abnormal,0.185519
+Anaemia vitamin B12 deficiency,0.185519
+Bronchial obstruction,0.185519
+Eyelid pain,0.185519
+Breast cyst,0.185519
+Sleep paralysis,0.185519
+Joint range of motion decreased,0.185519
+Carbon dioxide decreased,0.185519
+Eustachian tube disorder,0.185519
+Tooth loss,0.185519
+Application site ulcer,0.185519
+Tongue blistering,0.185519
+Application site eczema,0.185519
+Nasal mucosal disorder,0.185519
+Therapy naive,0.185519
+Breast cancer male,0.185519
+Hyphaema,0.185519
+Chondrodystrophy,0.185519
+Cough decreased,0.185519
+Urogenital haemorrhage,0.185519
+Pulmonary infarction,0.185519
+Sulphaemoglobinaemia,0.185519
+Obsessive-compulsive personality disorder,0.185519
+Albumin globulin ratio abnormal,0.185519
+Mycosis fungoides,0.185519
+Pulmonary thrombosis,0.185519
+Penile swelling,0.185519
+Fat necrosis,0.185519
+Cerebrovascular insufficiency,0.185519
+Gastrointestinal hypomotility,0.185519
+Blood osmolarity increased,0.185519
+Device occlusion,0.185519
+Breakthrough pain,0.185519
+Aphagia,0.185519
+Glomerular filtration rate decreased,0.185519
+Myocardial depression,0.185519
+Aminoaciduria,0.185519
+Blood oestrogen decreased,0.185519
+Bladder irritation,0.185519
+Haemophilia,0.185519
+Ankylosing spondylitis,0.185519
+VIth nerve paralysis,0.185519
+Thyrotoxic crisis,0.185519
+Renal infarct,0.185519
+Vascular pseudoaneurysm,0.185519
+Vitamin B6 deficiency,0.185519
+Implant site reaction,0.185519
+Pyogenic granuloma,0.185519
+Oscillopsia,0.185519
+Metaplasia,0.185519
+Blood gastrin increased,0.185519
+Feminisation acquired,0.185519
+Anal fistula,0.185519
+Injection site warmth,0.185519
+Pupillary disorder,0.185519
+Blood albumin increased,0.185519
+Abortion missed,0.185519
+Injection site atrophy,0.185519
+Sickle cell anaemia with crisis,0.185519
+Vaginal cyst,0.185519
+Ear malformation,0.185519
+Adrenal disorder,0.185519
+Muscle necrosis,0.185519
+Peptic ulcer perforation,0.185519
+Pleuropericarditis,0.185519
+Urinary tract obstruction,0.185519
+Myelofibrosis,0.185519
+Myeloid metaplasia,0.185519
+Gingival swelling,0.185519
+Athetosis,0.185519
+Breast cancer stage IV,0.185519
+Lymphocyte count abnormal,0.185519
+Vasculitic rash,0.185519
+Respiratory moniliasis,0.185519
+Lymphocele,0.185519
+Postoperative wound complication,0.185519
+Intracranial aneurysm,0.185519
+Epiphyses premature fusion,0.185519
+Papilloma,0.185519
+Device breakage,0.185519
+Sexually transmitted disease,0.185519
+Muscle enzyme increased,0.185519
+Mucosal discolouration,0.185519
+Dysaesthesia pharynx,0.185519
+Metabolic encephalopathy,0.185519
+Ventricular failure,0.185519
+Periodontal disease,0.185519
+Bulimia nervosa,0.185519
+Uterine neoplasm,0.185519
+Premature baby,0.185519
+Premature delivery,0.185519
+Cytomegalovirus chorioretinitis,0.185519
+Thyroid adenoma,0.185519
+Pulmonary arterial hypertension,0.185519
+Underweight,0.185519
+Volume blood increased,0.185519
+Application site haemorrhage,0.185519
+Atrial septal defect,0.185519
+Nail infection,0.185519
+Prostatic adenoma,0.185519
+Sleep phase rhythm disturbance,0.185519
+Eye penetration,0.185519
+Lipids abnormal,0.185519
+Airway complication of anaesthesia,0.185519
+Congenital cystic kidney disease,0.185519
+Incisional hernia,0.185519
+Hepatic artery thrombosis,0.185519
+Mitochondrial toxicity,0.185519
+Long QT syndrome,0.185519
+Oropharyngeal spasm,0.185519
+Injection site cellulitis,0.185519
+Bladder disorder,0.185519
+Oesophageal carcinoma,0.185519
+Migraine without aura,0.185519
+Dental discomfort,0.185519
+Cerebral vasoconstriction,0.185519
+Retinal vascular occlusion,0.185519
+Visual brightness,0.185519
+Blood parathyroid hormone increased,0.185519
+Scleral haemorrhage,0.185519
+Fanconi syndrome acquired,0.185519
+Nasal inflammation,0.185519
+Pancreatic pseudocyst,0.185519
+Haemoglobin abnormal,0.185519
+Gastrooesophagitis,0.185519
+Mobility decreased,0.185519
+Herpes dermatitis,0.185519
+Anogenital warts,0.185519
+Tinea versicolour,0.185519
+Eczema eyelids,0.185519
+Prostatic dysplasia,0.185519
+Free prostate-specific antigen increased,0.185519
+Vaginal odour,0.185519
+Altered visual depth perception,0.185519
+Calculus ureteric,0.185519
+Blood potassium abnormal,0.185519
+Blood glucose abnormal,0.185519
+Hypervitaminosis A,0.185519
+Retinoic acid syndrome,0.185519
+Blood pressure diastolic increased,0.185519
+Supernumerary nipple,0.185519
+Fraction of inspired oxygen,0.185519
+Jaundice neonatal,0.185519
+Injection site nodule,0.185519
+Graft complication,0.185519
+Vessel puncture site bruise,0.185519
+Hyperparathyroidism secondary,0.185519
+Neuromuscular block prolonged,0.185519
+Loeffler's syndrome,0.185519
+Pseudomonas infection,0.185519
+Application site discharge,0.185519
+Osteochondrosis,0.185519
+Waist circumference increased,0.185519
+Burning mouth syndrome,0.185519
+Trisomy 18,0.185519
+Injection site hypertrophy,0.185519
+Atypical pneumonia,0.185519
+Blood chloride increased,0.185519
+Clostridium colitis,0.185519
+Growth of eyelashes,0.185519
+Heparin-induced thrombocytopenia,0.185519
+Bronchiectasis,0.185519
+Splenic rupture,0.185519
+Panniculitis,0.185519
+Incision site haemorrhage,0.185519
+Infusion site thrombosis,0.185519
+Spondyloarthropathy,0.185519
+Microalbuminuria,0.185519
+Iron overload,0.185519
+Diastolic dysfunction,0.185519
+Adrenal haemorrhage,0.185519
+Genital infection fungal,0.185519
+Neuroglycopenia,0.185519
+Glioma,0.147021
+Foetal heart rate,0.147021
+Postpartum haemorrhage,0.147021
+Vaginismus,0.147021
+Premature rupture of membranes,0.147021
+Foetal acidosis,0.147021
+Pneumopericardium,0.147021
+Sickle cell anaemia,0.147021
+Application site anaesthesia,0.147021
+Typhoid fever,0.147021
+Female sexual arousal disorder,0.147021
+Pelvic infection,0.147021
+Facial bones fracture,0.147021
+Feeling of despair,0.147021
+Prostate infection,0.147021
+Dyslexia,0.147021
+Conjunctivitis infective,0.147021
+Breast calcifications,0.147021
+Gastritis viral,0.147021
+Social avoidant behaviour,0.147021
+Breast oedema,0.147021
+Cervical discharge,0.147021
+Family stress,0.147021
+Sputum discoloured,0.147021
+Ephelides,0.147021
+Solar lentigo,0.147021
+Liver abscess,0.147021
+Anal inflammation,0.147021
+Meningioma benign,0.147021
+Cholestatic liver injury,0.147021
+Injection site granuloma,0.147021
+Skeletal injury,0.147021
+Hand dermatitis,0.147021
+Acute phosphate nephropathy,0.147021
+Mucosal haemorrhage,0.147021
+Metabolic syndrome,0.147021
+Vascular resistance pulmonary increased,0.147021
+Sideroblastic anaemia,0.147021
+Plasmodium falciparum infection,0.147021
+Epidermolysis bullosa,0.147021
+Chronic sinusitis,0.147021
+Urticaria chronic,0.147021
+Urethral obstruction,0.147021
+Phlebosclerosis,0.147021
+Gastritis erosive,0.147021
+Hypolipidaemia,0.147021
+Dupuytren's contracture,0.147021
+Refractory anaemia with an excess of blasts,0.147021
+Systemic inflammatory response syndrome,0.147021
+Pneumonia klebsiella,0.147021
+Klebsiella sepsis,0.147021
+Streptobacillary fever,0.147021
+Septic arthritis streptobacillus,0.147021
+Hyposthenuria,0.147021
+Kounis syndrome,0.147021
+Reticulocytopenia,0.147021
+Pre-eclampsia,0.147021
+Oedema due to cardiac disease,0.147021
+Blast cell crisis,0.147021
+Vasculitis gastrointestinal,0.147021
+Gastroduodenitis,0.147021
+Feeling of relaxation,0.147021
+Hypoxic-ischaemic encephalopathy,0.147021
+Hepatitis alcoholic,0.147021
+Polyserositis,0.147021
+Corneal degeneration,0.147021
+Demyelinating polyneuropathy,0.147021
+Pulseless electrical activity,0.147021
+Mucocutaneous candidiasis,0.147021
+Lipid metabolism disorder,0.147021
+Genetic polymorphism,0.147021
+Pertussis,0.147021
+Hoigne's syndrome,0.147021
+Low birth weight baby,0.147021
+Respiratory tract oedema,0.147021
+Cerebrospinal fluid leakage,0.147021
+Neoplasm recurrence,0.147021
+Ear pruritus,0.147021
+Peripheral nerve injury,0.147021
+Extradural abscess,0.147021
+Incision site oedema,0.147021
+Post procedural swelling,0.147021
+Haemorrhage in pregnancy,0.147021
+Claustrophobia,0.147021
+Decreased interest,0.147021
+Delayed puberty,0.147021
+Melanoderma,0.147021
+Restrictive cardiomyopathy,0.147021
+Acute graft versus host disease,0.147021
+Chronic graft versus host disease,0.147021
+Cytomegalovirus viraemia,0.147021
+Drug effect prolonged,0.147021
+Burns second degree,0.147021
+Application site hyperaesthesia,0.147021
+Blood pressure normal,0.147021
+Ciliary muscle spasm,0.147021
+Bone metabolism disorder,0.147021
+Hypogammaglobulinaemia,0.147021
+Blood osmolarity decreased,0.147021
+Brain abscess,0.147021
+Cerebral haematoma,0.147021
+Idiopathic pneumonia syndrome,0.147021
+Hepatic congestion,0.147021
+Ischaemic cardiomyopathy,0.147021
+Foetal damage,0.147021
+Arteriosclerosis coronary artery,0.147021
+Glomerulonephritis minimal lesion,0.147021
+Helicobacter infection,0.147021
+Soft tissue infection,0.147021
+Periodontal destruction,0.147021
+Hyperproteinaemia,0.147021
+Renal vasculitis,0.147021
+International normalised ratio decreased,0.147021
+Prothrombin level abnormal,0.147021
+Breast cancer female,0.147021
+Animal bite,0.147021
+Carbuncle,0.147021
+Gilbert's syndrome,0.147021
+Scoliosis,0.147021
+Tooth erosion,0.147021
+Pregnancy test positive,0.147021
+Tooth injury,0.147021
+Bronchitis viral,0.147021
+Electrocardiogram PR shortened,0.147021
+Bladder dilatation,0.147021
+Sacroiliitis,0.147021
+Allergic sinusitis,0.147021
+Arthropod sting,0.147021
+Vulvovaginitis trichomonal,0.147021
+Vulvovaginal erythema,0.147021
+Vulvovaginal swelling,0.147021
+Asteatosis,0.147021
+Central obesity,0.147021
+Astrocytoma,0.147021
+Dwarfism,0.147021
+Skull malformation,0.147021
+Glioblastoma multiforme,0.147021
+Umbilical hernia,0.147021
+Adnexa uteri pain,0.147021
+Leukaemoid reaction,0.147021
+Psychosomatic disease,0.147021
+Vasomotor rhinitis,0.147021
+Gastric ulcer perforation,0.147021
+Acquired haemophilia,0.147021
+Bone marrow disorder,0.147021
+Choroiditis,0.147021
+Incoherent,0.147021
+Pulmonary veno-occlusive disease,0.147021
+Granulomatosis with polyangiitis,0.147021
+Cystitis interstitial,0.147021
+Bladder fibrosis,0.147021
+Myocardial haemorrhage,0.147021
+Synovial cyst,0.147021
+Spermatozoa abnormal,0.147021
+Tonic clonic movements,0.147021
+Chondropathy,0.147021
+Zygomycosis,0.147021
+Toxic encephalopathy,0.147021
+Anterior chamber cell,0.147021
+Emotional poverty,0.147021
+Suppressed lactation,0.147021
+Reproductive toxicity,0.147021
+Supraventricular tachyarrhythmia,0.147021
+Electrocardiogram ST-T change,0.147021
+Cerebral atrophy,0.147021
+Nail toxicity,0.147021
+Gingival recession,0.147021
+Lip blister,0.147021
+Hypocapnia,0.147021
+Pulse absent,0.147021
+Penile discharge,0.147021
+Haematotoxicity,0.147021
+Encephalocele,0.147021
+Sudden infant death syndrome,0.147021
+Congenital genital malformation,0.147021
+Mononeuritis,0.147021
+Biliary tract disorder,0.147021
+Large intestinal haemorrhage,0.147021
+Oral mucosal discolouration,0.147021
+Intentional drug misuse,0.147021
+Biliary fibrosis,0.147021
+Autoimmune thrombocytopenia,0.147021
+Capillary fragility,0.147021
+Ear canal erythema,0.147021
+Corneal irritation,0.147021
+Eczema infected,0.147021
+Agoraphobia,0.147021
+Obsessive rumination,0.147021
+Judgement impaired,0.147021
+Hypercoagulation,0.147021
+Orthostatic intolerance,0.147021
+Chorioretinitis,0.147021
+Blood urea abnormal,0.147021
+Lip haemorrhage,0.147021
+Blood glucose fluctuation,0.147021
+Traumatic lung injury,0.147021
+Hernia congenital,0.147021
+Benign gastrointestinal neoplasm,0.147021
+Tongue dry,0.147021
+Moaning,0.147021
+Hypertensive nephropathy,0.147021
+Dyshidrotic eczema,0.147021
+Paradoxical pressor response,0.147021
+Rebound effect,0.147021
+Bedridden,0.147021
+Tumour invasion,0.147021
+Lividity,0.147021
+Radiation skin injury,0.147021
+Periventricular leukomalacia,0.147021
+Toxic neuropathy,0.147021
+Repetitive speech,0.147021
+Vessel puncture site haemorrhage,0.147021
+Endotracheal intubation complication,0.147021
+Echolalia,0.147021
+Acute promyelocytic leukaemia,0.147021
+Rickets,0.147021
+Cerebral arteriosclerosis,0.147021
+Blood bilirubin unconjugated increased,0.147021
+Pulmonary vasculitis,0.147021
+Gastric perforation,0.147021
+Ventricular hypokinesia,0.147021
+Dysacusis,0.147021
+Lung neoplasm,0.147021
+Pneumocystis jirovecii infection,0.147021
+Sudden unexplained death in epilepsy,0.147021
+Laryngeal neoplasm,0.147021
+Crystal urine present,0.147021
+Mucous stools,0.147021
+Carotid bruit,0.147021
+Pleural rub,0.147021
+Spinal osteoarthritis,0.147021
+Prostatic pain,0.147021
+Pelvic fibrosis,0.147021
+Catheter site phlebitis,0.147021
+Diabetic complication,0.147021
+Refractory cytopenia with unilineage dysplasia,0.147021
+Menarche,0.147021
+PCO2,0.147021
+Chemical injury,0.147021
+Cerebral venous thrombosis,0.147021
+Sexually active,0.147021
+Vulval abscess,0.147021
+Blighted ovum,0.147021
+Progesterone,0.147021
+Benign hydatidiform mole,0.147021
+Vaginal mucosal blistering,0.147021
+Joint crepitation,0.147021
+Antidiuretic hormone abnormality,0.147021
+Blood antidiuretic hormone abnormal,0.147021
+Diverticulum intestinal,0.147021
+Haemorrhagic urticaria,0.147021
+Histoplasmosis,0.147021
+Soft tissue necrosis,0.147021
+Sympathomimetic effect,0.147021
+Injection site exfoliation,0.147021
+Latent tuberculosis,0.147021
+Tetanus,0.147021
+Blood uric acid decreased,0.147021
+Foot and mouth disease,0.147021
+Platelet count abnormal,0.147021
+Prolonged labour,0.147021
+Genital swelling,0.147021
+Subacute endocarditis,0.147021
+Atypical mycobacterial infection,0.147021
+Immunoglobulins decreased,0.147021
+Venous pressure increased,0.147021
+Cytomegalovirus colitis,0.147021
+BK virus infection,0.147021
+Alcohol withdrawal syndrome,0.147021
+Phonophobia,0.147021
+Vitamin B complex deficiency,0.147021
+Thrombosis mesenteric vessel,0.147021
+Streptococcal sepsis,0.147021
+Instillation site irritation,0.147021
+Humerus fracture,0.147021
+Peritonsillar abscess,0.147021
+Residual urine volume,0.147021
+Cryptosporidiosis infection,0.147021
+Scintillating scotoma,0.147021
+Pancreatic carcinoma,0.147021
+Nail discomfort,0.147021
+Vocal cord paresis,0.147021
+Nail bed tenderness,0.147021
+Focal segmental glomerulosclerosis,0.147021
+Drug administration error,0.147021
+Eclampsia,0.147021
+Genital disorder male,0.147021
+Sweat gland disorder,0.147021
+Anisocytosis,0.147021
+Adrenergic syndrome,0.147021
+Diabetes mellitus inadequate control,0.147021
+Elastosis perforans,0.147021
+Encephalitis viral,0.147021
+Pancreatitis chronic,0.147021
+Glycosylated haemoglobin decreased,0.147021
+Coombs direct test positive,0.147021
+Abdominal neoplasm,0.147021
+Congenital foot malformation,0.147021
+Gastrointestinal neoplasm,0.147021
+Narcolepsy,0.147021
+Neuroma,0.147021
+Cholecystitis chronic,0.147021
+Amaurosis fugax,0.147021
+Monarthritis,0.147021
+Sleep attacks,0.147021
+Colorectal cancer,0.147021
+Compulsive shopping,0.147021
+Ischaemic neuropathy,0.147021
+Blood pH decreased,0.147021
+Pseudocholinesterase deficiency,0.147021
+Post lumbar puncture syndrome,0.147021
+Hypoglycaemic seizure,0.147021
+Hypoperfusion,0.147021
+Vascular stenosis,0.147021
+Alveolar proteinosis,0.147021
+Post transplant lymphoproliferative disorder,0.147021
+Vogt-Koyanagi-Harada syndrome,0.147021
+Mononeuropathy,0.147021
+Mesenteric occlusion,0.147021
+Albinism,0.147021
+Oesophageal motility disorder,0.147021
+Pancreatic neoplasm,0.147021
+Posture abnormal,0.147021
+Laryngotracheal oedema,0.147021
+Risus sardonicus,0.147021
+Emprosthotonus,0.147021
+Pleurothotonus,0.147021
+Glabellar reflex abnormal,0.147021
+Postural orthostatic tachycardia syndrome,0.147021
+Oculorespiratory syndrome,0.147021
+Acarodermatitis,0.147021
+Head titubation,0.147021
+Traumatic arthropathy,0.147021
+Duodenal perforation,0.147021
+Poliomyelitis,0.147021
+Therapeutic response increased,0.147021
+Gastrointestinal stromal tumour,0.147021
+Rotator cuff syndrome,0.147021
+Brain neoplasm benign,0.147021
+Fluorosis,0.147021
+Iris disorder,0.147021
+Scleral discolouration,0.147021
+Soft tissue disorder,0.147021
+Cyanopsia,0.147021
+Renal cancer,0.147021
+Tumour haemorrhage,0.147021
+Abasia,0.147021
+Cerebellar infarction,0.147021
+Bullous impetigo,0.147021
+Urge incontinence,0.147021
+Netherton's syndrome,0.147021
+Bile duct stenosis,0.147021
+Echocardiogram abnormal,0.147021
+Diabetic nephropathy,0.147021
+Papillary thyroid cancer,0.147021
+Sarcoma uterus,0.147021
+Blepharitis allergic,0.147021
+Polymorphic light eruption,0.147021
+Leukoplakia,0.147021
+Varicocele,0.147021
+Lipids increased,0.147021
+Oestradiol increased,0.147021
+Prostate examination abnormal,0.147021
+Prostate induration,0.147021
+Bronchopneumopathy,0.147021
+Spinal epidural haematoma,0.147021
+Deafness unilateral,0.147021
+Acidosis hyperchloraemic,0.147021
+Expressive language disorder,0.147021
+Food interaction,0.147021
+Circadian rhythm sleep disorder,0.147021
+Orgasmic sensation decreased,0.147021
+Face injury,0.147021
+Temporomandibular joint syndrome,0.147021
+Dyssomnia,0.147021
+Blood cholesterol abnormal,0.147021
+Upper respiratory tract inflammation,0.147021
+Acne cystic,0.147021
+Scrotal ulcer,0.147021
+Idiosyncratic drug reaction,0.147021
+Chemical peritonitis,0.147021
+Haemochromatosis,0.147021
+Mitral valve disease,0.147021
+Low set ears,0.147021
+Rectal ulcer,0.147021
+Apgar score low,0.147021
+Atonic urinary bladder,0.147021
+Urate nephropathy,0.147021
+Decreased vibratory sense,0.147021
+Compression fracture,0.147021
+Complication of pregnancy,0.147021
+Gestational diabetes,0.147021
+Serum ferritin increased,0.147021
+Acute promyelocytic leukaemia differentiation syndrome,0.147021
+Vertebrobasilar insufficiency,0.147021
+Mycobacterium test,0.147021
+Mycobacterium avium complex infection,0.147021
+Colonic abscess,0.147021
+Bronchopulmonary aspergillosis,0.147021
+Arcus lipoides,0.147021
+Aspartate aminotransferase normal,0.147021
+Venous thrombosis limb,0.147021
+Secondary hypogonadism,0.147021
+Ovarian neoplasm,0.147021
+Puerperal pyrexia,0.147021
+Pneumoperitoneum,0.147021
+Volvulus,0.147021
+Ammonia increased,0.147021
+Coagulation test abnormal,0.147021
+Lymphostasis,0.147021
+Blood pressure abnormal,0.147021
+Blood thyroid stimulating hormone decreased,0.147021
+Thyroxine free decreased,0.147021
+Penile infection,0.147021
+Teething,0.147021
+Scrotal pain,0.147021
+Febrile convulsion,0.147021
+Procedural site reaction,0.147021
+Application site scab,0.147021
+Tinea cruris,0.147021
+Scar,0.147021
+Skin swelling,0.147021
+Psychosexual disorder,0.147021
+Sinus operation,0.147021
+Corneal scar,0.147021
+Salivary gland disorder,0.147021
+Coccydynia,0.147021
+Joint contracture,0.147021
+Somatoform disorder,0.147021
+Pharyngeal erythema,0.147021
+Blood prolactin decreased,0.147021
+Blood creatine phosphokinase MB increased,0.147021
+Scratch,0.147021
+Ocular surface disease,0.147021
+Atypical femur fracture,0.147021
+Hepatitis B e antigen positive,0.147021
+Intertrigo,0.147021
+Oesophageal obstruction,0.147021
+Pilonidal cyst,0.147021
+Meningocele,0.147021
+Central nervous system infection,0.147021
+Deposit eye,0.147021
+Optic nerve cupping,0.147021
+Electrocardiogram QT interval,0.147021
+Cholangiocarcinoma,0.147021
+Cytokine release syndrome,0.147021
+Ophthalmic herpes zoster,0.147021
+Meningoencephalitis herpetic,0.147021
+Large intestinal obstruction,0.147021
+Blood gases abnormal,0.147021
+Breast disorder female,0.147021
+Hepatic vein occlusion,0.147021
+Budd-Chiari syndrome,0.147021
+Erythrosis,0.147021
+Troponin I increased,0.147021
+Oropharyngeal blistering,0.147021
+Pneumonia fungal,0.147021
+Colorectal cancer metastatic,0.147021
+Oromandibular dystonia,0.147021
+Respiratory syncytial virus infection,0.147021
+Escherichia sepsis,0.147021
+Intestinal stenosis,0.147021
+Eyelash thickening,0.147021
+Lacunar infarction,0.147021
+Infusion site irritation,0.147021
+Congenital musculoskeletal anomaly,0.147021
+Nasal septum disorder,0.147021
+Blepharal pigmentation,0.147021
+Eyelash hyperpigmentation,0.147021
+Severe acute respiratory syndrome,0.147021
+Embolic stroke,0.147021
+Type IIa hyperlipidaemia,0.147021
+Abdominal abscess,0.147021
+Seroma,0.147021
+Gastrointestinal stoma complication,0.147021
+Cutis laxa,0.147021
+Non-small cell lung cancer,0.147021
+Osmotic demyelination syndrome,0.147021
+Nipple swelling,0.147021
+Product taste abnormal,0.147021
+Cataract traumatic,0.147021
+Facial wasting,0.147021
+Injection site vesicles,0.147021
+Post procedural haematoma,0.147021
+Haemorrhagic erosive gastritis,0.147021
+Spinal cord haemorrhage,0.147021
+Pharyngeal lesion,0.147021
+Arthritis infective,0.147021
+Vaginal prolapse,0.147021
+Sputum purulent,0.147021
+Post thrombotic syndrome,0.147021
+Gastroenteritis bacterial,0.147021
+Primary hypothyroidism,0.147021
+Chest X-ray abnormal,0.147021
+Blood calcium abnormal,0.147021
+Bowen's disease,0.147021
+Anal cancer,0.147021
+Anal abscess,0.147021
+Peripheral artery stenosis,0.147021
+Troponin increased,0.147021
+Milia,0.147021
+Keloid scar,0.147021
+Pseudomononucleosis,0.147021
+Immunosuppression,0.147021
+Osteosarcoma,0.147021
+Lymph node pain,0.147021
+Dysstasia,0.147021
+Cirrhosis alcoholic,0.147021
+Spondylitis,0.147021
+Blood luteinising hormone increased,0.147021
+Metastatic malignant melanoma,0.147021
+Balanitis candida,0.147021
+Pharyngeal haemorrhage,0.147021
+Retinal ischaemia,0.147021
+Brain stem haemorrhage,0.147021
+Antibody test positive,0.147021
+Mediastinitis,0.147021
+Alcoholic pancreatitis,0.147021
+Urinary tract infection fungal,0.147021
+Acrochordon,0.147021
+Klinefelter's syndrome,0.147021
+Imperforate hymen,0.147021
+Pulpitis dental,0.147021
+Premature separation of placenta,0.09276
+Failed induction of labour,0.09276
+Amniotic cavity infection,0.09276
+Corneal decompensation,0.09276
+Hypertrophic osteoarthropathy,0.09276
+Scrotal disorder,0.09276
+Peritonsillitis,0.09276
+Penile curvature,0.09276
+Penile haematoma,0.09276
+Congenital absence of bile ducts,0.09276
+Homocystinuria,0.09276
+Hypermethioninaemia,0.09276
+Sense of oppression,0.09276
+Paroxysmal nocturnal haemoglobinuria,0.09276
+Grey syndrome neonatal,0.09276
+Reaction to drug excipients,0.09276
+Citrate toxicity,0.09276
+Sebaceous gland disorder,0.09276
+Trichotillomania,0.09276
+Vocal cord disorder,0.09276
+Rubber sensitivity,0.09276
+Animal scratch,0.09276
+Feelings of worthlessness,0.09276
+Injection site joint pain,0.09276
+Neurological examination abnormal,0.09276
+Infrequent bowel movements,0.09276
+Benign vaginal neoplasm,0.09276
+Breast malformation,0.09276
+Malignant mesenchymoma,0.09276
+Blood oestrogen increased,0.09276
+Pleural infection,0.09276
+Morbid thoughts,0.09276
+Hernia pain,0.09276
+Fungal test positive,0.09276
+Post-tussive vomiting,0.09276
+Cytarabine syndrome,0.09276
+Spinal cord paralysis,0.09276
+Gas gangrene,0.09276
+Injection site pallor,0.09276
+Injection site injury,0.09276
+Central nervous system haemorrhage,0.09276
+Craniosynostosis,0.09276
+Epiphysiolysis,0.09276
+Dreamy state,0.09276
+Acanthosis nigricans,0.09276
+Nicotine dependence,0.09276
+Tobacco poisoning,0.09276
+Tobacco withdrawal symptoms,0.09276
+Cerebral hypoperfusion,0.09276
+Testis cancer,0.09276
+Tetrahydrobiopterin deficiency,0.09276
+Myofascial pain syndrome,0.09276
+Angiodermatitis,0.09276
+Catheter site cellulitis,0.09276
+Proctitis ulcerative,0.09276
+Tonic convulsion,0.09276
+Purple glove syndrome,0.09276
+Blastomycosis,0.09276
+Myelodysplastic syndrome transformation,0.09276
+Leukaemia cutis,0.09276
+AIDS dementia complex,0.09276
+Hyperfibrinogenaemia,0.09276
+Blood fibrinogen increased,0.09276
+Pelvic haemorrhage,0.09276
+Purpura fulminans,0.09276
+Cardiac output increased,0.09276
+Cardiac failure high output,0.09276
+Osteogenesis imperfecta,0.09276
+Oesophageal irritation,0.09276
+Anastomotic ulcer,0.09276
+Atypical fracture,0.09276
+Angioimmunoblastic T-cell lymphoma,0.09276
+Nocturnal emission,0.09276
+Loss of control of legs,0.09276
+Malaria,0.09276
+Bone marrow granuloma,0.09276
+Solar dermatitis,0.09276
+Essential thrombocythaemia,0.09276
+Cardiac septal defect,0.09276
+Sinusitis bacterial,0.09276
+Hypocalciuria,0.09276
+Lyme disease,0.09276
+Relapsing fever,0.09276
+Coombs positive haemolytic anaemia,0.09276
+Platelet dysfunction,0.09276
+Eye infection viral,0.09276
+Purine metabolism disorder,0.09276
+Inferior vena cava syndrome,0.09276
+Acromegaly,0.09276
+Ergot poisoning,0.09276
+Superior sagittal sinus thrombosis,0.09276
+Chondrolysis,0.09276
+Delayed delivery,0.09276
+Dissociative disorder,0.09276
+Tunnel vision,0.09276
+Pulmonary valve incompetence,0.09276
+Peripheral artery thrombosis,0.09276
+Pulmonary ossification,0.09276
+Dystrophic calcification,0.09276
+Endocardial fibrosis,0.09276
+Stroke volume increased,0.09276
+Thyroxine decreased,0.09276
+Koebner phenomenon,0.09276
+High turnover osteopathy,0.09276
+Brown tumour,0.09276
+Calcification metastatic,0.09276
+Calcium intoxication,0.09276
+HIV associated nephropathy,0.09276
+Application site urticaria,0.09276
+Renovascular hypertension,0.09276
+Spermatogenesis abnormal,0.09276
+Human herpesvirus 6 infection,0.09276
+Vanishing bile duct syndrome,0.09276
+Pulmonary hypoplasia,0.09276
+Anaplastic astrocytoma,0.09276
+Cardioactive drug level increased,0.09276
+Abdominal infection,0.09276
+Intertrigo candida,0.09276
+Vertigo CNS origin,0.09276
+Retinal deposits,0.09276
+Retinal injury,0.09276
+Strongyloidiasis,0.09276
+Anthrax,0.09276
+Repetitive strain injury,0.09276
+Pneumonia anthrax,0.09276
+Suprapubic pain,0.09276
+Aortic bruit,0.09276
+Chromosomal mutation,0.09276
+Eyelid exfoliation,0.09276
+Loss of proprioception,0.09276
+Pericardial disease,0.09276
+Sports injury,0.09276
+Keratoconus,0.09276
+Radius fracture,0.09276
+Salmonellosis,0.09276
+Tracheal disorder,0.09276
+Ulna fracture,0.09276
+Post-traumatic neck syndrome,0.09276
+Muscle rupture,0.09276
+Neurotransmitter level altered,0.09276
+Otosalpingitis,0.09276
+Ankle fracture,0.09276
+Reflux gastritis,0.09276
+Generalised anxiety disorder,0.09276
+Epidermal naevus,0.09276
+House dust allergy,0.09276
+Finger deformity,0.09276
+Pyelonephritis acute,0.09276
+Food craving,0.09276
+Sensation of blood flow,0.09276
+Alcohol problem,0.09276
+Nasal septum deviation,0.09276
+Stress at work,0.09276
+Genitourinary chlamydia infection,0.09276
+Performance status decreased,0.09276
+Latent tetany,0.09276
+Anal atresia,0.09276
+Coarctation of the aorta,0.09276
+Choriocarcinoma,0.09276
+Cytogenetic abnormality,0.09276
+Lymphocytic leukaemia,0.09276
+Meningomyelocele,0.09276
+Neural tube defect,0.09276
+Prolactinoma,0.09276
+Fallot's tetralogy,0.09276
+Neurofibromatosis,0.09276
+Neuroectodermal neoplasm,0.09276
+Hepatoblastoma,0.09276
+Bone development abnormal,0.09276
+Ovarian germ cell teratoma benign,0.09276
+Cloacal exstrophy,0.09276
+Hepatic angiosarcoma,0.09276
+Tongue neoplasm malignant stage unspecified,0.09276
+Ovarian haemorrhage,0.09276
+Pectus excavatum,0.09276
+Hydrothorax,0.09276
+Syndactyly,0.09276
+Conjoined twins,0.09276
+Spina bifida occulta,0.09276
+Ovulation pain,0.09276
+Tibial torsion,0.09276
+Waxy flexibility,0.09276
+Hypnagogic hallucination,0.09276
+Uterine inflammation,0.09276
+Fat intolerance,0.09276
+Incomplete precocious puberty,0.09276
+Abnormal sleep-related event,0.09276
+Axonal neuropathy,0.09276
+Ureteritis,0.09276
+Malignant neoplasm of renal pelvis,0.09276
+Ureteric cancer,0.09276
+Bladder necrosis,0.09276
+Ovarian atrophy,0.09276
+Myopericarditis,0.09276
+Carditis,0.09276
+Hypothrombinaemia,0.09276
+Wound healing normal,0.09276
+Parotid gland inflammation,0.09276
+Systemic mycosis,0.09276
+Transplant failure,0.09276
+Foetal chromosome abnormality,0.09276
+Bartholin's cyst,0.09276
+Joint lock,0.09276
+Splenic peliosis,0.09276
+Cryptococcal cutaneous infection,0.09276
+Pyramidal tract syndrome,0.09276
+Metaphyseal dysplasia,0.09276
+Gastroenteritis yersinia,0.09276
+Retinal aneurysm,0.09276
+Complication of device insertion,0.09276
+Joint instability,0.09276
+Anhedonia,0.09276
+Vasculitis cerebral,0.09276
+Fructose intolerance,0.09276
+Ingrown hair,0.09276
+Pseudofolliculitis barbae,0.09276
+Floppy infant,0.09276
+Blood immunoglobulin G decreased,0.09276
+Pancreatic necrosis,0.09276
+Intestinal diaphragm disease,0.09276
+Pseudodementia,0.09276
+Posterior capsule opacification,0.09276
+Autism,0.09276
+Learning disorder,0.09276
+Polycystic ovaries,0.09276
+Coagulation factor decreased,0.09276
+Hypofibrinogenaemia,0.09276
+Cerebellar atrophy,0.09276
+Autism spectrum disorder,0.09276
+Deficiency anaemia,0.09276
+Infective tenosynovitis,0.09276
+Cellulitis staphylococcal,0.09276
+Lung adenocarcinoma stage I,0.09276
+Blood pressure inadequately controlled,0.09276
+Electrocardiogram ST-T segment abnormal,0.09276
+Anophthalmos,0.09276
+Lipidosis,0.09276
+Hepatitis C antibody positive,0.09276
+Vascular calcification,0.09276
+Hypervitaminosis D,0.09276
+Chlamydial infection,0.09276
+Postmenopausal haemorrhage,0.09276
+Extraskeletal ossification,0.09276
+Hypercalcaemia of malignancy,0.09276
+Osteolysis,0.09276
+Placental disorder,0.09276
+Mean cell volume increased,0.09276
+Transaminases decreased,0.09276
+Nail ridging,0.09276
+Gingival ulceration,0.09276
+Oral pustule,0.09276
+Intranasal hypoaesthesia,0.09276
+Evans syndrome,0.09276
+Myringitis,0.09276
+External ear disorder,0.09276
+Dacryocanaliculitis,0.09276
+White matter lesion,0.09276
+Foetal alcohol syndrome,0.09276
+Oesophageal varices haemorrhage,0.09276
+Toe walking,0.09276
+Cervix haemorrhage uterine,0.09276
+Langerhans' cell histiocytosis,0.09276
+Body height decreased,0.09276
+Spasmodic dysphonia,0.09276
+Hypochondriasis,0.09276
+Screaming,0.09276
+Somnolence neonatal,0.09276
+Heart alternation,0.09276
+Activation syndrome,0.09276
+Cranial nerve disorder,0.09276
+Urinary sediment abnormal,0.09276
+Candida sepsis,0.09276
+Electrolyte depletion,0.09276
+Pseudo-Bartter syndrome,0.09276
+Staphylococcal skin infection,0.09276
+Occipital neuralgia,0.09276
+Pericardial rub,0.09276
+Scrotal swelling,0.09276
+Vascular dementia,0.09276
+Device related sepsis,0.09276
+Blood bilirubin normal,0.09276
+Oral toxicity,0.09276
+Tracheostomy infection,0.09276
+Increased viscosity of bronchial secretion,0.09276
+Puncture site pain,0.09276
+Noninfectious peritonitis,0.09276
+Peritonitis bacterial,0.09276
+Fungal peritonitis,0.09276
+Device interaction,0.09276
+Catheter site inflammation,0.09276
+Sclerosing encapsulating peritonitis,0.09276
+Peritoneal cloudy effluent,0.09276
+Argininosuccinate synthetase deficiency,0.09276
+Spastic paralysis,0.09276
+Acne infantile,0.09276
+Application site folliculitis,0.09276
+Erythema annulare,0.09276
+Macular pigmentation,0.09276
+Erythema infectiosum,0.09276
+Ventricular flutter,0.09276
+Rash scarlatiniform,0.09276
+Bronchopulmonary dysplasia,0.09276
+Mixed connective tissue disease,0.09276
+Intraventricular haemorrhage,0.09276
+Anaemia neonatal,0.09276
+Pelvic neoplasm,0.09276
+Blood gonadotrophin increased,0.09276
+Febrile bone marrow aplasia,0.09276
+Ovulation disorder,0.09276
+Renal rickets,0.09276
+Post procedural oedema,0.09276
+Anosognosia,0.09276
+Facial neuralgia,0.09276
+Body temperature fluctuation,0.09276
+Artery dissection,0.09276
+Lordosis,0.09276
+Vessel perforation,0.09276
+Brachial plexus injury,0.09276
+Postoperative ileus,0.09276
+Nicotinic acid deficiency,0.09276
+Sinus rhythm,0.09276
+Myopathy toxic,0.09276
+Mesenteric artery thrombosis,0.09276
+Pancreatic enzymes abnormal,0.09276
+Disease recurrence,0.09276
+Blood electrolytes decreased,0.09276
+Gastrointestinal hypermotility,0.09276
+Sperm concentration,0.09276
+Juvenile idiopathic arthritis,0.09276
+Injection site abscess sterile,0.09276
+Aortic aneurysm rupture,0.09276
+Persistent foetal circulation,0.09276
+Papillary muscle rupture,0.09276
+Postinfarction angina,0.09276
+Diabetic vascular disorder,0.09276
+Skin maceration,0.09276
+Mediastinum neoplasm,0.09276
+Superior vena cava syndrome,0.09276
+Platelet count normal,0.09276
+Macular fibrosis,0.09276
+Cataract diabetic,0.09276
+Oesophageal atresia,0.09276
+Congenital megacolon,0.09276
+Polyhydramnios,0.09276
+Hydrops foetalis,0.09276
+Neurofibroma,0.09276
+Turner's syndrome,0.09276
+Spina bifida,0.09276
+Vaginal dysplasia,0.09276
+Congenital diaphragmatic hernia,0.09276
+Limb deformity,0.09276
+Uterine cyst,0.09276
+Single umbilical artery,0.09276
+Platelet aggregation inhibition,0.09276
+Diffuse alopecia,0.09276
+Heart rate abnormal,0.09276
+Accident at home,0.09276
+Blood count abnormal,0.09276
+Radiation myelopathy,0.09276
+Muscle fibrosis,0.09276
+Complex partial seizures,0.09276
+Adenovirus infection,0.09276
+Kidney fibrosis,0.09276
+Body mass index decreased,0.09276
+Rectal spasm,0.09276
+Blood methaemoglobin present,0.09276
+Acetonaemia,0.09276
+Stress fracture,0.09276
+Nocardiosis,0.09276
+Hidradenitis,0.09276
+Pneumonia cytomegaloviral,0.09276
+Hepatic atrophy,0.09276
+Herpes simplex hepatitis,0.09276
+Carotid sinus syndrome,0.09276
+Weight gain poor,0.09276
+"Hallucination, tactile",0.09276
+Reversible ischaemic neurological deficit,0.09276
+White blood cell count abnormal,0.09276
+Leriche syndrome,0.09276
+Aortic embolus,0.09276
+Candida cervicitis,0.09276
+Mean arterial pressure decreased,0.09276
+Ectopic ACTH syndrome,0.09276
+Multiparous,0.09276
+Adrenal gland cancer,0.09276
+Blood acid phosphatase increased,0.09276
+Mineralocorticoid deficiency,0.09276
+Abdominal injury,0.09276
+Hepatic infiltration eosinophilic,0.09276
+Rhinitis atrophic,0.09276
+Fluid intake reduced,0.09276
+Reticuloendothelial system stimulated,0.09276
+Shift to the left,0.09276
+Parotid duct obstruction,0.09276
+Complications of transplant surgery,0.09276
+Cytomegalovirus gastritis,0.09276
+Alcoholic psychosis,0.09276
+Somatic hallucination,0.09276
+Blood creatinine normal,0.09276
+Parathyroid tumour,0.09276
+Vertical infection transmission,0.09276
+Palpable purpura,0.09276
+Gastrooesophageal sphincter insufficiency,0.09276
+Allergic hepatitis,0.09276
+Haptoglobin increased,0.09276
+Delirium tremens,0.09276
+Benign hepatic neoplasm,0.09276
+Intermittent explosive disorder,0.09276
+Uterine perforation,0.09276
+Vaginal neoplasm,0.09276
+Smear cervix normal,0.09276
+Hypoglycaemic unconsciousness,0.09276
+Gonorrhoea,0.09276
+Chemical eye injury,0.09276
+Phonological disorder,0.09276
+Lenticular pigmentation,0.09276
+Mixed liver injury,0.09276
+Carcinoid tumour,0.09276
+Gastrinoma,0.09276
+Mucosal atrophy,0.09276
+Lymphocyte transformation test positive,0.09276
+Menopausal disorder,0.09276
+Tympanic membrane disorder,0.09276
+Aortic rupture,0.09276
+Post procedural constipation,0.09276
+Malignant transformation,0.09276
+Squamous cell carcinoma of lung,0.09276
+Coronary artery stenosis,0.09276
+Skin fibrosis,0.09276
+Visual evoked potentials abnormal,0.09276
+B-cell type acute leukaemia,0.09276
+Cholecystitis infective,0.09276
+Soft tissue inflammation,0.09276
+Laryngeal disorder,0.09276
+Postpartum disorder,0.09276
+Tooth malformation,0.09276
+Negativism,0.09276
+Traumatic fracture,0.09276
+Yellow nail syndrome,0.09276
+Goodpasture's syndrome,0.09276
+Blood fibrinogen decreased,0.09276
+Bone sarcoma,0.09276
+Antitussive therapy,0.09276
+Macular hole,0.09276
+Oculomucocutaneous syndrome,0.09276
+Hepatic enzyme decreased,0.09276
+Skin erosion,0.09276
+Intervertebral discitis,0.09276
+Nasal disorder,0.09276
+Gallbladder cancer,0.09276
+Flight of ideas,0.09276
+Vestibular ataxia,0.09276
+Oral neoplasm benign,0.09276
+Compulsive sexual behaviour,0.09276
+Purpura senile,0.09276
+Adrenal atrophy,0.09276
+Eosinopenia,0.09276
+Substance-induced psychotic disorder,0.09276
+Haemoglobin normal,0.09276
+Carotid pulse,0.09276
+Hypergammaglobulinaemia,0.09276
+pH urine decreased,0.09276
+Poikilocytosis,0.09276
+Collagen-vascular disease,0.09276
+Atrial hypertrophy,0.09276
+Cardioactive drug level above therapeutic,0.09276
+Postoperative fever,0.09276
+Atrophic glossitis,0.09276
+Electrocardiogram QRS complex prolonged,0.09276
+Drug screen positive,0.09276
+Ileal ulcer,0.09276
+Bicytopenia,0.09276
+Mycobacterial infection,0.09276
+Chronic allograft nephropathy,0.09276
+Ascariasis,0.09276
+Type 1 diabetes mellitus,0.09276
+Cutaneous sarcoidosis,0.09276
+Enterobiasis,0.09276
+CD4 lymphocytes decreased,0.09276
+Psychiatric evaluation abnormal,0.09276
+Thyroglobulin increased,0.09276
+Anti-thyroid antibody positive,0.09276
+Injection site dryness,0.09276
+Tongue pigmentation,0.09276
+Acrodynia,0.09276
+Granuloma skin,0.09276
+Automatism,0.09276
+Injection site cyst,0.09276
+Platelet production decreased,0.09276
+Osteodystrophy,0.09276
+Otitis media chronic,0.09276
+Injection site ulcer,0.09276
+Long QT syndrome congenital,0.09276
+Electrocardiogram QT interval abnormal,0.09276
+Plateletcrit decreased,0.09276
+Xanthomatosis,0.09276
+Retinogram abnormal,0.09276
+Oesophageal rupture,0.09276
+Congenital joint malformation,0.09276
+Freezing phenomenon,0.09276
+Laryngeal cancer,0.09276
+Rectal cancer,0.09276
+Middle ear effusion,0.09276
+Intervertebral disc degeneration,0.09276
+Angiomyolipoma,0.09276
+Salivary duct obstruction,0.09276
+Anaplastic thyroid cancer,0.09276
+Ischaemic hepatitis,0.09276
+Abdominal adhesions,0.09276
+Peritoneal adhesions,0.09276
+Infected cyst,0.09276
+Adhesion,0.09276
+Fluoride increased,0.09276
+Glomerulonephritis membranoproliferative,0.09276
+Chloropsia,0.09276
+Erythropsia,0.09276
+Arteriosclerotic retinopathy,0.09276
+Mastocytosis,0.09276
+Chronic eosinophilic leukaemia,0.09276
+Haemorrhagic ovarian cyst,0.09276
+Insulinoma,0.09276
+Shock hypoglycaemic,0.09276
+T-cell lymphoma,0.09276
+Pelvi-ureteric obstruction,0.09276
+Enterococcal infection,0.09276
+Myoglobinaemia,0.09276
+Cluster headache,0.09276
+Musculoskeletal deformity,0.09276
+Temporal arteritis,0.09276
+Kaposi's varicelliform eruption,0.09276
+Hepatic cyst,0.09276
+Endometrial adenocarcinoma,0.09276
+Dacryocystitis,0.09276
+Conjunctival cyst,0.09276
+Corneal defect,0.09276
+Brain stem glioma,0.09276
+Male orgasmic disorder,0.09276
+Clitoral engorgement,0.09276
+Wernicke-Korsakoff syndrome,0.09276
+Gingival oedema,0.09276
+Blood urea normal,0.09276
+Pulmonary microemboli,0.09276
+Buccal mucosal roughening,0.09276
+Abnormal clotting factor,0.09276
+Gingival erythema,0.09276
+Gingival blister,0.09276
+Impatience,0.09276
+Pulmonary oil microembolism,0.09276
+Erythroleukaemia,0.09276
+Spleen palpable,0.09276
+Diverticular perforation,0.09276
+Eosinophilic cystitis,0.09276
+Eye ulcer,0.09276
+Presbyopia,0.09276
+Distractibility,0.09276
+Upper motor neurone lesion,0.09276
+Ketogenic diet,0.09276
+Essential tremor,0.09276
+Familial tremor,0.09276
+Blood bicarbonate,0.09276
+Learning disability,0.09276
+Lack of spontaneous speech,0.09276
+Tandem gait test abnormal,0.09276
+Herpangina,0.09276
+Rectal prolapse,0.09276
+Tendon injury,0.09276
+Pyelonephritis chronic,0.09276
+Mammogram abnormal,0.09276
+Back disorder,0.09276
+Hand fracture,0.09276
+Alanine aminotransferase decreased,0.09276
+Aspartate aminotransferase decreased,0.09276
+Food aversion,0.09276
+Band neutrophil count increased,0.09276
+Red cell distribution width increased,0.09276
+Analgesic therapy,0.09276
+Mean platelet volume decreased,0.09276
+Genitourinary tract infection,0.09276
+Renal cortical necrosis,0.09276
+Aortic dissection,0.09276
+Multiple allergies,0.09276
+Morphoea,0.09276
+Agnosia,0.09276
+Ochronosis,0.09276
+Osteitis,0.09276
+Slow speech,0.09276
+Nail dystrophy,0.09276
+Acne fulminans,0.09276
+Excessive granulation tissue,0.09276
+Muscle tone disorder,0.09276
+Blindness day,0.09276
+Linear IgA disease,0.09276
+Osteosclerosis,0.09276
+Developmental coordination disorder,0.09276
+Myoclonic epilepsy,0.09276
+Hamartoma,0.09276
+Congenital oral malformation,0.09276
+Dentofacial anomaly,0.09276
+Limb malformation,0.09276
+Postictal state,0.09276
+Haemangioma congenital,0.09276
+Congenital hydronephrosis,0.09276
+Congenital vesicoureteric reflux,0.09276
+Croup infectious,0.09276
+Developmental hip dysplasia,0.09276
+Dysmorphism,0.09276
+Foetal anticonvulsant syndrome,0.09276
+Cytotoxic oedema,0.09276
+Small cell lung cancer,0.09276
+Conjunctivitis bacterial,0.09276
+Acute stress disorder,0.09276
+Intestinal mass,0.09276
+Genital lesion,0.09276
+Blood copper decreased,0.09276
+Copper deficiency,0.09276
+Exposure to toxic agent,0.09276
+Neonatal hyponatraemia,0.09276
+Factor I deficiency,0.09276
+Convulsion neonatal,0.09276
+Pelvic haematoma,0.09276
+Abscess sterile,0.09276
+Urine sodium increased,0.09276
+Zinc deficiency,0.09276
+Blood zinc decreased,0.09276
+Bone lesion,0.09276
+Knee deformity,0.09276
+Cervical incompetence,0.09276
+Gestational hypertension,0.09276
+Shortened cervix,0.09276
+Hypopyon,0.09276
+Cataract cortical,0.09276
+Cataract nuclear,0.09276
+Detachment of retinal pigment epithelium,0.09276
+Optic disc vascular disorder,0.09276
+Spinal cord infarction,0.09276
+Contracted bladder,0.09276
+Bovine tuberculosis,0.09276
+Congenital limb hyperextension,0.09276
+Female orgasmic disorder,0.09276
+Metal poisoning,0.09276
+Chrysiasis,0.09276
+Arteriovenous fistula thrombosis,0.09276
+Abortion infected,0.09276
+Barium impaction,0.09276
+Hypophosphataemic rickets,0.09276
+Congenital hypothyroidism,0.09276
+Bladder diverticulum,0.09276
+Brugada syndrome,0.09276
+Kearns-Sayre syndrome,0.09276
+Lichenification,0.09276
+Atopy,0.09276
+Urinary tract pain,0.09276
+Delayed recovery from anaesthesia,0.09276
+Implant site pain,0.09276
+Senile ankylosing vertebral hyperostosis,0.09276
+Adenocarcinoma pancreas,0.09276
+Monocyte count decreased,0.09276
+Hepatitis F,0.09276
+Pneumatosis,0.09276
+Shunt thrombosis,0.09276
+Tumour compression,0.09276
+Retained placenta or membranes,0.09276
+Cardiac enzymes increased,0.09276
+Abortion incomplete,0.09276
+Conjunctival ulcer,0.09276
+Small intestine ulcer,0.09276
+Large intestinal ulcer,0.09276
+Lower urinary tract symptoms,0.09276
+Anaesthetic complication neurological,0.09276
+Agitation postoperative,0.09276
+Confusion postoperative,0.09276
+Nerve conduction studies abnormal,0.09276
+Monoclonal gammopathy,0.09276
+Otorrhoea,0.09276
+Gallbladder polyp,0.09276
+Blood growth hormone increased,0.09276
+Erythrasma,0.09276
+Pseudomonal sepsis,0.09276
+Infusion site infection,0.09276
+Injection site paraesthesia,0.09276
+Carcinoma in situ,0.09276
+Oesophageal neoplasm,0.09276
+Lung abscess,0.09276
+Bronchostenosis,0.09276
+Bronchial ulceration,0.09276
+Bronchial secretion retention,0.09276
+Oesophageal oedema,0.09276
+Uterovaginal prolapse,0.09276
+Hypertrophic scar,0.09276
+Application site scar,0.09276
+Application site cellulitis,0.09276
+Serum ferritin decreased,0.09276
+Community acquired infection,0.09276
+Prothrombin time ratio,0.09276
+Prothrombin time abnormal,0.09276
+Staring,0.09276
+Eyelid bleeding,0.09276
+Scleromalacia,0.09276
+Stomatitis necrotising,0.09276
+Vascular rupture,0.09276
+Factor XI deficiency,0.09276
+Acquired lipoatrophic diabetes,0.09276
+Congenital generalised lipodystrophy,0.09276
+Jaw disorder,0.09276
+Kyphosis,0.09276
+Tuberculin test positive,0.09276
+Schizoaffective disorder,0.09276
+Body tinea,0.09276
+Mendelson's syndrome,0.09276
+Urethral discharge,0.09276
+Clavicle fracture,0.09276
+Suspiciousness,0.09276
+Dizziness exertional,0.09276
+Tonsillar hypertrophy,0.09276
+Early menarche,0.09276
+Akinaesthesia,0.09276
+Blood creatine phosphokinase abnormal,0.09276
+Blood triglycerides decreased,0.09276
+Temperature regulation disorder,0.09276
+Eyelid function disorder,0.09276
+Mastication disorder,0.09276
+Diet refusal,0.09276
+Urine ketone body present,0.09276
+Decreased immune responsiveness,0.09276
+Hypophagia,0.09276
+Bacterial test positive,0.09276
+Gaze palsy,0.09276
+Head lag abnormal,0.09276
+ECG signs of myocardial ischaemia,0.09276
+Blood cholesterol decreased,0.09276
+Accident,0.09276
+Secondary hypertension,0.09276
+Pressure of speech,0.09276
+Genital hypoaesthesia,0.09276
+Labile hypertension,0.09276
+Mesothelioma,0.09276
+Radiation oesophagitis,0.09276
+Extremity necrosis,0.09276
+Eosinophil count abnormal,0.09276
+Syphilis,0.09276
+Secondary syphilis,0.09276
+Toxic dilatation of intestine,0.09276
+Food intolerance,0.09276
+Upper limb fracture,0.09276
+Red blood cells semen positive,0.09276
+Bacterial prostatitis,0.09276
+Cytomegalovirus syndrome,0.09276
+Leukostasis,0.09276
+Tumour cell mobilisation,0.09276
+Blood testosterone free increased,0.09276
+Microembolism,0.09276
+Calciphylaxis,0.09276
+Dilatation ventricular,0.09276
+Left ventricular hypertrophy,0.09276
+Malignant neoplasm progression,0.09276
+Foreign body in eye,0.09276
+Pterygium,0.09276
+Subconjunctival cyst,0.09276
+Scleral pigmentation,0.09276
+Cardio-respiratory distress,0.09276
+Hypoglycaemia neonatal,0.09276
+Fever neonatal,0.09276
+Vomiting neonatal,0.09276
+Bradycardia foetal,0.09276
+Sepsis neonatal,0.09276
+Blood urea decreased,0.09276
+Neonatal infection,0.09276
+Neonatal tachypnoea,0.09276
+Respiratory disorder neonatal,0.09276
+Polydipsia psychogenic,0.09276
+Blood sodium abnormal,0.09276
+Paracoccidioides infection,0.09276
+Microcytosis,0.09276
+Granuloma annulare,0.09276
+Choluria,0.09276
+Chest X-ray normal,0.09276
+Anion gap increased,0.09276
+Brain herniation,0.09276
+Bronchial disorder,0.09276
+Chronic fatigue syndrome,0.09276
+Plasma cell leukaemia,0.09276
+Listeriosis,0.09276
+Mastoiditis,0.09276
+Radiculitis,0.09276
+Vulval ulceration,0.09276
+Hyperviscosity syndrome,0.09276
+Hepatic haemorrhage,0.09276
+Epididymal tenderness,0.09276
+Cardiac amyloidosis,0.09276
+Cytomegalovirus hepatitis,0.09276
+Mantle cell lymphoma,0.09276
+Eyelid infection,0.09276
+Jessner's lymphocytic infiltration,0.09276
+Vestibular neuronitis,0.09276
+Dacryoadenitis acquired,0.09276
+Blood test abnormal,0.09276
+Anal sphincter atony,0.09276
+Lymphocytic infiltration,0.09276
+Brain stem syndrome,0.09276
+Blood uric acid abnormal,0.09276
+Platelet aggregation increased,0.09276
+Deafness bilateral,0.09276
+Acute disseminated encephalomyelitis,0.09276
+Histiocytosis haematophagic,0.09276
+Herpes simplex encephalitis,0.09276
+Insulin C-peptide increased,0.09276
+Pneumonia mycoplasmal,0.09276
+Parainfluenzae virus infection,0.09276
+Gastroenteritis adenovirus,0.09276
+Fungal sepsis,0.09276
+Enterococcal bacteraemia,0.09276
+Escherichia bacteraemia,0.09276
+Carotid artery stenosis,0.09276
+Hypertensive encephalopathy,0.09276
+Malignant ovarian cyst,0.09276
+Gastric cancer,0.09276
+N-acetylglutamate synthase deficiency,0.09276
+Hydroureter,0.09276
+Transverse sinus thrombosis,0.09276
+Eye naevus,0.09276
+Lid sulcus deepened,0.09276
+Anterior chamber pigmentation,0.09276
+Pigment dispersion syndrome,0.09276
+Dark circles under eyes,0.09276
+Lumbar radiculopathy,0.09276
+pH urine increased,0.09276
+Immunosuppressant drug level increased,0.09276
+Infusion site urticaria,0.09276
+Carotid artery thrombosis,0.09276
+Cervix neoplasm,0.09276
+Electrocardiogram QT shortened,0.09276
+Calcium metabolism disorder,0.09276
+Thyroid cancer,0.09276
+Chronic leukaemia,0.09276
+Enophthalmos,0.09276
+Trichorrhexis,0.09276
+Conjunctival bleb,0.09276
+Pica,0.09276
+Mechanical urticaria,0.09276
+Urticaria physical,0.09276
+Gastroenteritis salmonella,0.09276
+Neoplasm progression,0.09276
+Blood gonadotrophin decreased,0.09276
+Glucocorticoids decreased,0.09276
+Drug level changed,0.09276
+Aortic valve sclerosis,0.09276
+Anal candidiasis,0.09276
+Dermatophytosis,0.09276
+Staphylococcal scalded skin syndrome,0.09276
+Deficiency of bile secretion,0.09276
+Epidermal growth factor receptor decreased,0.09276
+Pelvic abscess,0.09276
+Scleral disorder,0.09276
+Viral pharyngitis,0.09276
+Anastomotic leak,0.09276
+Infusion site oedema,0.09276
+Infusion site warmth,0.09276
+Urinary sediment present,0.09276
+Choroidal effusion,0.09276
+Catheter site related reaction,0.09276
+Post procedural diarrhoea,0.09276
+Semen volume decreased,0.09276
+Hyperparathyroidism primary,0.09276
+Arterial disorder,0.09276
+Ureterostomy site discomfort,0.09276
+Spinal disorder,0.09276
+Pseudohyperkalaemia,0.09276
+Systemic candida,0.09276
+Frustration,0.09276
+Urethral syndrome,0.09276
+Ocular vascular disorder,0.09276
+Hypotonic-hyporesponsive episode,0.09276
+Osteocalcin increased,0.09276
+Vascular graft occlusion,0.09276
+Haematology test abnormal,0.09276
+Foreign body,0.09276
+Medical device discomfort,0.09276
+Coital bleeding,0.09276
+Bloody discharge,0.09276
+Post procedural discharge,0.09276
+Encephalitis cytomegalovirus,0.09276
+Ischaemic cerebral infarction,0.09276
+Dementia with Lewy bodies,0.09276
+Abdominal hernia,0.09276
+Gouty tophus,0.09276
+Nail hypertrophy,0.09276
+Dilatation atrial,0.09276
+Anal skin tags,0.09276
+Venous pressure jugular increased,0.09276
+Gastrointestinal fungal infection,0.09276
+Abdominal strangulated hernia,0.09276
+Vessel puncture site inflammation,0.09276
+Connective tissue inflammation,0.09276
+Peripheral artery aneurysm,0.09276
+Intracardiac thrombus,0.09276
+Metastatic renal cell carcinoma,0.09276
+Oesophageal discomfort,0.09276
+Aortic disorder,0.09276
+Bronchioloalveolar carcinoma,0.09276
+Pelvic fracture,0.09276
+Cervical vertebral fracture,0.09276
+Renal mass,0.09276
+Warm type haemolytic anaemia,0.09276
+Intracranial venous sinus thrombosis,0.09276
+Chondrocalcinosis,0.09276
+Enterobacter sepsis,0.09276
+Prostate cancer metastatic,0.09276
+Neutrophilic dermatosis,0.09276
+Lymphoma cutis,0.09276
+Aphakia,0.09276
+Cyclothymic disorder,0.09276
+Cystocele,0.09276
+Endometrial neoplasm,0.09276
+Fibroma,0.09276
+Female reproductive neoplasm,0.09276
+Leiomyoma,0.09276
+Pyometra,0.09276
+Tricuspid valve incompetence,0.09276
+Uterine prolapse,0.09276
+Motor neurone disease,0.09276
+Clubbing,0.09276
+Hepatitis B surface antigen positive,0.09276
+Rectocele,0.09276
+Anal spasm,0.09276
+Parathyroid tumour benign,0.09276
+Microangiopathy,0.09276
+Varicose veins vulval,0.09276
+Breast fibrosis,0.09276
+Uterine mass,0.09276
+Pulmonary granuloma,0.09276
+Dactylitis,0.09276
+Perineal injury,0.09276
+Fallopian tube cyst,0.09276
+Uterine cervical squamous metaplasia,0.09276
+Hypochromasia,0.09276
+Adenomyosis,0.09276
+Genital injury,0.09276
+5'nucleotidase increased,0.09276
+Ultrasound breast abnormal,0.09276
+Vaginal wall congestion,0.09276
+Urinary bladder polyp,0.09276
+Extremity contracture,0.09276
+Thoracic vertebral fracture,0.09276
+Adnexa uteri cyst,0.09276
+Hydrometra,0.09276
+Adnexa uteri mass,0.09276
+Vaginal erosion,0.09276
+Pedal pulse decreased,0.09276
+Breast fibroma,0.09276
+Colpocele,0.09276
+Ultrasound ovary abnormal,0.09276
+Malformation venous,0.09276
+Wandering pacemaker,0.09276
+Iron binding capacity total,0.09276
+Urine electrolytes abnormal,0.09276
+End stage AIDS,0.09276
+Meningitis viral,0.09276
+Sweat gland tumour,0.09276
+Tongue neoplasm,0.09276
+Proctitis herpes,0.09276
+Infective myositis,0.09276
+Anaplastic large-cell lymphoma,0.09276
+Bronchitis bacterial,0.09276
+Metastases to peritoneum,0.09276
+Bile duct cancer,0.09276
+Neisseria infection,0.09276
+Sinobronchitis,0.09276
+Aortic arteriosclerosis,0.09276
+Nasopharyngeal cancer,0.09276
+Paraproteinaemia,0.09276
+Shock haemorrhagic,0.09276
+Globulins decreased,0.09276
+Sebaceous hyperplasia,0.09276
+Blood insulin decreased,0.09276
+Insulin C-peptide decreased,0.09276
+Oral papilloma,0.09276
+Glomerulonephritis rapidly progressive,0.09276
+Antineutrophil cytoplasmic antibody positive,0.09276
+Insulin autoimmune syndrome,0.09276
+"Extranodal NK/T-cell lymphoma, nasal type",0.09276
+Malignant histiocytosis,0.09276
+Urticaria vesiculosa,0.09276
+Protein-losing gastroenteropathy,0.09276
+Intra-abdominal haematoma,0.09276
+Systemic lupus erythematosus rash,0.09276
+Platelet aggregation abnormal,0.09276
+Enterocolitis infectious,0.09276
+Chylothorax,0.09276
+Small intestinal perforation,0.09276
+Blood magnesium increased,0.09276
+Abdominal wall abscess,0.09276
+Vena cava thrombosis,0.09276
+Infected bites,0.09276
+Alanine aminotransferase normal,0.09276
+Venomous bite,0.09276
+Immediate post-injection reaction,0.09276
+Lentigo,0.09276
+Scar pain,0.09276
+Rectal abscess,0.09276
+Gingival abscess,0.09276
+Apoptosis,0.09276
+Pancreatic abscess,0.09276
+Perineal abscess,0.09276
+Splinter haemorrhages,0.09276
+Abdominal sepsis,0.09276
+Helicobacter gastritis,0.09276
+Gastric ulcer helicobacter,0.09276
+Electrocardiogram repolarisation abnormality,0.09276
+Blue toe syndrome,0.09276
+Hepatic vein thrombosis,0.09276
+Mallory-Weiss syndrome,0.09276
+Pityriasis lichenoides et varioliformis acuta,0.09276
+Retinal pigment epithelial tear,0.09276
+Sphincter of Oddi dysfunction,0.09276
+Glioblastoma,0.09276
+Histiocytosis,0.09276
+Hypogonadism male,0.09276
+Renal vein thrombosis,0.09276
+Glomerulonephropathy,0.09276
+Lymphorrhoea,0.09276
+Renal artery thrombosis,0.09276
+Renal haemorrhage,0.09276
+Perirenal haematoma,0.09276
+Chronic hepatic failure,0.09276
+Lymphangioleiomyomatosis,0.09276
+Blood follicle stimulating hormone increased,0.09276
+Graft thrombosis,0.09276
+Incision site pain,0.09276
+Perinephric collection,0.09276
+Localised intraabdominal fluid collection,0.09276
+Infection reactivation,0.09276
+Multifocal motor neuropathy,0.09276
+Allodynia,0.09276
+Sensorimotor disorder,0.09276
+Neuromuscular toxicity,0.09276
+Radicular pain,0.09276
+Eosinophilic pustular folliculitis,0.09276
+Blood cortisol increased,0.09276
+Blood iron abnormal,0.09276
+Anaesthetic complication,0.09276
+Beta 2 microglobulin increased,0.09276
+Beta 2 microglobulin urine increased,0.09276
+Unwanted awareness during anaesthesia,0.09276
+Recurrence of neuromuscular blockade,0.09276
+Application site infection,0.09276
+Application site pustules,0.09276
+Hypoaldosteronism,0.09276
+Wound haematoma,0.09276
+Aplasia cutis congenita,0.09276
+Cardiac valve replacement complication,0.09276
+Hypotonia neonatal,0.09276
+Disseminated tuberculosis,0.09276
+Aerophagia,0.09276
+Pulmonary function test abnormal,0.09276
+Carotene decreased,0.09276
+Neutrophil percentage increased,0.09276
+Vitamin E decreased,0.09276
+Vitamin K decreased,0.09276
+Inappropriate affect,0.09276
+Dyspnoea at rest,0.09276
+Genital infection male,0.09276
+Infusion site hypersensitivity,0.09276
+Infusion site paraesthesia,0.09276
+Plantar erythema,0.09276
+Enterocutaneous fistula,0.09276
+Ileal perforation,0.09276
+Hyperalbuminaemia,0.09276
+Bronchial haemorrhage,0.09276
+Acne pustular,0.09276
+Oral mucosa erosion,0.09276
+Nail bed infection,0.09276
+Mucosal erosion,0.09276
+Alanine aminotransferase abnormal,0.09276
+Incision site haematoma,0.09276
+Laryngeal haemorrhage,0.09276
+Epiglottitis,0.09276
+Pancreatic insufficiency,0.09276
+Psychiatric decompensation,0.09276
+Aspermia,0.09276
+Lipase abnormal,0.09276
+Salmonella sepsis,0.09276
+Congenital renal cyst,0.09276
+Dermatillomania,0.09276
+Phantom pain,0.09276
+Genital burning sensation,0.09276
+Asymptomatic bacteriuria,0.09276
+Rhinitis ulcerative,0.09276
+Nasal odour,0.09276
+Mucosal excoriation,0.09276
+Calcium deficiency,0.09276
+Diabetic autonomic neuropathy,0.09276
+Tonsillar disorder,0.09276
+Retinopathy proliferative,0.09276
+Osteosarcoma metastatic,0.09276
+Thought blocking,0.09276
+Blood creatine phosphokinase MM increased,0.09276
+Reperfusion injury,0.09276
+Retroperitoneal haematoma,0.09276
+Puncture site reaction,0.09276
+Type III immune complex mediated reaction,0.09276
+Beckwith-Wiedemann syndrome,0.09276
+Hydrocele,0.09276
+Subdural effusion,0.09276
+Respiratory depth increased,0.09276
+Breech presentation,0.09276
+Hyperemesis gravidarum,0.09276
+HELLP syndrome,0.09276
+Obstetric procedure complication,0.09276
+Complication of delivery,0.09276
+Genital discomfort,0.09276
+Cystitis viral,0.09276
+Costovertebral angle tenderness,0.09276
+Tympanic membrane hyperaemia,0.09276
+Lymph node abscess,0.09276
+Submandibular mass,0.09276
+Body fat disorder,0.09276
+Amylase decreased,0.09276
+Cardiac discomfort,0.09276
+Cerebral artery stenosis,0.09276
+Hypnopompic hallucination,0.09276
+Hormone-dependent prostate cancer,0.09276
+Stargardt's disease,0.09276
+Prostatic acid phosphatase increased,0.09276
+Suture related complication,0.09276
+Pneumomediastinum,0.09276
+Aspergilloma,0.09276
+Tracheal fistula,0.09276
+Activated partial thromboplastin time shortened,0.09276
+Prehypertension,0.09276
+Photoonycholysis,0.09276
+Haemobilia,0.09276
+Protein C deficiency,0.09276
+Chronic myelomonocytic leukaemia,0.09276
+Oropharyngeal squamous cell carcinoma,0.09276
+Impaired fasting glucose,0.09276
+Antibody test negative,0.09276
+Spontaneous haematoma,0.09276
+Psoriatic arthropathy,0.09276
+Diabetic foot infection,0.09276
+Corneal dystrophy,0.09276
+Vitreous prolapse,0.09276
+Pupillary reflex impaired,0.09276
+Pupillary deformity,0.09276
+Retinal scar,0.09276

@@ -1,0 +1,18 @@
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix :   <http://example.org/ae-kg#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:DrugShape a sh:NodeShape ;
+  sh:targetClass :Drug ;
+  sh:property [
+    sh:path :actsOn ;
+    sh:minCount 1 ;
+  ] .
+
+:ProteinShape a sh:NodeShape ;
+  sh:targetClass :Protein ;
+  sh:property [
+    sh:path :encodedBy ;
+    sh:minCount 1 ;
+    sh:maxCount 1 ;
+  ] .

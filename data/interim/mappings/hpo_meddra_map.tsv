@@ -1,1275 +1,841 @@
-hpo_id	meddra_pt
-HP:0000011	Neurogenic bladder
-HP:0000015	Bladder diverticulum
-HP:0000016	Urinary retention
-HP:0000017	Nocturia
-HP:0000020	Urinary incontinence
-HP:0000023	Inguinal hernia
-HP:0000024	Prostatitis
-HP:0000027	Azoospermia
-HP:0000028	Cryptorchism
-HP:0000029	Testicular atrophy
-HP:0000031	Epididymitis
-HP:0000034	Hydrocele
-HP:0000072	Hydroureter
-HP:0000083	Renal failure
-HP:0000093	Proteinuria
-HP:0000097	Focal segmental glomerulosclerosis
-HP:0000099	Glomerulonephritis
-HP:0000100	Nephrotic syndrome
-HP:0000103	Polyuria
-HP:0000104	Renal aplasia
-HP:0000107	Renal cyst
-HP:0000112	Nephropathy
-HP:0000121	Nephrocalcinosis
-HP:0000123	Nephritis
-HP:0000126	Hydronephrosis
-HP:0000131	Uterine leiomyoma
-HP:0000132	Menorrhagia
-HP:0000135	Hypogonadism
-HP:0000138	Ovarian cyst
-HP:0000139	Uterine prolapse
-HP:0000147	Polycystic ovaries
-HP:0000175	Cleft palate
-HP:0000206	Glossitis
-HP:0000211	Lockjaw
-HP:0000212	Gingival hyperplasia
-HP:0000217	Dry mouth
-HP:0000224	Hypogeusia
-HP:0000225	Gingival bleeding
-HP:0000230	Gingivitis
-HP:0000238	Hydrocephalus
-HP:0000246	Sinusitis
-HP:0000252	Microcephaly
-HP:0000255	Acute sinusitis
-HP:0000265	Mastoiditis
-HP:0000360	Tinnitus
-HP:0000365	Deafness
-HP:0000369	Low set ears
-HP:0000388	Otitis media
-HP:0000389	Otitis media chronic
-HP:0000421	Epistaxis
-HP:0000458	Anosmia
-HP:0000473	Torticollis
-HP:0000486	Strabismus
-HP:0000490	Sunken eyes
-HP:0000491	Keratitis
-HP:0000498	Blepharitis
-HP:0000501	Glaucoma
-HP:0000505	Visual impairment
-HP:0000508	Eyelid ptosis
-HP:0000509	Conjunctivitis
-HP:0000518	Cataract
-HP:0000520	Exophthalmos
-HP:0000531	Corneal deposits
-HP:0000541	Retinal detachment
-HP:0000544	External ophthalmoplegia
-HP:0000545	Myopia
-HP:0000546	Retinal degeneration
-HP:0000554	Uveitis
-HP:0000563	Keratoconus
-HP:0000573	Retinal haemorrhage
-HP:0000575	Scotoma
-HP:0000579	Lacrimal duct obstruction
-HP:0000602	Ophthalmoplegia
-HP:0000603	Central scotoma
-HP:0000608	Macular degeneration
-HP:0000613	Photophobia
-HP:0000616	Miosis
-HP:0000618	Blindness
-HP:0000620	Dacryocystitis
-HP:0000629	Periorbital swelling
-HP:0000639	Nystagmus
-HP:0000643	Blepharospasm
-HP:0000646	Amblyopia
-HP:0000648	Optic atrophy
-HP:0000651	Diplopia
-HP:0000656	Ectropion
-HP:0000662	Night blindness
-HP:0000670	Dental caries
-HP:0000691	Tooth hypoplasia
-HP:0000704	Periodontal disease
-HP:0000713	Agitation
-HP:0000716	Depressive disorder
-HP:0000717	Autism
-HP:0000718	Aggression
-HP:0000722	Obsessive-compulsive disorder
-HP:0000726	Dementia
-HP:0000729	Autism spectrum disorder
-HP:0000734	Disinhibition
-HP:0000737	Irritability
-HP:0000738	Hallucination
-HP:0000739	Anxiety
-HP:0000741	Apathy
-HP:0000742	Self mutilation
-HP:0000746	Delusion
-HP:0000751	Personality change
-HP:0000756	Agoraphobia
-HP:0000757	Anosognosia
-HP:0000763	Peripheral sensory neuropathy
-HP:0000767	Pectus excavatum
-HP:0000771	Gynaecomastia
-HP:0000776	Diaphragmatic hernia
-HP:0000787	Nephrolithiasis
-HP:0000789	Infertility
-HP:0000796	Urethral obstruction
-HP:0000798	Oligospermia
-HP:0000805	Enuresis
-HP:0000819	Diabetes mellitus
-HP:0000821	Hypothyroidism
-HP:0000822	Hypertension
-HP:0000823	Delayed puberty
-HP:0000826	Precocious puberty
-HP:0000829	Hypoparathyroidism
-HP:0000832	Primary hypothyroidism
-HP:0000836	Hyperthyroidism
-HP:0000843	Hyperparathyroidism
-HP:0000846	Adrenal insufficiency
-HP:0000851	Congenital hypothyroidism
-HP:0000853	Goitre
-HP:0000854	Thyroid adenoma
-HP:0000855	Insulin resistance
-HP:0000870	Hyperprolactinaemia
-HP:0000873	Diabetes insipidus
-HP:0000934	Chondrocalcinosis
-HP:0000938	Osteopenia
-HP:0000939	Osteoporosis
-HP:0000952	Jaundice
-HP:0000953	Melanoderma
-HP:0000956	Acanthosis nigricans
-HP:0000958	Xerosis
-HP:0000961	Cyanosis
-HP:0000962	Hyperkeratosis
-HP:0000964	Dermatitis
-HP:0000966	Hypohidrosis
-HP:0000967	Petechiae
-HP:0000969	Oedema
-HP:0000970	Anhidrosis
-HP:0000973	Cutis laxa
-HP:0000975	Sweating increased
-HP:0000979	Purpura
-HP:0000980	Pallor
-HP:0000988	Rash
-HP:0000989	Pruritus
-HP:0000991	Xanthomatosis
-HP:0000992	Photosensitivity
-HP:0000995	Melanocytic naevus
-HP:0000998	Hypertrichosis
-HP:0000999	Pyoderma
-HP:0001000	Abnormal pigmentation
-HP:0001004	Lymphoedema
-HP:0001007	Hirsutism
-HP:0001009	Telangiectasia
-HP:0001012	Lipomatosis
-HP:0001022	Albinism
-HP:0001025	Urticaria
-HP:0001030	Skin fragility
-HP:0001041	Rosacea
-HP:0001045	Vitiligo
-HP:0001047	Neurodermatitis
-HP:0001055	Erysipelas
-HP:0001056	Milia
-HP:0001057	Aplasia cutis congenita
-HP:0001059	Pterygium
-HP:0001061	Acne
-HP:0001067	Neurofibroma
-HP:0001081	Cholelithiasis
-HP:0001082	Cholecystitis
-HP:0001084	Arcus juvenilis
-HP:0001087	Developmental glaucoma
-HP:0001094	Iridocyclitis
-HP:0001096	Keratoconjunctivitis
-HP:0001097	Xerophthalmia
-HP:0001101	Iritis
-HP:0001105	Retinal atrophy
-HP:0001114	Xanthoma
-HP:0001131	Corneal dystrophy
-HP:0001133	Visual field constriction
-HP:0001147	Retinal exudates
-HP:0001159	Syndactyly
-HP:0001195	Single umbilical artery
-HP:0001217	Clubbing
-HP:0001249	Mental retardation
-HP:0001250	Epilepsy
-HP:0001251	Ataxia
-HP:0001252	Hypotonia
-HP:0001254	Lethargy
-HP:0001257	Muscle spasticity
-HP:0001259	Stupor
-HP:0001260	Dysarthria
-HP:0001262	Excessive daytime sleepiness
-HP:0001263	Developmental delay
-HP:0001265	Hyporeflexia
-HP:0001266	Choreoathetosis
-HP:0001269	Hemiparesis
-HP:0001271	Polyneuropathy
-HP:0001272	Cerebellar atrophy
-HP:0001274	Corpus callosum agenesis
-HP:0001276	Hypertonicity
-HP:0001278	Orthostatic hypotension
-HP:0001279	Syncope
-HP:0001281	Tetany
-HP:0001284	Areflexia
-HP:0001287	Meningitis
-HP:0001288	Gait disturbance
-HP:0001289	Disorientation
-HP:0001297	Cerebrovascular accident
-HP:0001298	Encephalopathy
-HP:0001300	Parkinsonism
-HP:0001310	Dysmetria
-HP:0001319	Hypotonia neonatal
-HP:0001324	Muscular weakness
-HP:0001325	Hypoglycaemic coma
-HP:0001332	Dystonia
-HP:0001336	Myoclonus
-HP:0001337	Tremor
-HP:0001342	Cerebral haemorrhage
-HP:0001347	Hyperreflexia
-HP:0001350	Slurred speech
-HP:0001363	Craniosynostosis
-HP:0001369	Arthritis
-HP:0001370	Rheumatoid arthritis
-HP:0001373	Joint dislocation
-HP:0001382	Joint instability
-HP:0001385	Hip dysplasia
-HP:0001386	Joint swelling
-HP:0001387	Joint stiffness
-HP:0001394	Hepatic cirrhosis
-HP:0001395	Hepatic fibrosis
-HP:0001396	Cholestasis
-HP:0001397	Hepatic steatosis
-HP:0001399	Hepatic insufficiency
-HP:0001402	Hepatocellular carcinoma
-HP:0001409	Portal hypertension
-HP:0001433	Hepatosplenomegaly
-HP:0001482	Subcutaneous nodule
-HP:0001489	Posterior vitreous detachment
-HP:0001508	Failure to thrive
-HP:0001510	Growth retardation
-HP:0001513	Obesity
-HP:0001537	Umbilical hernia
-HP:0001539	Exomphalos
-HP:0001541	Ascites
-HP:0001561	Polyhydramnios
-HP:0001562	Oligohydramnios
-HP:0001596	Alopecia
-HP:0001604	Vocal cord paresis
-HP:0001605	Vocal cord paralysis
-HP:0001609	Hoarseness
-HP:0001618	Dysphonia
-HP:0001622	Premature delivery
-HP:0001623	Breech presentation
-HP:0001629	Ventricular septal defect
-HP:0001631	Atrial septal defect
-HP:0001635	Cardiac failure
-HP:0001638	Cardiomyopathy
-HP:0001639	Hypertrophic cardiomyopathy
-HP:0001640	Cardiomegaly
-HP:0001643	Patent ductus arteriosus
-HP:0001644	Congestive cardiomyopathy
-HP:0001645	Sudden cardiac death
-HP:0001648	Cor pulmonale
-HP:0001649	Heart racing
-HP:0001650	Aortic valve stenosis
-HP:0001657	Long QT syndrome
-HP:0001658	Myocardial infarction
-HP:0001662	Bradycardia
-HP:0001663	Ventricular fibrillation
-HP:0001664	Torsade de pointes
-HP:0001678	Atrioventricular block
-HP:0001680	Coarctation of the aorta
-HP:0001681	Angina pectoris
-HP:0001686	Aphonia
-HP:0001688	Sinus bradycardia
-HP:0001692	Atrial arrhythmia
-HP:0001695	Cardiac arrest
-HP:0001698	Pericardial effusion
-HP:0001699	Sudden death
-HP:0001700	Myocardial necrosis
-HP:0001701	Pericarditis
-HP:0001708	Right ventricular failure
-HP:0001712	Left ventricular hypertrophy
-HP:0001714	Ventricular hypertrophy
-HP:0001723	Restrictive cardiomyopathy
-HP:0001727	Thromboembolic stroke
-HP:0001733	Pancreatitis
-HP:0001735	Pancreatitis acute
-HP:0001738	Pancreatic insufficiency
-HP:0001741	Phimosis
-HP:0001742	Nasal obstruction
-HP:0001744	Splenomegaly
-HP:0001788	Premature rupture of membranes
-HP:0001806	Onycholysis
-HP:0001807	Nail ridging
-HP:0001818	Paronychia
-HP:0001820	Leukonychia
-HP:0001873	Thrombocytopenia
-HP:0001875	Neutropenia
-HP:0001876	Pancytopenia
-HP:0001878	Haemolytic anaemia
-HP:0001880	Eosinophilia
-HP:0001882	Leukopenia
-HP:0001883	Talipes
-HP:0001888	Lymphopenia
-HP:0001890	Autoimmune haemolytic anaemia
-HP:0001891	Iron deficiency anaemia
-HP:0001892	Bleeding tendency
-HP:0001894	Thrombocytosis
-HP:0001896	Reticulocytopenia
-HP:0001897	Normocytic anemia
-HP:0001901	Erythrocytosis
-HP:0001903	Anaemia
-HP:0001907	Thromboembolism
-HP:0001908	Hypoplastic anaemia
-HP:0001909	Leukaemia
-HP:0001915	Aplastic anaemia
-HP:0001919	Acute kidney injury
-HP:0001920	Renal artery stenosis
-HP:0001923	Reticulocytosis
-HP:0001924	Sideroblastic anaemia
-HP:0001929	Factor XI deficiency
-HP:0001935	Microcytic anaemia
-HP:0001941	Acidosis
-HP:0001942	Metabolic acidosis
-HP:0001943	Hypoglycaemia
-HP:0001944	Dehydration
-HP:0001946	Ketosis
-HP:0001947	Renal tubular acidosis
-HP:0001948	Alkalosis
-HP:0001950	Respiratory alkalosis
-HP:0001953	Diabetic ketoacidosis
-HP:0001954	Intermittent fever
-HP:0001959	Polydipsia
-HP:0001962	Palpitations
-HP:0001970	Tubulointerstitial nephritis
-HP:0001971	Hypersplenism
-HP:0001973	Autoimmune thrombocytopenia
-HP:0001974	Leukocytosis
-HP:0001993	Ketoacidosis
-HP:0001997	Gouty arthritis
-HP:0002013	Vomiting
-HP:0002014	Diarrhoea
-HP:0002015	Dysphagia
-HP:0002018	Nausea
-HP:0002019	Constipation
-HP:0002020	Heartburn
-HP:0002021	Pyloric stenosis
-HP:0002023	Anal atresia
-HP:0002024	Malabsorption
-HP:0002027	Abdominal discomfort
-HP:0002028	Chronic diarrhea
-HP:0002035	Rectal prolapse
-HP:0002036	Hiatus hernia
-HP:0002037	Inflammatory bowel disease
-HP:0002039	Anorexia
-HP:0002044	Zollinger-Ellison syndrome
-HP:0002045	Hypothermia
-HP:0002046	Heat intolerance
-HP:0002049	Proximal renal tubular acidosis
-HP:0002059	Cerebral atrophy
-HP:0002063	Muscle rigidity
-HP:0002066	Ataxic gait
-HP:0002067	Bradykinesia
-HP:0002071	Extrapyramidal symptoms
-HP:0002072	Chorea
-HP:0002075	Dysdiadochokinesis
-HP:0002076	Migraine
-HP:0002083	Migraine without aura
-HP:0002084	Encephalocele
-HP:0002089	Pulmonary hypoplasia
-HP:0002090	Pneumonia
-HP:0002092	Pulmonary arterial hypertension
-HP:0002093	Respiratory insufficiency
-HP:0002094	Dyspnoea
-HP:0002097	Emphysema
-HP:0002098	Labored breathing
-HP:0002099	Asthma
-HP:0002102	Pleurisy
-HP:0002104	Apnoea
-HP:0002105	Haemoptysis
-HP:0002107	Pneumothorax
-HP:0002110	Bronchiectasis
-HP:0002133	Status epilepticus
-HP:0002140	Ischaemic stroke
-HP:0002148	Hypophosphataemia
-HP:0002149	Hyperuricaemia
-HP:0002150	Hypercalciuria
-HP:0002156	Homocystinuria
-HP:0002157	Azotaemia
-HP:0002169	Clonus
-HP:0002176	Spinal cord compression
-HP:0002179	Opisthotonus
-HP:0002181	Brain oedema
-HP:0002183	Phonophobia
-HP:0002186	Apraxia
-HP:0002202	Pleural effusion
-HP:0002203	Respiratory paralysis
-HP:0002204	Pulmonary embolism
-HP:0002206	Pulmonary fibrosis
-HP:0002239	Gastrointestinal haemorrhage
-HP:0002240	Hepatomegaly
-HP:0002273	Quadriparesis
-HP:0002277	Horner's syndrome
-HP:0002300	Mutism
-HP:0002301	Hemiplegia
-HP:0002304	Akinesia
-HP:0002305	Athetosis
-HP:0002307	Drooling
-HP:0002310	Orofacial dyskinesia
-HP:0002312	Clumsiness
-HP:0002313	Spastic paraparesis
-HP:0002315	Headache
-HP:0002317	Unsteady gait
-HP:0002321	Dizziness
-HP:0002323	Anencephaly
-HP:0002326	Transient ischaemic attack
-HP:0002329	Somnolence
-HP:0002330	Sleep attacks
-HP:0002345	Action tremor
-HP:0002352	Leukoencephalopathy
-HP:0002353	Electroencephalogram abnormal
-HP:0002354	Memory impairment
-HP:0002360	Sleep disturbance
-HP:0002373	Febrile convulsion
-HP:0002375	Hypokinesia
-HP:0002378	Tremor of hands
-HP:0002380	Fasciculation
-HP:0002381	Aphasia
-HP:0002384	Complex partial seizures
-HP:0002385	Paraparesis
-HP:0002396	Cogwheel rigidity
-HP:0002414	Spina bifida
-HP:0002435	Meningocele
-HP:0002445	Quadriplegia
-HP:0002475	Meningomyelocele
-HP:0002480	Hepatic encephalopathy
-HP:0002486	Myotonia
-HP:0002487	Hyperkinesia
-HP:0002488	Acute leukaemia
-HP:0002495	Decreased vibratory sense
-HP:0002519	Hypnagogic hallucination
-HP:0002524	Cataplexy
-HP:0002558	Supernumerary nipple
-HP:0002576	Intussusception
-HP:0002578	Delayed gastric emptying
-HP:0002580	Volvulus
-HP:0002583	Colitis
-HP:0002584	Intestinal haemorrhage
-HP:0002586	Peritonitis
-HP:0002588	Duodenal ulcer
-HP:0002591	Hyperphagia
-HP:0002592	Gastric ulcer
-HP:0002595	Ileus
-HP:0002599	Head titubation
-HP:0002605	Hepatic necrosis
-HP:0002607	Faecal incontinence
-HP:0002611	Cholestatic liver disease
-HP:0002615	Hypotension
-HP:0002617	Aneurysm
-HP:0002621	Atherosclerosis
-HP:0002625	Deep vein thrombosis
-HP:0002633	Vasculitis
-HP:0002634	Arteriosclerosis
-HP:0002639	Budd-Chiari syndrome
-HP:0002647	Aortic dissection
-HP:0002650	Scoliosis
-HP:0002653	Bone pain
-HP:0002664	Neoplasm
-HP:0002665	Lymphoma
-HP:0002669	Osteosarcoma
-HP:0002671	Basal cell carcinoma
-HP:0002672	Gastrointestinal carcinoma
-HP:0002716	Lymphadenopathy
-HP:0002721	Immunodeficiency
-HP:0002725	Systemic lupus erythematosus
-HP:0002728	Mucocutaneous candidiasis
-HP:0002748	Rickets
-HP:0002749	Osteomalacia
-HP:0002754	Osteomyelitis
-HP:0002757	Multiple fractures
-HP:0002758	Osteoarthritis
-HP:0002781	Upper airway obstruction
-HP:0002791	Respiratory depression
-HP:0002797	Osteolysis
-HP:0002808	Kyphosis
-HP:0002821	Neuropathic arthropathy
-HP:0002827	Hip dislocation
-HP:0002829	Arthralgia
-HP:0002835	Aspiration
-HP:0002840	Lymphadenitis
-HP:0002857	Genu valgum
-HP:0002858	Meningioma
-HP:0002860	Squamous cell carcinoma
-HP:0002861	Malignant melanoma
-HP:0002862	Bladder carcinoma
-HP:0002863	Myelodysplastic syndrome
-HP:0002878	Respiratory failure
-HP:0002883	Hyperventilation
-HP:0002884	Hepatoblastoma
-HP:0002890	Thyroid carcinoma
-HP:0002893	Pituitary adenoma
-HP:0002901	Hypocalcaemia
-HP:0002907	Microscopic hematuria
-HP:0002913	Myoglobinuria
-HP:0002919	Ketonuria
-HP:0002960	Autoimmune disorder
-HP:0003002	Breast cancer
-HP:0003003	Colon cancer
-HP:0003040	Arthropathy
-HP:0003072	Hypercalcaemia
-HP:0003073	Hypoalbuminaemia
-HP:0003076	Glycosuria
-HP:0003111	Electrolyte disturbance
-HP:0003119	Dyslipidaemia
-HP:0003124	High cholesterol
-HP:0003125	Factor VIII deficiency
-HP:0003127	Hypocalciuria
-HP:0003128	Lactic acidosis
-HP:0003149	Hyperuricosuria
-HP:0003158	Hyposthenuria
-HP:0003198	Myopathy
-HP:0003201	Rhabdomyolysis
-HP:0003202	Muscle atrophy
-HP:0003236	Blood creatine phosphokinase increased
-HP:0003256	Coagulopathy
-HP:0003270	Abdominal bloating
-HP:0003298	Spina bifida occulta
-HP:0003307	Lordosis
-HP:0003326	Myalgia
-HP:0003355	Aminoaciduria
-HP:0003365	Coxalgia
-HP:0003394	Muscle spasms
-HP:0003418	Back pain
-HP:0003419	Low back pain
-HP:0003470	Paralysis
-HP:0003472	Hypocalcemic tetany
-HP:0003473	Myasthenia
-HP:0003477	Axonal neuropathy
-HP:0003487	Extensor plantar response
-HP:0003493	Antinuclear antibody positive
-HP:0003510	Dwarfism
-HP:0003552	Muscle stiffness
-HP:0003750	Muscle fatigue
-HP:0003761	Calcinosis
-HP:0003763	Bruxism
-HP:0003764	Nevus
-HP:0003765	Psoriasis
-HP:0003826	Stillbirth
-HP:0004308	Ventricular arrhythmia
-HP:0004319	Hypoaldosteronism
-HP:0004326	Cachexia
-HP:0004334	Skin atrophy
-HP:0004386	Gastrointestinal inflammation
-HP:0004387	Enterocolitis
-HP:0004389	Intestinal pseudo-obstruction
-HP:0004395	Malnutrition
-HP:0004396	Decreased appetite
-HP:0004398	Peptic ulcer
-HP:0004409	Hyposmia
-HP:0004417	Intermittent claudication
-HP:0004418	Thrombophlebitis
-HP:0004420	Arterial thrombosis
-HP:0004447	Poikilocytosis
-HP:0004749	Atrial flutter
-HP:0004751	Paroxysmal ventricular tachycardia
-HP:0004755	Supraventricular tachycardia
-HP:0004756	Ventricular tachycardia
-HP:0004757	Paroxysmal atrial fibrillation
-HP:0004789	Lactose intolerance
-HP:0004796	Gastrointestinal obstruction
-HP:0004808	Acute myeloid leukaemia
-HP:0004818	Paroxysmal nocturnal haemoglobinuria
-HP:0004836	Acute promyelocytic leukaemia
-HP:0004840	Hypochromic microcytic anemia
-HP:0004872	Incisional hernia
-HP:0004934	Vascular calcification
-HP:0004936	Venous thrombosis
-HP:0004942	Aortic aneurysm
-HP:0004944	Intracranial aneurysm
-HP:0004947	Arteriovenous fistula
-HP:0005101	High frequency deafness
-HP:0005110	Atrial fibrillation
-HP:0005112	Abdominal aortic aneurysm
-HP:0005145	Coronary artery stenosis
-HP:0005162	Left ventricular dysfunction
-HP:0005200	Retroperitoneal fibrosis
-HP:0005206	Pancreatic pseudocyst
-HP:0005214	Intestinal obstruction
-HP:0005224	Rectal abscess
-HP:0005263	Gastritis
-HP:0005293	Venous insufficiency
-HP:0005305	Cerebral thrombosis
-HP:0005505	Refractory anemia
-HP:0005506	Chronic myeloid leukaemia
-HP:0005521	Disseminated intravascular coagulation
-HP:0005523	Lymphoproliferative disorder
-HP:0005543	Protein C deficiency
-HP:0005547	Myeloproliferative disorder
-HP:0005550	Chronic lymphocytic leukaemia
-HP:0005558	Toxic epidermal necrolysis
-HP:0005584	Renal cell carcinoma
-HP:0005681	Juvenile idiopathic arthritis
-HP:0005943	Respiratory arrest
-HP:0005972	Respiratory acidosis
-HP:0005973	Fructose intolerance
-HP:0006510	Chronic obstructive pulmonary disease
-HP:0006517	Alveolar proteinosis
-HP:0006530	Interstitial lung disease
-HP:0006554	Acute hepatic failure
-HP:0006573	Acute fatty liver
-HP:0006579	Jaundice neonatal
-HP:0006671	Paroxysmal atrial tachycardia
-HP:0006682	Ventricular extrasystoles
-HP:0006685	Endocardial fibrosis
-HP:0006721	Acute lymphocytic leukaemia
-HP:0006744	Adrenal carcinoma
-HP:0006767	Prolactinoma
-HP:0006772	Angiomyolipoma
-HP:0006824	Cranial nerve paralysis
-HP:0006896	Hypnopompic hallucination
-HP:0006970	Periventricular leukomalacia
-HP:0007018	Attention deficit disorder
-HP:0007178	Peripheral motor neuropathy
-HP:0007185	Loss of consciousness
-HP:0007209	Facial paralysis
-HP:0007302	Bipolar disorder
-HP:0007359	Partial seizures
-HP:0007379	Genitourinary tract neoplasm
-HP:0007417	Discoid lupus erythematosus
-HP:0007430	Generalised oedema
-HP:0007641	Colour blindness
-HP:0007705	Corneal degeneration
-HP:0007787	Posterior subcapsular cataract
-HP:0007902	Vitreous haemorrhage
-HP:0007906	Ocular hypertension
-HP:0007957	Corneal opacity
-HP:0007994	Tunnel vision
-HP:0008064	Ichthyosis
-HP:0008066	Blister
-HP:0008069	Skin cancer
-HP:0008070	Hypotrichosis
-HP:0008207	Addison's disease
-HP:0008209	Premature menopause
-HP:0008326	Vitamin B6 deficiency
-HP:0008404	Nail dystrophy
-HP:0008568	Vestibular ataxia
-HP:0008661	Urethral stenosis
-HP:0008665	Enlarged clitoris
-HP:0008682	Renal tubular necrosis
-HP:0008711	Benign prostatic hyperplasia
-HP:0008760	Violent behavior
-HP:0008940	Generalized lymphadenopathy
-HP:0008947	Floppy infant
-HP:0009027	Footdrop
-HP:0009059	Congenital generalised lipodystrophy
-HP:0009125	Lipodystrophy
-HP:0009592	Astrocytoma
-HP:0009725	Bladder neoplasm
-HP:0009726	Renal neoplasm
-HP:0009733	Glioma
-HP:0009741	Nephrosclerosis
-HP:0009798	Euthyroid goiter
-HP:0009800	Gestational diabetes
-HP:0009806	Nephrogenic diabetes insipidus
-HP:0009827	Amelia
-HP:0009829	Phocomelia
-HP:0009830	Neuropathy
-HP:0009831	Mononeuropathy
-HP:0009900	Deafness unilateral
-HP:0010280	Stomatitis
-HP:0010307	Stridor
-HP:0010310	Chylothorax
-HP:0010313	Breast enlargement
-HP:0010442	Polydactyly
-HP:0010447	Anal fistula
-HP:0010475	Cloacal exstrophy
-HP:0010522	Dyslexia
-HP:0010524	Agnosia
-HP:0010526	Dysgraphia
-HP:0010529	Echolalia
-HP:0010534	Transient global amnesia
-HP:0010550	Paraplegia
-HP:0010553	Oculogyric crisis
-HP:0010566	Hamartoma
-HP:0010605	Chalazion
-HP:0010606	Hordeolum
-HP:0010614	Fibroma
-HP:0010619	Fibroadenosis of breast
-HP:0010622	Bone neoplasm
-HP:0010628	Bell's palsy
-HP:0010677	Nocturnal enuresis
-HP:0010702	Hypergammaglobulinaemia
-HP:0010741	Leg edema
-HP:0010750	Dermatochalasis
-HP:0010769	Pilonidal cyst
-HP:0010780	Hyperacusis
-HP:0010783	Erythema
-HP:0010784	Uterine neoplasm
-HP:0010822	Scintillating scotoma
-HP:0010871	Sensory ataxia
-HP:0010885	Aseptic necrosis
-HP:0011001	Osteosclerosis
-HP:0011032	Fluid imbalance
-HP:0011034	Amyloidosis
-HP:0011096	Demyelination
-HP:0011107	Aphthous stomatitis
-HP:0011109	Chronic sinusitis
-HP:0011273	Anisocytosis
-HP:0011359	Dry hair
-HP:0011450	Central nervous system infection
-HP:0011458	Abdominal symptom
-HP:0011499	Mydriasis
-HP:0011508	Macular hole
-HP:0011623	Muscular ventricular septal defect
-HP:0011675	Arrhythmia
-HP:0011701	Multifocal atrial tachycardia
-HP:0011703	Sinus tachycardia
-HP:0011704	Sick sinus syndrome
-HP:0011709	Atrioventricular dissociation
-HP:0011710	Bundle branch block
-HP:0011726	Persistent foetal circulation
-HP:0011734	Secondary adrenal insufficiency
-HP:0011841	Ventricular flutter
-HP:0011848	Abdominal colic
-HP:0011850	Parotitis
-HP:0011855	Pharyngeal oedema
-HP:0011856	Pica
-HP:0011857	Plasmacytoma
-HP:0011859	Punctate keratitis
-HP:0011868	Sciatica
-HP:0011874	Heparin-induced thrombocytopenia
-HP:0011896	Subconjunctival hemorrhage
-HP:0011897	Neutrophilia
-HP:0011946	Obliterative bronchiolitis
-HP:0011947	Respiratory tract infection
-HP:0011950	Bronchiolitis
-HP:0011953	Pulmonary lymphoma
-HP:0011958	Retinal tear
-HP:0011967	Copper deficiency
-HP:0011974	Myelofibrosis
-HP:0011985	Acholia
-HP:0011986	Ectopic ossification
-HP:0011999	Paranoia
-HP:0012027	Laryngeal oedema
-HP:0012028	Hepatic adenoma
-HP:0012032	Lipoma
-HP:0012040	Corneal stromal edema
-HP:0012048	Oromandibular dystonia
-HP:0012049	Spasmodic dysphonia
-HP:0012075	Personality disorder
-HP:0012085	Pyuria
-HP:0012089	Arteritis
-HP:0012109	Angle closure glaucoma
-HP:0012115	Hepatitis
-HP:0012117	Hyperalbuminaemia
-HP:0012118	Laryngeal cancer
-HP:0012121	Panuveitis
-HP:0012122	Anterior uveitis
-HP:0012123	Posterior uveitis
-HP:0012125	Prostate cancer
-HP:0012126	Gastric cancer
-HP:0012154	Anhedonia
-HP:0012164	Asterixis
-HP:0012166	Dermatillomania
-HP:0012167	Trichotillomania
-HP:0012174	Glioblastoma
-HP:0012182	Oropharyngeal squamous cell carcinoma
-HP:0012185	Carpal tunnel syndrome
-HP:0012188	Hyperemesis gravidarum
-HP:0012190	T-cell lymphoma
-HP:0012191	B-cell lymphoma
-HP:0012192	Cutaneous T-cell lymphoma
-HP:0012193	Anaplastic large-cell lymphoma
-HP:0012196	Cheyne-Stokes respiration
-HP:0012197	Insulinoma
-HP:0012199	Cluster headache
-HP:0012203	Onychomycosis
-HP:0012219	Erythema nodosum
-HP:0012223	Splenic rupture
-HP:0012231	Serous retinal detachment
-HP:0012234	Agranulocytosis
-HP:0012276	Trigger finger
-HP:0012302	Herpes simplex encephalitis
-HP:0012311	Monocytosis
-HP:0012317	Sacroiliitis
-HP:0012318	Occipital neuralgia
-HP:0012324	Myeloid leukaemia
-HP:0012325	Chronic myelomonocytic leukaemia
-HP:0012330	Pyelonephritis
-HP:0012332	Autonomic dysfunction
-HP:0012375	Chemosis
-HP:0012377	Hemianopia
-HP:0012378	Fatigue
-HP:0012384	Ataxia
-HP:0012387	Bronchitis
-HP:0012388	Acute bronchitis
-HP:0012390	Anal fissure
-HP:0012395	Seasonal allergy
-HP:0012399	Decubitus ulcer
-HP:0012410	Red cell aplasia
-HP:0012416	Hypercapnia
-HP:0012417	Hypocapnia
-HP:0012418	Hypoxia
-HP:0012424	Chorioretinitis
-HP:0012441	Sphincter of Oddi dysfunction
-HP:0012450	Infrequent bowel movements
-HP:0012452	Restless legs syndrome
-HP:0012461	Bacteriuria
-HP:0012474	Carotid artery occlusion
-HP:0012486	Myelitis
-HP:0012490	Panniculitis
-HP:0012492	Cerebral artery stenosis
-HP:0012514	Leg pain
-HP:0012531	Pain
-HP:0012532	Chronic pain
-HP:0012533	Allodynia
-HP:0012534	Dysaesthesia
-HP:0012537	Food intolerance
-HP:0012592	Albuminuria
-HP:0012594	Microalbuminuria
-HP:0012622	Chronic kidney disease
-HP:0012636	Retinal vein occlusion
-HP:0012651	Abasia
-HP:0012653	Status asthmaticus
-HP:0012723	Sinoatrial block
-HP:0012733	Macule
-HP:0012735	Cough
-HP:0012740	Papilloma
-HP:0012743	Central obesity
-HP:0012798	Lymphangioleiomyomatosis
-HP:0012819	Myocarditis
-HP:0012871	Varicocele
-HP:0012875	Abnormal ejaculation
-HP:0012876	Premature ejaculation
-HP:0012877	Retrograde ejaculation
-HP:0012883	Fallopian tube cyst
-HP:0016266	Stevens-Johnson syndrome
-HP:0020074	Crystalluria
-HP:0020083	Furuncle
-HP:0020084	Carbuncle
-HP:0020102	Pneumocystis jirovecii pneumonia
-HP:0020166	Central retinal vein occlusion
-HP:0020225	Breast abscess
-HP:0020226	Nipple tenderness
-HP:0025017	Capillary fragility
-HP:0025044	Lung abscess
-HP:0025066	Microcytosis
-HP:0025079	Pancreatic abscess
-HP:0025084	Folliculitis
-HP:0025085	Blood in stool
-HP:0025088	Onychomadesis
-HP:0025127	Actinic keratosis
-HP:0025130	Lactase deficiency
-HP:0025143	Chills
-HP:0025144	Shivering
-HP:0025145	Rigors
-HP:0025187	Sleep talking
-HP:0025230	Tendonitis
-HP:0025232	Bursitis
-HP:0025233	Sleep paralysis
-HP:0025234	Parasomnia
-HP:0025236	Somnambulism
-HP:0025238	Foot pain
-HP:0025247	Dermoid cyst
-HP:0025253	Claustrophobia
-HP:0025258	Neck stiffness
-HP:0025267	Snoring
-HP:0025268	Stuttering
-HP:0025269	Panic attack
-HP:0025272	Chloasma
-HP:0025314	Choroidal nevus
-HP:0025318	Ovarian carcinoma
-HP:0025322	Venous occlusion
-HP:0025324	Arterial occlusion
-HP:0025326	Retinal artery occlusion
-HP:0025328	Antepartum hemorrhage
-HP:0025383	Buffalo hump
-HP:0025387	Pill rolling
-HP:0025388	Thyroid nodule
-HP:0025406	Asthenia
-HP:0025418	Renal cortical necrosis
-HP:0025421	Pneumomediastinum
-HP:0025425	Laryngospasm
-HP:0025439	Pharyngitis
-HP:0025452	Pyoderma gangrenosum
-HP:0025470	Telogen effluvium
-HP:0025615	Abscess
-HP:0025636	Endometritis
-HP:0025637	Vasospasm
-HP:0025691	Impaired fasting glucose
-HP:0025694	Pituitary microadenoma
-HP:0025804	Lymph node pain
-HP:0030011	Imperforate hymen
-HP:0030014	Female sexual dysfunction
-HP:0030015	Female orgasmic disorder
-HP:0030016	Dyspareunia
-HP:0030017	Vaginismus
-HP:0030049	Brain abscess
-HP:0030050	Narcolepsy
-HP:0030051	Toe walking
-HP:0030053	Skin induration
-HP:0030061	Neuroectodermal neoplasm
-HP:0030127	Endometriosis
-HP:0030142	Abnormal bowel sounds
-HP:0030143	Borborygmi
-HP:0030148	Cardiac murmur
-HP:0030149	Cardiogenic shock
-HP:0030151	Cholangitis
-HP:0030153	Cholangiocarcinoma
-HP:0030155	Scrotal pain
-HP:0030157	Flank pain
-HP:0030159	Cervical polyp
-HP:0030160	Cervicitis
-HP:0030166	Night sweats
-HP:0030186	Essential tremor
-HP:0030213	Flat affect
-HP:0030218	Punding
-HP:0030223	Perseveration
-HP:0030242	Portal vein thrombosis
-HP:0030243	Hepatic vein thrombosis
-HP:0030249	Enanthema
-HP:0030318	Angular cheilitis
-HP:0030357	Small cell lung cancer
-HP:0030358	Non-small cell lung cancer
-HP:0030430	Neuroma
-HP:0030683	Vulvovaginitis
-HP:0030692	Brain neoplasm
-HP:0030731	Carcinoma
-HP:0030746	Intraventricular haemorrhage
-HP:0030757	Tooth abscess
-HP:0030760	Kidney fibrosis
-HP:0030764	Ochronosis
-HP:0030765	Sleep terror
-HP:0030766	Ear pain
-HP:0030769	Exencephaly
-HP:0030784	Word finding difficulty
-HP:0030786	Photopsia
-HP:0030812	Tonsillar hypertrophy
-HP:0030816	Gingival recession
-HP:0030828	Wheezing
-HP:0030830	Rales
-HP:0030831	Rhonchi
-HP:0030833	Neck pain
-HP:0030834	Shoulder pain
-HP:0030839	Knee pain
-HP:0030843	Cardiac amyloidosis
-HP:0030880	Raynaud's phenomenon
-HP:0030947	Conjunctival follicles
-HP:0030953	Conjunctival hyperaemia
-HP:0030955	Alcoholism
-HP:0031002	Neuritis
-HP:0031003	Polyneuritis
-HP:0031041	Superior vena cava syndrome
-HP:0031088	Vaginal dryness
-HP:0031179	Nuchal rigidity
-HP:0031189	Wrist drop
-HP:0031218	Inappropriate antidiuretic hormone secretion
-HP:0031244	Lip swelling
-HP:0031245	Productive cough
-HP:0031246	Dry cough
-HP:0031249	Dysgeusia
-HP:0031258	Delirium
-HP:0031273	Shock
-HP:0031284	Flushing
-HP:0031352	Chest tightness
-HP:0031355	Middle insomnia
-HP:0031356	Terminal insomnia
-HP:0031363	Palpable purpura
-HP:0031364	Ecchymosis
-HP:0031368	Intestinal perforation
-HP:0031370	Small intestinal perforation
-HP:0031456	Ectopic pregnancy
-HP:0031473	Anger
-HP:0031475	Nonconvulsive status epilepticus
-HP:0031520	Groin pain
-HP:0031525	Keratoacanthoma
-HP:0031549	Lymphocytoma cutis
-HP:0031589	Suicidal ideation
-HP:0031590	Asthenopia
-HP:0031615	Hypopyon
-HP:0031616	Anterior chamber flare
-HP:0031649	Aortic rupture
-HP:0031676	Monomorphic ventricular tachycardia
-HP:0031690	Opportunistic infection
-HP:0031777	Cyclophoria
-HP:0031807	Basophilia
-HP:0031843	Bradyphrenia
-HP:0031844	Euphoric mood
-HP:0031846	Femur fracture
-HP:0031943	Akathisia
-HP:0031944	Pleural thickening
-HP:0031956	Aspartate aminotransferase increased
-HP:0031964	Alanine aminotransferase increased
-HP:0031967	Cloudy urine
-HP:0031972	Presyncope
-HP:0031987	Poor concentration
-HP:0032000	Pleural rub
-HP:0032004	Pruritus vulvae
-HP:0032007	Skin maceration
-HP:0032008	Fat embolism
-HP:0032020	Eosinophilic cystitis
-HP:0032024	Ileal ulcer
-HP:0032043	Odynophagia
-HP:0032061	Hypereosinophilia
-HP:0032071	Pulmonary eosinophilia
-HP:0032106	Scleral icterus
-HP:0032118	Retinitis
-HP:0032131	Cervical dysplasia
-HP:0032141	Precordial pain
-HP:0032142	Foetor hepaticus
-HP:0032143	Burning mouth
-HP:0032147	Erythromelalgia
-HP:0032149	Breakthrough pain
-HP:0032152	Keratosis pilaris
-HP:0032155	Abdominal cramps
-HP:0032163	Molluscum contagiosum
-HP:0032168	Clostridium difficile colitis
-HP:0032171	Bladder pain
-HP:0032192	Hydatidiform mole
-HP:0032227	Sebaceous hyperplasia
-HP:0032252	Granuloma
-HP:0032256	Histoplasmosis
-HP:0032310	Granulocytosis
-HP:0032326	Methicillin-resistant Staphylococcus aureus infection
-HP:0032368	Acidemia
-HP:0032408	Breast mass
-HP:0032504	Lhermitte's sign
-HP:0032510	Tendon pain
-HP:0032545	Abdominal rigidity
-HP:0032551	Haemorrhoids
-HP:0032564	Ileitis
-HP:0032620	Renal abscess
-HP:0032632	Renal papillary necrosis
-HP:0032940	Dissociation
-HP:0033000	Laryngitis
-HP:0033005	Plantar warts
-HP:0033031	Hyperpyrexia
-HP:0033113	Gallop rhythm
-HP:0033117	Duodenitis
-HP:0033126	Skin necrosis
-HP:0033134	Abdominal adhesions
-HP:0033136	Lymph node abscess
-HP:0033165	Necrotizing enterocolitis
-HP:0033256	Pancolitis
-HP:0033279	Enterocutaneous fistula
-HP:0033345	Neuralgia
-HP:0033361	Nasal ulcer
-HP:0033400	Acute abdomen
-HP:0033415	Cardiac tamponade
-HP:0033425	Periungual erythema
-HP:0033431	Cytomegalovirus colitis
-HP:0033434	Nasal septum perforation
-HP:0033505	Livedo reticularis
-HP:0033521	Nasal dryness
-HP:0033543	Nicotine dependence
-HP:0033589	Flatulence
-HP:0033631	Spondylitis
-HP:0033677	Acute respiratory distress syndrome
-HP:0033678	Acute coronary syndrome
-HP:0033687	Short-term memory loss
-HP:0033688	Long-term memory loss
-HP:0033689	Anterograde amnesia
-HP:0033690	Retrograde amnesia
-HP:0033705	Tearfulness
-HP:0033710	Dyspnoea at rest
-HP:0033748	Hypoaesthesia
-HP:0033794	Acromegaly
-HP:0033808	Spermatocele
-HP:0033821	Pulmonary mass
-HP:0033834	Malaise
-HP:0033838	Dysphoria
-HP:0033839	Testicular pain
-HP:0033842	Early satiety
-HP:0033850	Coldness
-HP:0034004	Parosmia
-HP:0034192	Pulmonary thromboembolism
-HP:0034239	Renal vein thrombosis
-HP:0034265	Breast pain
-HP:0034267	Pelvic pain
-HP:0034274	Gastrointestinal ulcer
-HP:0034306	Ventricular bigeminy
-HP:0034326	Adenomyosis
-HP:0034336	Splenic infarction
-HP:0034368	Urolithiasis
-HP:0034392	Joint contracture
-HP:0034438	Balanitis
-HP:0034492	Salpingitis
-HP:0034705	Pulmonary vasculitis
-HP:0034773	Oscillopsia
-HP:0034782	Obstipation
-HP:0034786	Leukocytoclastic vasculitis
-HP:0034801	Epidermal necrosis
-HP:0034805	Buttock pain
-HP:0034808	Eyelid pain
-HP:0034881	Uterine mass
-HP:0034967	Uterine cyst
-HP:0040049	Macular oedema
-HP:0040075	Hypopituitarism
-HP:0040141	Tardive dyskinesia
-HP:0040165	Periostitis
-HP:0040181	Chapped lips
-HP:0040188	Osteochondrosis
-HP:0040212	Risus sardonicus
-HP:0040213	Shallow breathing
-HP:0040223	Pulmonary haemorrhage
-HP:0040242	Muscle haemorrhage
-HP:0040270	Glucose tolerance decreased
-HP:0040307	Male sexual dysfunction
-HP:0040315	Tongue oedema
-HP:0040323	Erythema of eyelid
-HP:0040403	Breast microcalcification
-HP:0040407	Mastitis
-HP:0040411	Penile pain
-HP:0041051	Ageusia
-HP:0041055	Humerus fracture
-HP:0041081	Lower limb fracture
-HP:0041092	Hypersensitivity
-HP:0041153	Ankle fracture
-HP:0041161	Pelvic fracture
-HP:0041248	Wrist fracture
-HP:0045005	Neural tube defect
-HP:0045073	Serositis
-HP:0046502	Anorgasmia
-HP:0046505	Hand pain
-HP:0100022	Movement disorder
-HP:0100242	Sarcoma
-HP:0100247	Hiccups
-HP:0100255	Metaphyseal dysplasia
-HP:0100280	Crohn's disease
-HP:0100309	Subdural haematoma
-HP:0100310	Epidural haemorrhage
-HP:0100324	Scleroderma
-HP:0100495	Mastocytosis
-HP:0100502	Vitamin B12 deficiency
-HP:0100507	Folate deficiency
-HP:0100518	Dysuria
-HP:0100519	Anuria
-HP:0100520	Oliguria
-HP:0100523	Liver abscess
-HP:0100532	Scleritis
-HP:0100534	Episcleritis
-HP:0100537	Fasciitis
-HP:0100539	Periorbital oedema
-HP:0100540	Eyelid oedema
-HP:0100543	Cognitive impairment
-HP:0100546	Carotid artery stenosis
-HP:0100550	Tendon rupture
-HP:0100570	Carcinoid tumour
-HP:0100576	Amaurosis fugax
-HP:0100578	Lipoatrophy
-HP:0100580	Barrett's oesophagus
-HP:0100582	Nasal polyps
-HP:0100583	Corneal perforation
-HP:0100584	Endocarditis
-HP:0100590	Rectal fistula
-HP:0100601	Eclampsia
-HP:0100602	Pre-eclampsia
-HP:0100608	Metrorrhagia
-HP:0100614	Myositis
-HP:0100615	Ovarian cancer
-HP:0100626	Chronic hepatic failure
-HP:0100633	Oesophagitis
-HP:0100639	Erectile dysfunction
-HP:0100644	Melanonychia
-HP:0100645	Cystocele
-HP:0100646	Thyroiditis
-HP:0100650	Vaginal neoplasm
-HP:0100653	Optic neuritis
-HP:0100658	Cellulitis
-HP:0100660	Dyskinesia
-HP:0100661	Trigeminal neuralgia
-HP:0100665	Angioedema
-HP:0100694	Tibial torsion
-HP:0100718	Uterine rupture
-HP:0100723	Gastrointestinal stromal tumour
-HP:0100724	Thrombophilia
-HP:0100725	Lichenification
-HP:0100726	Kaposi's sarcoma
-HP:0100727	Histiocytosis
-HP:0100735	Hypertensive crisis
-HP:0100739	Bulimia
-HP:0100749	Chest discomfort
-HP:0100750	Atelectasis
-HP:0100753	Schizophrenia
-HP:0100754	Hypomania
-HP:0100758	Gangrene
-HP:0100762	Haemobilia
-HP:0100768	Choriocarcinoma
-HP:0100769	Synovitis
-HP:0100774	Hyperostosis
-HP:0100785	Insomnia
-HP:0100786	Hypersomnia
-HP:0100790	Hernia
-HP:0100796	Orchitis
-HP:0100806	Sepsis
-HP:0100817	Renovascular hypertension
-HP:0100822	Rectocele
-HP:0100825	Cheilitis
-HP:0100827	Lymphocytosis
-HP:0100829	Galactorrhoea
-HP:0100832	Vitreous floaters
-HP:0100845	Anaphylactic shock
-HP:0100963	Hyperaesthesia
-HP:0200020	Corneal erosion
-HP:0200023	Priapism
-HP:0200026	Eye pain
-HP:0200029	Cutaneous vasculitis
-HP:0200034	Papule
-HP:0200036	Skin nodule
-HP:0200039	Pustule
-HP:0200041	Skin erosion
-HP:0200042	Skin ulcer
-HP:0200043	Warts
-HP:0200114	Metabolic alkalosis
-HP:0200120	Hepatitis chronic active
-HP:0200123	Chronic hepatitis
-HP:0400008	Menometrorrhagia
-HP:0410017	Otitis externa
-HP:0410019	Epigastric pain
-HP:0410030	Cleft lip
-HP:0410175	Ketonemia
-HP:0410281	Dyspepsia
-HP:0410291	Negativism
-HP:0500001	Body odor
-HP:0500005	Proctalgia
-HP:0500006	Urethritis
-HP:0500043	Eyelid retraction
-HP:0500049	Retinopathy of prematurity
-HP:0500093	Food allergy
-HP:0500094	Latex allergy
-HP:4000007	Bronchospasm
-HP:4000047	Compression fracture
-HP:5200038	Slow speech
-HP:5200214	Somatic hallucination
-HP:5200227	Thought blocking
-HP:5200231	Hypervigilance
-HP:5200232	Phobia
-HP:5200234	Flight of ideas
-HP:5200273	Depressed mood
-HP:5200321	Hypersexuality
-HP:5200424	Delusional perception
-HP:6000011	Feelings of worthlessness
-HP:6000060	Aerophagia
-HP:6000076	Renal vasculitis
-HP:6000087	Penile oedema
-HP:6000106	Costovertebral angle tenderness
-HP:6000143	Appendicitis
-HP:6000154	Bone marrow granuloma
-HP:6000321	Labile hypertension
-HP:6000364	Synovial cyst
-HP:6000377	Pneumatosis intestinalis
-HP:6000383	Gastric perforation
-HP:6000655	Femoral neck fracture
-HP:6000793	Black spot
-HP:6000852	Megacolon
-HP:6000855	Cold intolerance
-HP:6000933	Koebner phenomenon
-HP:6001046	Breast cyst
-HP:6001125	Skin laceration
-HP:6001182	Bullous keratopathy
-HP:6001193	Conjunctival xerosis
-HP:6001260	Gallbladder polyp
-HP:6001267	Halo vision
-HP:6001302	Aphakia
-HP:6001359	Subcutaneous abscess
-HPO_ID	meddra_pt
+hpo_id	hpo_strings	pt_code	pt_name	method	n_candidates	candidate_pt_codes	candidate_pt_names
+HP:0000518	Cataract|Cataracts|Clouding of the lens of the eye|Cloudy lens|Lens opacities|Lens opacity			no_match	0		
+HP:0000532	Abnormal chorioretinal morphology|Chorioretinal abnormality			no_match	0		
+HP:0000541	Retinal detachment|Detached retina			no_match	0		
+HP:0000543	Optic disc pallor|Disc pallor|Pale optic disc|Pale optic discs			no_match	0		
+HP:0000572	Visual loss|Loss of vision|Vision loss			no_match	0		
+HP:0000610	Abnormal choroid morphology|Abnormality of the choroid|Choroid disease			no_match	0		
+HP:0000613	Photophobia|Extreme sensitivity of the eyes to light|Light hypersensitivity|Photodysphoria	Photophobia	Photophobia	unique_auto_match	1	Photophobia	Photophobia
+HP:0000622	Blurred vision			no_match	0		
+HP:0007843	Attenuation of retinal blood vessels|Narrowing of blood vessels in back of eye			no_match	0		
+HP:0007906	Ocular hypertension|Elevated intraocular pressure|Elevated IOP|High eye pressure|Increased intraocular pressure|Increased IOP|Raised intraocular pressure|Raised IOP			no_match	0		
+HP:0008046	Abnormal retinal vascular morphology|Abnormality of retina blood vessels|Abnormality of the retinal vasculature			no_match	0		
+HP:0011505	Cystoid macular edema			no_match	0		
+HP:0011506	Choroidal neovascularization|Choroidal neovascular membrane			no_match	0		
+HP:0011508	Macular hole			no_match	0		
+HP:0011531	Vitritis|Hyalitis|Vitreitis			no_match	0		
+HP:0030329	Retinal thinning			no_match	0		
+HP:0030530	Arcuate scotoma|Arc-shaped blind spot			no_match	0		
+HP:0030609	Photoreceptor layer loss on macular OCT			no_match	0		
+HP:0030644	Blind-spot enlargement|Blind spot enlargement			no_match	0		
+HP:0100014	Epiretinal membrane|Epiretinal membranes|Macular pucker|Premacular fibrosis			no_match	0		
+HP:0100533	Inflammatory abnormality of the eye|Ocular inflammation			no_match	0		
+HP:0100832	Vitreous floaters|Eye floaters|Flitting flies|Mouches volantes|Myodeopsia|Myodesopsia|Spots in front of eyes|Vitreous condensations|Vitreous debris|Vitreous opacities|Vitreous veils			no_match	0		
+HP:0200056	Macular scar|Macular scarring			no_match	0		
+HP:0000010	Recurrent urinary tract infections|Frequent urinary tract infections|Recurrent UTIs|Repeated bladder infections|Repeated urinary tract infections|Urinary tract infections|Urinary tract infections, recurrent			no_match	0		
+HP:0000031	Epididymitis			no_match	0		
+HP:0000083	Renal insufficiency|Renal failure|Renal failure in adulthood			no_match	0		
+HP:0000099	Glomerulonephritis|Glomerular nephritis			no_match	0		
+HP:0000155	Oral ulcer|Mouth sore|Mouth ulcer|Oral mucosal ulceration			no_match	0		
+HP:0000206	Glossitis|Inflammation of the tongue|Lingual inflammation|Smooth swollen tongue			no_match	0		
+HP:0000365	Hearing impairment|Deafness|Hearing defect|Hearing loss|Hypacusis|Hypoacusis			no_match	0		
+HP:0000405	Conductive hearing impairment|Conduction deafness|Conductive deafness|Conductive hearing loss|Hearing loss, conductive			no_match	0		
+HP:0000421	Epistaxis|Bloody nose|Frequent nosebleeds|Nasal haemorrhage|Nasal hemorrhage|Nose bleed|Nose bleeding|Nosebleed			no_match	0		
+HP:0000488	Retinopathy|Noninflammatory retina disease			no_match	0		
+HP:0000505	Visual impairment|Impaired vision|Loss of eyesight|Poor vision			no_match	0		
+HP:0000508	Ptosis|Blepharoptosis|Drooping upper eyelid|Eye drop|Eyelid ptosis|Palpebral ptosis			no_match	0		
+HP:0000509	Conjunctivitis|Conjunctivitis, recurrent|Pink eye			no_match	0		
+HP:0000554	Uveitis			no_match	0		
+HP:0000597	Ophthalmoparesis|Extraocular muscle palsy|Extraocular muscle paralysis|Weakness of extraocular eye movement|Weakness of muscles controlling eye movement			no_match	0		
+HP:0000618	Blindness|Legal blindness|Total vision loss			no_match	0		
+HP:0000621	Entropion|Eyelid folded in|Eyelid turned in|Inverted eyelid			no_match	0		
+HP:0000639	Nystagmus|Involuntary, rapid, rhythmic eye movements			no_match	0		
+HP:0000648	Optic atrophy|Optic nerve atrophy|Optic-nerve degeneration			no_match	0		
+HP:0000651	Diplopia|Double vision			no_match	0		
+HP:0000708	Atypical behavior|Behavioral abnormality|Behavioral changes|Behavioral disorders|Behavioral disturbances|Behavioral problems|Behavioral symptoms|Behavioral/psychiatric abnormalities|Behavioural abnormality|Behavioural changes|Behavioural disorders|Behavioural disturbances|Behavioural problems|Behavioural symptoms|Behavioural/Psychiatric abnormality|Psychiatric disorders|Psychiatric disturbances			no_match	0		
+HP:0000716	Depression|Depressive disorder|Depressive episode|Depressivity			no_match	0		
+HP:0000737	Irritability|Affect lability|Behavioral irritation state|Cranky|Dysphoric agitation|Easily annoyed|Easily bothered|Easily upset|Elevated frustration|Emotional overactivity|Exasperation|Frustration intolerance|Grumpy|Heightened agitation state|Heightened emotional reactivity|Heightened reactivity state|Hot-temper|Hyperreactivity|Increased emotional instability|Increased emotional sensitivity|Irritable|Irritable mood|Mood volatility|On edge|Overreactive emotional state|Oversensitivity|Quick-temper|Short fuse|Short tempered			no_match	0		
+HP:0000790	Hematuria|Blood in urine|High urine occult blood			no_match	0		
+HP:0000795	Abnormality of the urethra|Urethra issue			no_match	0		
+HP:0000822	Hypertension|Arterial hypertension|High blood pressure|Systemic hypertension			no_match	0		
+HP:0000873	Diabetes insipidus			no_match	0		
+HP:0000962	Hyperkeratosis|Epidermal hyperkeratosis			no_match	0		
+HP:0000975	Hyperhidrosis|Diaphoresis|Excessive sweating|Increased sweating|Profuse sweating|Sweating|Sweating profusely|Sweating, increased			no_match	0		
+HP:0000988	Skin rash|Rash	Rash	Rash	override	1	Rash	Rash
+HP:0001061	Acne|Breaking out			no_match	0		
+HP:0001097	Keratoconjunctivitis sicca|Dry eye syndrome|Dry eyes|Keratitis sicca|Xerophthalmia			no_match	0		
+HP:0001101	Iritis|Inflammation of iris			no_match	0		
+HP:0001123	Visual field defect|Partial loss of field of vision|Visual field defects			no_match	0		
+HP:0001250	Seizure|Epilepsy|Epileptic seizure|Seizures			no_match	0		
+HP:0001251	Ataxia|Cerebellar ataxia	Ataxia	Ataxia	unique_auto_match	1	Ataxia	Ataxia
+HP:0001260	Dysarthria|Difficulty articulating speech|Dysarthric speech			no_match	0		
+HP:0001269	Hemiparesis|Weakness of one side of body			no_match	0		
+HP:0001287	Meningitis			no_match	0		
+HP:0001288	Gait disturbance|Abnormal gait|Abnormal walk|Difficulty in walking|Gait abnormalities|Gait difficulties|Gait disturbances|Impaired gait|Walking disability			no_match	0		
+HP:0001289	Confusion|Disorientation|Easily confused|Mental disorientation			no_match	0		
+HP:0001297	Stroke|Cerebral vascular events|Cerebrovascular accident|Cerebrovascular accidents			no_match	0		
+HP:0001324	Muscle weakness|Muscular weakness			ambiguous	2	Muscular weakness|Myopathy	Muscular weakness|Myopathy
+HP:0001347	Hyperreflexia|Increased deep tendon reflexes|Increased reflexes			no_match	0		
+HP:0001369	Arthritis|Joint inflammation			no_match	0		
+HP:0001386	Joint swelling			no_match	0		
+HP:0001387	Joint stiffness|Stiff joint|Stiff joints			no_match	0		
+HP:0001399	Hepatic failure|Hepatic insufficiency|Liver failure	Hepatic failure	Hepatic failure	unique_auto_match	1	Hepatic failure	Hepatic failure
+HP:0001426	Non-Mendelian inheritance|Familial predisposition			no_match	0		
+HP:0001482	Subcutaneous nodule|Firm lump under the skin|Growth of abnormal tissue under the skin|Multiple, subcutaneous nodules|Nodule below the skin|Subcutaneous nodules			no_match	0		
+HP:0001596	Alopecia|Hair loss			no_match	0		
+HP:0001597	Abnormal nail morphology|Abnormality of the nail|Nail disease			no_match	0		
+HP:0001635	Congestive heart failure|Cardiac failure|Cardiac failures|Cardiac insufficiency|CHF|Chronic heart failure|Heart failure			no_match	0		
+HP:0001637	Abnormal myocardium morphology|Abnormality of the myocardium			no_match	0		
+HP:0001644	Dilated cardiomyopathy|Cardiomyopathy, dilated|Congestive cardiomyopathy|DCM|Stretched and thinned heart muscle			no_match	0		
+HP:0001645	Sudden cardiac death|Premature sudden cardiac death			no_match	0		
+HP:0001646	Abnormal aortic valve morphology|Abnormality of the aortic valve			no_match	0		
+HP:0001653	Mitral regurgitation|Mitral incompetence|Mitral insufficiency|Mitral regurgitation, mild|Mitral valve insufficiency|Mitral valve regurgitation			no_match	0		
+HP:0001654	Abnormal heart valve morphology|Abnormality of the heart valves|Valvular abnormality|Valvular heart disease			no_match	0		
+HP:0001658	Myocardial infarction|Heart attack|MI			no_match	0		
+HP:0001659	Aortic regurgitation|Aortic insufficiency|Aortic valve regurgitation			no_match	0		
+HP:0001701	Pericarditis|Swelling or irritation of membrane around heart			no_match	0		
+HP:0001733	Pancreatitis|Pancreatic inflammation			no_match	0		
+HP:0001744	Splenomegaly|Increased spleen size|Large spleen			no_match	0		
+HP:0001824	Weight loss|Loss of weight			no_match	0		
+HP:0001872	Abnormality of thrombocytes|Blood platelet disease|Platelet abnormalities|Thrombasthenia			no_match	0		
+HP:0001873	Thrombocytopenia|Low platelet count	Thrombocytopenia	Thrombocytopenia	override	1	Thrombocytopenia	Thrombocytopenia
+HP:0001874	Abnormality of neutrophils|Abnormality of neutrophil|Abnormality of polymorphonuclear neutrophils			no_match	0		
+HP:0001903	Anemia|Anaemia|Decreased haemoglobin|Decreased hemoglobin|Low number of red blood cells or haemoglobin|Low number of red blood cells or hemoglobin			no_match	0		
+HP:0001920	Renal artery stenosis|Narrowing of kidney artery			no_match	0		
+HP:0001945	Fever|Hyperthermia|Pyrexia	Pyrexia	Pyrexia	unique_auto_match	1	Pyrexia	Pyrexia
+HP:0001954	Recurrent fever|Episodic fever|Hyperthermia, episodic|Increased body temperature, episodic|Intermittent fever			no_match	0		
+HP:0001960	Hypokalemic metabolic alkalosis			no_match	0		
+HP:0002014	Diarrhea|Diarrhoea|Watery stool	Diarrhoea	Diarrhoea	unique_auto_match	1	Diarrhoea	Diarrhoea
+HP:0002015	Dysphagia|Deglutition disorder|Difficulty swallowing|Poor swallowing|Swallowing difficulties|Swallowing difficulty			no_match	0		
+HP:0002017	Nausea and vomiting			no_match	0		
+HP:0002024	Malabsorption|Intestinal malabsorption			no_match	0		
+HP:0002027	Abdominal pain|Abdominal discomfort|Gastro pain|Gastrointestinal pain|Pain in stomach|Stomach pain|Upset stomach			no_match	0		
+HP:0002037	Inflammation of the large intestine|Inflammatory bowel disease			no_match	0		
+HP:0002039	Anorexia|Deliberately not eating|Obsessive dieting|Refusing to eat			no_match	0		
+HP:0002043	Esophageal stricture|Narrowing of esophagus due to inflammation and scar tissue|Narrowing of oesophagus due to inflammation and scar tissue			no_match	0		
+HP:0002076	Migraine|Intermittent migraine headaches|Migraine headache|Migraine headaches			no_match	0		
+HP:0002091	Restrictive ventilatory defect|Restrictive deficit on pulmonary function testing|Restrictive deficit on pulmonary function tests|Restrictive lung disease|Restrictive respiratory disease|Restrictive respiratory insufficiency|Restrictive respiratory syndrome|Spirometric restriction|Stiff lung or chest wall causing decreased lung volume			no_match	0		
+HP:0002092	Pulmonary arterial hypertension|Increased blood pressure in blood vessels of lungs|Primary pulmonary hypertension|Pulmonary artery hypertension			no_match	0		
+HP:0002093	Respiratory insufficiency|Respiratory function loss|Respiratory impairment			no_match	0		
+HP:0002094	Dyspnea|Abnormal breathing|Breathing difficulty|Difficult to breathe|Difficulty breathing|Dyspnoea|Panting|Shortness of breath|Trouble breathing			no_match	0		
+HP:0002102	Pleuritis|Inflammation of tissues lining lungs and chest|Pleurisy			no_match	0		
+HP:0002103	Abnormal pleura morphology|Abnormality of the pleura			no_match	0		
+HP:0002105	Hemoptysis|Coughing up blood|Coughing up blood or blood-stained mucus|Haemoptysis			no_match	0		
+HP:0002113	Pulmonary infiltrates|Lung infiltrates|Pulmonic infiltration			no_match	0		
+HP:0002167	Abnormal speech pattern|Abnormal speech|Abnormal vocalisation|Abnormal vocalization|Abnormality of speech or vocalization			no_match	0		
+HP:0002202	Pleural effusion|Fluid around lungs			no_match	0		
+HP:0002204	Pulmonary embolism|Blood clot in artery of lung			no_match	0		
+HP:0002205	Recurrent respiratory infections|Frequent respiratory infections|Multiple respiratory infections|respiratory infections, recurrent|Susceptibility to respiratory infections			no_match	0		
+HP:0002206	Pulmonary fibrosis|Pulmonary scarring			no_match	0		
+HP:0002239	Gastrointestinal hemorrhage|Gastrointestinal bleeding|Gastrointestinal haemorrhage|GI haemorrhage|GI hemorrhage			no_match	0		
+HP:0002315	Headache|Headaches			no_match	0		
+HP:0002321	Vertigo|Dizziness|Dizzy spell	Dizziness	Dizziness	override	1	Dizziness	Dizziness
+HP:0002326	Transient ischemic attack|Mini stroke|TIA|Transient ischaemic attack|Transient ischaemic attacks|Transient ischemic attacks			no_match	0		
+HP:0002354	Memory impairment|Amnesia|Forgetfulness|Memory loss|Memory problems|Poor memory			no_match	0		
+HP:0002367	Visual hallucination|Visual hallucinations			no_match	0		
+HP:0002376	Developmental regression|Loss of acquired milestones|Loss of developmental milestones|Loss of milestones|Mental deterioration in childhood|Neurodevelopmental regression|Psychomotor regression|Psychomotor regression beginning in infancy|Psychomotor regression in infants|Psychomotor regression, progressive			no_match	0		
+HP:0002383	Infectious encephalitis|Brain inflammation			no_match	0		
+HP:0002516	Increased intracranial pressure|Intracranial hypertension|Intracranial pressure elevation|Pseudotumor cerebri|Rise in pressure inside skull			no_match	0		
+HP:0002617	Vascular dilatation|Aneurysm|Aneurysmal dilatation|Aneurysmal disease|Aneurysms|Wider than typical opening or gap			no_match	0		
+HP:0002633	Vasculitis|Angiitis|Inflammation of blood vessel			no_match	0		
+HP:0002637	Cerebral ischemia|Brain ischemia|Cerebrovascular ischemia|Disruption of blood oxygen supply to brain			no_match	0		
+HP:0002638	Superficial thrombophlebitis			no_match	0		
+HP:0002647	Aortic dissection|Tear in inner wall of large artery that carries blood away from heart			no_match	0		
+HP:0002716	Lymphadenopathy|Lymph node hyperplasia|Swollen lymph nodes			no_match	0		
+HP:0002754	Osteomyelitis|Bone infection			no_match	0		
+HP:0002808	Kyphosis|Gibbus deformity|Hunched back|Hyperkyphosis|Round back			no_match	0		
+HP:0002829	Arthralgia|Arthralgias|Arthritic pain|Joint pain|Joint pains	Arthralgia	Arthralgia	override	1	Arthralgia	Arthralgia
+HP:0002910	Elevated circulating hepatic transaminase concentration|Abnormal liver enzymes|Abnormal liver function|Abnormal liver function tests|Elevated circulating hepatic transaminase activity|Elevated liver enzymes|Elevated liver function tests|Elevated serum transaminases|Elevated transaminases|High liver enzymes|Increased liver enzymes|Increased liver function tests|Increased transaminases|Raised liver enzymes|Subclinical abnormal liver function tests	Alanine aminotransferase increased	Alanine aminotransferase increased	unique_auto_match	1	Alanine aminotransferase increased	Alanine aminotransferase increased
+HP:0002923	Rheumatoid factor positive			no_match	0		
+HP:0003249	Genital ulcers			no_match	0		
+HP:0003326	Myalgia|Muscle ache|Muscle pain|Myalgias	Myalgia	Myalgia	override	1	Myalgia	Myalgia
+HP:0003401	Paresthesia|Paresthesias|Pins and needles feeling|Tingling			no_match	0		
+HP:0003418	Back pain			no_match	0		
+HP:0003419	Low back pain|Lower back pain|Lumbago			no_match	0		
+HP:0003565	Elevated erythrocyte sedimentation rate|Elevated ESR|Elevated sedimentation rate|High erythrocyte sedimentation rate|High ESR|Increased erythrocyte sedimentation rate|Raised erythrocyte sedimentation rate			no_match	0		
+HP:0003765	Psoriasiform dermatitis|Psoriasis			no_match	0		
+HP:0003781	Excessive salivation|Excessive production of saliva|Hypersalivation|Mouth watering|Oversalivation|Ptyalism|Watery mouth			no_match	0		
+HP:0004306	Abnormal endocardium morphology|Abnormality of the endocardium|Abnormality of the endomycoardium			no_match	0		
+HP:0004372	Reduced consciousness|Disturbances of consciousness|Lowered consciousness|Reduced consciousness/confusion			no_match	0		
+HP:0004417	Intermittent claudication			no_match	0		
+HP:0004420	Arterial thrombosis|Blood clot in artery			no_match	0		
+HP:0004936	Venous thrombosis|Blood clot in vein			no_match	0		
+HP:0004970	Ascending tubular aorta aneurysm|Aneurysm of the ascending tubular aorta|Ascending aorta dilation|Ascending aortic aneurysm|Ascending aortic dilation|Bulging of wall of large artery located above heart|Dilatation of ascending aorta			no_match	0		
+HP:0005112	Abdominal aortic aneurysm|Dilatation of the abdominal aorta			no_match	0		
+HP:0005216	Impaired mastication|Chewing difficulties|Chewing difficulty|Difficulty chewing			no_match	0		
+HP:0005244	Gastrointestinal infarctions|Death of digestive organ tissue due to poor blood supply|GI infarctions			no_match	0		
+HP:0005413	Increased alpha-globulin			no_match	0		
+HP:0005764	Polyarticular arthritis			no_match	0		
+HP:0006554	Acute hepatic failure|Acute liver failure			no_match	0		
+HP:0006824	Cranial nerve paralysis|Cranial nerve palsies|Cranial nerve palsy|Cranial nerve paresis			no_match	0		
+HP:0007256	Abnormal pyramidal sign|Corticospinal signs|Pyramidal signs|Pyramidal tract signs			no_match	0		
+HP:0007813	Nongranulomatous uveitis			no_match	0		
+HP:0008066	Abnormal blistering of the skin|Blister|Blistering, generalised|Blistering, generalized|Blisters|Skin blisters|Skin bullae			no_match	0		
+HP:0008391	Dystrophic fingernails|Poor fingernail formation			no_match	0		
+HP:0008843	Hip osteoarthritis|Osteoarthritis of hip			no_match	0		
+HP:0009830	Peripheral neuropathy|Neuropathy|Peripheral nerve damage|Peripheral neuritis			no_match	0		
+HP:0010783	Erythema|Redness of skin or mucous membrane			no_match	0		
+HP:0010885	Avascular necrosis|Aseptic bone necrosis|Aseptic necrosis|Bone infarction|Death of bone due to decreased blood supply|Ischaemic bone necrosis|Ischemic bone necrosis|Osteochondronecrosis|Osteonecrosis			no_match	0		
+HP:0011107	Recurrent aphthous stomatitis|Aphthous stomatitis|Buccal aphthous ulcers|Recurrent aphthous ulcers|Recurrent canker sores|Recurrent oral aphthae			no_match	0		
+HP:0011227	Elevated circulating C-reactive protein concentration|Elevated C-reactive protein level|Elevated CRP			no_match	0		
+HP:0011658	Double outlet right ventricle with subpulmonary ventricular septal defect without pulmonary stenosis|DORV with subpulmonary VSD without pulmonary stenosis|Taussig-Bing anomaly			no_match	0		
+HP:0011675	Arrhythmia|Abnormal heart rate|Arrhythmias|Cardiac arrhythmia|Cardiac arrhythmias|Cardiac rhythm disturbances|Heart rhythm disorders|Irregular heart beat|Irregular heartbeat			no_match	0		
+HP:0011899	Hyperfibrinogenemia			no_match	0		
+HP:0012089	Arteritis|Inflammation of artery			no_match	0		
+HP:0012121	Panuveitis			no_match	0		
+HP:0012122	Anterior uveitis			no_match	0		
+HP:0012219	Erythema nodosum			no_match	0		
+HP:0012317	Sacroiliac arthritis|Sacroiliitis			no_match	0		
+HP:0012378	Fatigue|Tired|Tiredness			no_match	0		
+HP:0012649	Increased inflammatory response			no_match	0		
+HP:0012733	Macule|Flat, discolored area of skin|Flat, discoloured area of skin			no_match	0		
+HP:0012735	Cough|Coughing			no_match	0		
+HP:0012819	Myocarditis|Inflammation of heart muscle			no_match	0		
+HP:0020141	Blood pressure substantially higher in legs than arms|Blood pressure substantially higher in lower than upper extremities|Blood pressure substantially lower in arms than legs|Blood pressure substantially lower in upper than lower extremities			no_match	0		
+HP:0025532	Positive pathergy test			no_match	0		
+HP:0030016	Dyspareunia			no_match	0		
+HP:0030164	Jaw claudication|Jaw pain while chewing			no_match	0		
+HP:0030166	Night sweats|Nocturnal hyperhidrosis			no_match	0		
+HP:0030783	Increased circulating interleukin 6 concentration|Increased serum IL-6|Increased serum interleukin-6			no_match	0		
+HP:0031246	Nonproductive cough|Dry cough|Dry coughing			no_match	0		
+HP:0032554	Absent pulse			no_match	0		
+HP:0033123	Elevated circulating osteopontin level			no_match	0		
+HP:0033430	Non-infectious meningitis|Aseptic meningitis			no_match	0		
+HP:0033834	Malaise			no_match	0		
+HP:0034438	Balanitis			no_match	0		
+HP:0040313	Oligoarthritis			no_match	0		
+HP:0100326	Immunologic hypersensitivity			no_match	0		
+HP:0100518	Dysuria|Dull burning sensation with urination|Painful or difficult urination			no_match	0		
+HP:0100543	Cognitive impairment|Abnormality of cognition|Cognitive abnormality|Cognitive defects|Cognitive deficits|Intellectual impairment			no_match	0		
+HP:0100545	Arterial stenosis|Narrowing of an artery			no_match	0		
+HP:0100576	Amaurosis fugax			no_match	0		
+HP:0100584	Endocarditis			no_match	0		
+HP:0100614	Myositis|Muscle inflammation			no_match	0		
+HP:0100653	Optic neuritis			no_match	0		
+HP:0100654	Retrobulbar optic neuritis|Retrobulbar neuritis			no_match	0		
+HP:0100686	Enthesitis|Inflammation of sharpey fibers|Inflammation of sharpey fibres			no_match	0		
+HP:0100721	Mediastinal lymphadenopathy|Swollen lymph nodes in center of chest|Swollen lymph nodes in centre of chest			no_match	0		
+HP:0100735	Hypertensive crisis			no_match	0		
+HP:0100749	Chest pain|Chest discomfort|Thoracic pain			no_match	0		
+HP:0100758	Gangrene|Death of body tissue due to lack of blood flow or infection			no_match	0		
+HP:0100773	Cartilage destruction			no_match	0		
+HP:0100776	Recurrent pharyngitis|Pharyngitis, recurrent|Recurrent sore throat			no_match	0		
+HP:0100792	Acantholysis|Nikolsky's sign			no_match	0		
+HP:0100796	Orchitis|Inflammation of testicles			no_match	0		
+HP:0100806	Sepsis|Infection in blood stream			no_match	0		
+HP:0100809	Scalp tenderness|Allodynia of scalp|Scalp hypersensitivity|Scalp pain			no_match	0		
+HP:0100820	Glomerulopathy|Diseased glomeruli			no_match	0		
+HP:0200020	Corneal erosion|Damage to outer layer of the cornea of the eye			no_match	0		
+HP:0200034	Papule|Papules|Skin papules			no_match	0		
+HP:0200039	Pustule|Pimple|Pustula|Pustular lesion|Pustules|Skin pustule|Skin pustules			no_match	0		
+HP:0200042	Skin ulcer|Open skin sore			no_match	0		
+HP:0500006	Urethritis			no_match	0		
+HP:4000041	AA amyloidosis			no_match	0		
+HP:6000502	Elevated circulating calprotectin concentration			no_match	0		
+HP:6000944	Carotidynia			no_match	0		
+HP:6000945	Asymmetric blood pressure between arms			no_match	0		
+HP:0000007	Autosomal recessive inheritance|Autosomal recessive|Autosomal recessive form|Autosomal recessive predisposition|biallelic_autosomal			no_match	0		
+HP:0001265	Hyporeflexia|Decreased reflex response|Decreased reflexes			no_match	0		
+HP:0001284	Areflexia|Absent deep tendon reflexes|Absent reflexes|Absent tendon reflexes|Deep tendon reflexes absent|Loss of deep tendon reflexes|Lost deep tendon reflexes			no_match	0		
+HP:0001315	Reduced tendon reflexes|Absent or decreased deep tendon reflexes|Decreased deep tendon reflexes|Decreased tendon reflexes|Decreased to absent deep tendon reflexes|Decreased/absent deep tendon reflexes|Depressed tendon reflexes|Diminished deep tendon reflexes|Diminished or absent deep tendon reflexes|Diminished or absent tendon reflexes|Hypoactive to absent deep tendon reflexes|Impaired tendon reflexes|Reduced/absent deep tendon reflexes|Weak or absent deep tendon reflexes			no_match	0		
+HP:0002098	Respiratory distress|Breathing difficulties|Labored breathing|Laboured breathing|Respiratory difficulties			no_match	0		
+HP:0002505	Loss of ambulation|Loss of ability to walk			no_match	0		
+HP:0002747	Respiratory insufficiency due to muscle weakness|Decreased lung function due to weak breathing muscles|Decreased respiratory function due to muscle weakness|Respiratory distress due to muscle weakness|Respiratory failure due to muscle weakness|Respiratory muscle weakness			no_match	0		
+HP:0003155	Elevated circulating alkaline phosphatase concentration|Elevated alkaline phosphatase|Elevated ALP|Greatly elevated alkaline phosphatase|High serum alkaline phosphatase|Hyperphosphatasemia|Hyperphosphatasia|Increased alkaline phosphatase|Increased serum alkaline phosphatase			no_match	0		
+HP:0003236	Elevated circulating creatine kinase concentration|Elevated blood creatine phosphokinase|Elevated circulating creatine phosphokinase|Elevated creatine kinase|Elevated serum CPK|Elevated serum creatine kinase|Elevated serum creatine phosphokinase|High serum creatine kinase|Increased CPK|Increased creatine kinase|Increased creatine phosphokinase|Increased serum CK|Increased serum creatine kinase|Increased serum creatine phosphokinase	Blood creatine phosphokinase increased	Blood creatine phosphokinase increased	override	0		
+HP:0003327	Axial muscle weakness			no_match	0		
+HP:0003593	Infantile onset|Onset in first year of life|Onset in infancy			no_match	0		
+HP:0003596	Middle age onset			no_match	0		
+HP:0003621	Juvenile onset|Signs and symptoms begin before 15 years of age			no_match	0		
+HP:0003687	Centrally nucleated skeletal muscle fibers|Central nuclei|Centralised nuclei|Centralised sarcomeric nuclei|Centralized nuclei|Centralized sarcomeric nuclei|Centrally nucleated skeletal muscle fibres			no_match	0		
+HP:0003701	Proximal muscle weakness|Muscle weakness, proximal|Proximal limb muscle weakness|Proximal limb weakness|Proximal neurogenic muscle weakness|Weakness in muscles of upper arms and upper legs			no_match	0		
+HP:0003738	Exercise-induced myalgia|Exercise-induced muscle pain|Muscle pain on exercise|Muscle pain with exercise|Muscle pain, exercise-induced			no_match	0		
+HP:0003803	Type 1 muscle fiber predominance|Type 1 muscle fibre predominance|Type I muscle fiber predominance|Type I muscle fibre predominance			no_match	0		
+HP:0004379	Abnormality of alkaline phosphatase level|Abnormality of alkaline phosphatase activity|Abnormality of ALP level|Alkaline phosphatase abnormal			no_match	0		
+HP:0004887	Respiratory failure requiring assisted ventilation|Respiratory distress necessitating mechanical ventilation|Respiratory distress requiring endotracheal intubation|Respiratory distress requiring mechanical ventilation			no_match	0		
+HP:0007210	Lower limb amyotrophy			no_match	0		
+HP:0008981	Calf muscle hypertrophy|Calf hypertrophy|Increased size of calf muscles|Muscular hypertrophy of the calf muscles			no_match	0		
+HP:0009129	Upper limb amyotrophy|Amyotrophy involving the upper limbs			no_match	0		
+HP:0010602	Type 2 muscle fiber predominance|Type 2 muscle fibre predominance|Type II muscle fiber predominance|Type II muscle fibre predominance			no_match	0		
+HP:0011463	Childhood onset|Symptoms begin in childhood			no_match	0		
+HP:0012240	Increased intramyocellular lipid droplets|Increased muscle lipid droplets			no_match	0		
+HP:0025168	Left ventricular diastolic dysfunction			no_match	0		
+HP:0030099	Reduced muscle fiber alpha dystroglycan|Reduced muscle fibre alpha dystroglycan			no_match	0		
+HP:0031956	Elevated circulating aspartate aminotransferase concentration|Aspartate aminotransferase increased|Elevated serum aspartate aminotransferase|Elevated serum AST|Elevated serum glutamic oxaloacetic transaminase	Aspartate aminotransferase increased	Aspartate aminotransferase increased	override	1	Aspartate aminotransferase increased	Aspartate aminotransferase increased
+HP:0031964	Elevated circulating alanine aminotransferase concentration|Alanine aminotransferase increased|Elevated serum alanine aminotransferase|Elevated serum ALT|Elevated serum glutamic-pyruvic transaminase	Alanine aminotransferase increased	Alanine aminotransferase increased	override	1	Alanine aminotransferase increased	Alanine aminotransferase increased
+HP:0040081	Abnormal circulating creatine kinase concentration|Abnormal circulating CK concentration|Abnormal circulating CPK concentration|Abnormal circulation phospho-CK concentration|Abnormal levels of creatine kinase in blood			no_match	0		
+HP:0100297	Increased endomysial connective tissue|Endomysial fibrosis			no_match	0		
+HP:0410174	Increased circulating troponin T concentration|Increased troponin T level in blood			no_match	0		
+HP:0410263	Brain imaging abnormality|Abnormal brain imaging			no_match	0		
+HP:0000006	Autosomal dominant inheritance|Autosomal dominant|Autosomal dominant form|Autosomal dominant type|monoallelic_autosomal			no_match	0		
+HP:0000989	Pruritus|Itching|Itchy skin|Skin itching	Pruritus	Pruritus	unique_auto_match	1	Pruritus	Pruritus
+HP:0001197	Abnormality of prenatal development or birth			no_match	0		
+HP:0001279	Syncope|Fainting spell			no_match	0		
+HP:0001649	Tachycardia|Elevated heart rate|Fast heart rate|Heart racing|Increased heart rate|Racing heart|Rapid heart beat			no_match	0		
+HP:0001663	Ventricular fibrillation			no_match	0		
+HP:0001664	Torsade de pointes|Torsades de pointes			no_match	0		
+HP:0001688	Sinus bradycardia			no_match	0		
+HP:0001695	Cardiac arrest|Heart stops beating			no_match	0		
+HP:0001909	Leukemia|Blood cancer|Leukaemia			no_match	0		
+HP:0002019	Constipation|Costiveness|Dyschezia			no_match	0		
+HP:0002045	Hypothermia|Abnormally low body temperature			no_match	0		
+HP:0002900	Hypokalemia|Low blood potassium levels			no_match	0		
+HP:0002936	Distal sensory impairment|Decreased distal sensation|Decreased sensation in extremities|Distal sensation loss|Distal sensory impairment in lower limbs|Distal sensory impairment of the lower extremities|Distal sensory loss|Distal sensory loss, upper and lower limbs|Loss of distal sensation			no_match	0		
+HP:0003581	Adult onset|Onset in adulthood|Onset in early adulthood|Symptoms begin in adulthood			no_match	0		
+HP:0004308	Ventricular arrhythmia|Ventricular arrhythmias			no_match	0		
+HP:0004751	Paroxysmal ventricular tachycardia|Episodes of ventricular tachycardia			no_match	0		
+HP:0004755	Supraventricular tachycardia|Supraventricular tachyarrhythmia|SVT			no_match	0		
+HP:0005135	Abnormal T-wave|EKG: T-wave abnormalities|T-wave abnormalities			no_match	0		
+HP:0005184	Prolonged QTc interval			no_match	0		
+HP:0010741	Pedal edema|Dependant edema|Dependant oedema|Edema of the lower limbs|Fluid accumulation in lower limbs|Leg edema|Leg oedema|Lower leg swelling|Oedema of the lower limbs|Pedal oedema|Peripheral edema of lower extremity|Peripheral oedema of lower extremity			no_match	0		
+HP:0011704	Sick sinus syndrome|Sinoatrial node disease			no_match	0		
+HP:0011705	First degree atrioventricular block			no_match	0		
+HP:0011712	Complete right bundle branch block|Right bundle branch block|Right bundle-branch block			no_match	0		
+HP:0011715	Trifascicular block			no_match	0		
+HP:0012251	ST segment elevation			no_match	0		
+HP:0012332	Abnormal autonomic nervous system physiology|Autonomic dysfunction|Autonomic dysregulation|Dysautonomia			no_match	0		
+HP:0012533	Allodynia			no_match	0		
+HP:0012534	Dysesthesia|Dysaesthesia|Dysesthesias|Hyperalgesia|Hyperpathia			no_match	0		
+HP:0032147	Erythromelalgia			no_match	0		
+HP:0200101	Decreased/absent ankle reflexes|Decreased or absent ankle reflexes			no_match	0		
+HP:0500018	Abnormal cardiac exercise stress test|Abnormal cardiac exercise test|Abnormal exercise test|Abnormal treadmill test			no_match	0		
+HP:0001058	Poor wound healing			no_match	0		
+HP:0001270	Motor delay|Delay in development of motor milestones|Delay in motor development|Delayed development of motor milestones|Delayed early motor milestones|Delayed motor development|Delayed motor milestones|Locomotor delay|Motor developmental delay|Motor developmental milestones not achieved|Motor retardation|No development of motor milestones|Retarded motor development|Slow development of motor milestones			no_match	0		
+HP:0003577	Congenital onset|Onset at birth|Symptoms present at birth			no_match	0		
+HP:0007021	Pain insensitivity|Absence of pain sensation			no_match	0		
+HP:0012531	Pain			no_match	0		
+HP:0000154	Wide mouth|Broad mouth|Large mouth|Large oral aperture|Macrostomia			no_match	0		
+HP:0000160	Narrow mouth|Microstomia|Small mouth|Small oral aperture			no_match	0		
+HP:0000179	Thick lower lip vermilion|Full lower lip|Full lower lip vermilion|Increased height of lower lip vermilion|Increased volume of lower lip|Increased volume of lower lip vermilion|Plump lower lip|Prominent lower lip|Prominent lower lip vermilion|Thick lower lip|Thick red part of the lower lip|Thick vermilion border of lower lip			no_match	0		
+HP:0000219	Thin upper lip vermilion|Decreased height of upper lip vermilion|Decreased volume of upper lip|Decreased volume of upper lip vermilion|Thin red part of the upper lip|Thin upper lip|Thin upper lips|Thin vermilion border of upper lip			no_match	0		
+HP:0000252	Microcephaly|Abnormally small cranium|Abnormally small head|Abnormally small skull|Decreased circumference of cranium|Decreased size of cranium|Decreased size of head|Decreased size of skull|Reduced head circumference|small calvarium|small cranium|Small head|Small head circumference|Small skull			no_match	0		
+HP:0000289	Broad philtrum|Increased breadth of philtrum|Increased horizontal dimension of philtrum|Increased transverse dimension of philtrum|Increased width of philtrum|Wide philtrum			no_match	0		
+HP:0000316	Hypertelorism|Excessive orbital separation|Increased distance between eye sockets|Increased distance between eyes|Increased interpupillary distance|Ocular hypertelorism|Wide-set eyes|Widely spaced eyes|Widened interpupillary distance			no_match	0		
+HP:0000343	Long philtrum|Elongated philtrum|Increased height of philtrum|Increased length of philtrum|Increased vertical dimension of philtrum|Vertical hyperplasia of philtrum			no_match	0		
+HP:0000348	High forehead|Tall forehead			no_match	0		
+HP:0000360	Tinnitus|Ringing in ears|Ringing in the ears			no_match	0		
+HP:0000431	Wide nasal bridge|Broad flat nasal bridge|Broad nasal bridge|Broad nasal root|Broadened nasal bridge|Increased breadth of bridge of nose|Increased breadth of nasal bridge|Increased width of bridge of nose|Increased width of nasal bridge|Nasal bridge broad|Nasal bridge, wide|Wide bridge of nose|Widened nasal bridge			no_match	0		
+HP:0000463	Anteverted nares|Anteverted nose|Anteverted nostrils|Nasal tip, upturned|Nostrils anteverted|Upturned nares|Upturned nasal tip|Upturned nasal tips|Upturned nose|Upturned nostrils			no_match	0		
+HP:0000466	Limited neck range of motion|Limited cervical range of motion			no_match	0		
+HP:0000494	Downslanted palpebral fissures|Antimongoloid eye slant|Antimongoloid slant of palpebral fissures|Antimongoloid slanted palpebral fissures|Down slanting palpebral fissures|Down-slanted palpebral fissures|Down-slanting palpebral fissure|Down-slanting palpebral fissures|Downslanting palpebral fissure|Downslanting palpebral fissures|Downward slanted palpebral fissures|Downward slanting of the opening between the eyelids|Downward slanting palpebral fissures|Downward-slanting palpebral fissures|Palpebral fissures down-slanted			no_match	0		
+HP:0000504	Abnormality of vision|Abnormality of sight|Vision issue			no_match	0		
+HP:0000546	Retinal degeneration|Retina degeneration			no_match	0		
+HP:0000568	Microphthalmia|Abnormally small eyeball|Abnormally small globe of eye|Decreased size of eyeball|Decreased size of globe of eye|Microphthalmos|Nanophthalmos			no_match	0		
+HP:0000575	Scotoma|Blind spot			no_match	0		
+HP:0000668	Hypodontia|Failure of development of between one and six teeth|Missing between one and six teeth			no_match	0		
+HP:0000709	Psychosis			no_match	0		
+HP:0000717	Autism			no_match	0		
+HP:0000718	Aggressive behavior|Aggression|Aggressiveness|physical aggression			no_match	0		
+HP:0000729	Autistic behavior|ASD|Autism spectrum disorder|Autism spectrum disorders|Autistic behaviors|Autistic behaviour|Autistic behaviours|Pervasive developmental disorder			no_match	0		
+HP:0000733	Motor stereotypy|Abnormal repetitive mannerism|Repetitive behavior|repetitive behaviour|Repetitive behaviour Stereotypic behaviour|Repetitive movements|Repetitive, stereotypic behavior|Stereotyped|Stereotyped behavior|Stereotyped behaviors|Stereotyped behaviour|Stereotyped behaviours|Stereotypic behaviour|Stereotypic behaviours|Stereotypical motor behavior|Stereotypical motor behaviors|Stereotypical motor behaviour|Stereotypical motor behaviours|Stimming			no_match	0		
+HP:0000736	Short attention span|Easily distracted|Easy distractibility|High distractibility|Poor attention span|Problem paying attention			no_match	0		
+HP:0000739	Anxiety|Anxiety disease|Anxiousness|Excessive, persistent worry and fear			no_match	0		
+HP:0000741	Apathy|Lack of feeling, emotion, interest|Lack of feeling, emotion, interest, motivation, initiation|State of indifference			no_match	0		
+HP:0000750	Delayed speech and language development|Deficiency of speech development|Delayed language development|Delayed speech|Delayed speech acquisition|Delayed speech development|Impaired speech and language development|Impaired speech development|Language delay|Language delayed|Language development deficit|Late-onset speech development|Poor language development|Poor speech acquisition|Poor speech development|Speech and language delay|Speech and language difficulties|Speech delay|Speech difficulties			no_match	0		
+HP:0000752	Hyperactivity|Hyperactive behavior|Hyperactive behaviour|Hyperkinetic disorder|More active than typical			no_match	0		
+HP:0000826	Precocious puberty|Early onset of puberty|Early puberty			no_match	0		
+HP:0000980	Pallor|Paleness|Skin paleness			no_match	0		
+HP:0001159	Syndactyly|Webbed fingers or toes			no_match	0		
+HP:0001249	Intellectual disability|Dull intelligence|Low intelligence|Mental deficiency|Mental retardation|Mental retardation, nonspecific|Mental-retardation|Nonprogressive intellectual disability|Nonprogressive mental retardation|Poor school performance			no_match	0		
+HP:0001252	Hypotonia|Central hypotonia|Low muscle tone|Low or weak muscle tone|Muscle hypotonia|Muscular hypotonia|Peripheral hypotonia			no_match	0		
+HP:0001257	Spasticity|Involuntary muscle stiffness, contraction, or spasm|Muscle spasticity|Muscular spasticity			no_match	0		
+HP:0001259	Coma|Persistent vegetative state|Stupor|Trance|Unconsciousness			no_match	0		
+HP:0001263	Global developmental delay|Cognitive delay|Delayed cognitive development|Delayed development|Delayed developmental milestones|Delayed intellectual development|Delayed milestones|Delayed psychomotor development|Developmental delay|Developmental delay in early childhood|Developmental delay, global|Developmental retardation|GDD|Lack of psychomotor development|Mental and motor retardation|Motor and developmental delay|Motormental retardation|Psychomotor delay|Psychomotor development deficiency|Psychomotor development failure|Psychomotor developmental delay|Retarded development|Retarded mental development|Retarded psychomotor development			no_match	0		
+HP:0001266	Choreoathetosis|Choreoathetoid movements			no_match	0		
+HP:0001268	Mental deterioration|Cognitive decline|Cognitive decline, progressive|Intellectual deterioration|Progressive cognitive decline			no_match	0		
+HP:0001272	Cerebellar atrophy|Atrophic cerebellum|Degeneration of cerebellum|Infratentorial atrophy			no_match	0		
+HP:0001273	Abnormal corpus callosum morphology|Abnormal corpus callosum|Abnormality of the corpus callosum|Corpus callosum abnormality			no_match	0		
+HP:0001276	Hypertonia|Hypertonicity|Increased muscle tone|Muscle hypertonia|Spasticity and rigidity of muscles			no_match	0		
+HP:0001290	Generalized hypotonia|Generalised decreased muscle tone|Generalised hypotonia|Generalised muscular hypotonia|Generalized decreased muscle tone|Generalized muscular hypotonia|Hypotonia, generalised|Hypotonia, generalized			no_match	0		
+HP:0001298	Encephalopathy			no_match	0		
+HP:0001300	Parkinsonism|Parkinsonian disease			no_match	0		
+HP:0001308	Tongue fasciculations|Lingual fasciculations|Lingual fibrillations|Lingual twitching|Tongue fasciculation|Tongue fasciculations/fibrillations|Tongue twitching|Twitching of the tongue			no_match	0		
+HP:0001326	EEG with irregular generalized spike and wave complexes|EEG with irregular generalised spike and wave complexes			no_match	0		
+HP:0001327	Photosensitive myoclonic seizure|Photically induced myoclonic seizure|Photomyoclonic seizure|Photomyoclonic seizures			no_match	0		
+HP:0001332	Dystonia|Dystonic disease|Dystonic movements			no_match	0		
+HP:0001336	Myoclonus|Involuntary jerking movements|Jerking|Myoclonic jerks			no_match	0		
+HP:0001337	Tremor|Tremors			no_match	0		
+HP:0001344	Absent speech|Absent speech development|Lack of language development|Lack of speech|No speech development|No speech or language development|Nonverbal			no_match	0		
+HP:0001348	Brisk reflexes|Brisk deep tendon reflexes			no_match	0		
+HP:0001508	Failure to thrive|Faltering weight|FTT|Poor weight gain|Postnatal failure to thrive|Undergrowth|Weight faltering			no_match	0		
+HP:0001558	Decreased fetal movement|Decreased fetal activity|Decreased fetal movements|Decreased foetal activity|Decreased foetal movement|Decreased foetal movements|Decreased movement in utero|Dminished fetal movement|Dminished foetal movement|Fetal hypokinesia|Foetal hypokinesia|Less than 10 fetal movements in 12 hours|Less than 10 foetal movements in 12 hours|Reduced fetal movement|Reduced fetal movements|Reduced foetal movement|Reduced foetal movements			no_match	0		
+HP:0001763	Pes planus|Dropped arches|Fallen arches|Flat feet|Flat foot			no_match	0		
+HP:0001999	Abnormal facial shape|Abnormal morphology of the face|Deformity of face|Distinctive facies|Distortion of face|Dysmorphic facial features|Dysmorphic facies|Facial dysmorphism|Funny looking face|Malformation of face|Unusual facial appearance|Unusual facies			no_match	0		
+HP:0002020	Gastroesophageal reflux|Acid reflux|Acid reflux disease|Gastro-esophageal reflux|Gastro-oesophageal reflux|Gastroesophageal reflux disease|GERD|GORD|Heartburn			no_match	0		
+HP:0002059	Cerebral atrophy|Degeneration of cerebrum|Supratentorial atrophy			no_match	0		
+HP:0002063	Rigidity|Muscle rigidity			no_match	0		
+HP:0002067	Bradykinesia|Slow movements|Slowness of movements			no_match	0		
+HP:0002069	Bilateral tonic-clonic seizure|Bilateral convulsive seizures|Generalised convulsion|Generalised tonic-clonic seizure (without specification of onset)|Generalized convulsion|Generalized tonic-clonic seizure (without specification of onset)|Grand mal|Grand mal seizures|Seizures, tonic-clonic|Tonic-clonic convulsion|Tonic-clonic convulsions			no_match	0		
+HP:0002072	Chorea|Choreatic disease|Choreic movements|Choreiform movements			no_match	0		
+HP:0002077	Migraine with aura			no_match	0		
+HP:0002121	Generalized non-motor (absence) seizure|Absence seizure|Absence seizures|Brief seizures with staring spells|Generalised non-motor (absence) seizure|Generalised non-motor seizure|Petit mal|Petit mal seizure|Petit mal seizures			no_match	0		
+HP:0002123	Generalized myoclonic seizure|Generalised epileptic myoclonus|Generalised myoclonic seizure|Generalised myoclonic seizures|Generalized epileptic myoclonus|Generalized myoclonic seizures|Myoclonic epilepsy, progressive|Myoclonus seizures			no_match	0		
+HP:0002133	Status epilepticus|Prolonged seizure|Repeated seizure without recovery|Repeated seizures without recovery between them			no_match	0		
+HP:0002172	Postural instability|Abnormal retropulsion test|Balance impairment|Imbalance			no_match	0		
+HP:0002181	Cerebral edema|Brain edema|Brain oedema|Brain swelling|Cerebral oedema|Swelling of brain			no_match	0		
+HP:0002183	Phonophobia|Fear of loud sounds			no_match	0		
+HP:0002197	Generalized-onset seizure|Generalised onset seizure|Generalised seizures|Generalised-onset seizure|Generalized onset seizure|Generalized seizures|Generalized-onset seizures|Primary generalised seizure|Primary generalized seizure			no_match	0		
+HP:0002283	Global brain atrophy|Diffuse brain atrophy|Generalised brain atrophy|Generalised brain degeneration|Generalised cerebral atrophy|Generalized brain atrophy|Generalized brain degeneration|Generalized cerebral atrophy			no_match	0		
+HP:0002292	Frontal balding|Male pattern baldness			no_match	0		
+HP:0002301	Hemiplegia|Paralysis on one side of body			no_match	0		
+HP:0002307	Drooling|Dribbling|Sialorrhea			no_match	0		
+HP:0002311	Incoordination|Difficulties in coordination|Incoordination of limb movements|Limb incoordination|Poor coordination|Poor motor coordination			no_match	0		
+HP:0002317	Unsteady gait|Gait instability|Unsteady walk	Ataxia	Ataxia	unique_auto_match	1	Ataxia	Ataxia
+HP:0002332	Lack of peer relationships			no_match	0		
+HP:0002345	Action tremor|Ataxic tremor			no_match	0		
+HP:0002349	Focal aware seizure|Focal aware seizures|Focal seizure with retained awareness|Focal seizure without impairment of awareness|Focal seizure without impairment of consciousness or awareness|Focal seizures without impairment of consciousness or awareness|Partial seizure with retained awareness|Partial seizure without impairment of awareness|Simple partial seizure|Simple partial seizures			no_match	0		
+HP:0002353	EEG abnormality|Abnormal EEG|Abnormal electroencephalogram|EEG abnormalities|Electroencephalogram abnormal|Electroencephalogram abnormalities			no_match	0		
+HP:0002363	Abnormal brainstem morphology|Abnormal shape of brainstem|Abnormality of brainstem morphology|Abnormality of the brainstem			no_match	0		
+HP:0002373	Febrile seizure (within the age range of 3 months to 6 years)|Febrile convulsion|Febrile seizures|Fever induced seizures|Seizures, febrile, in early childhood|Seizures, generalized, associated with fever			no_match	0		
+HP:0002381	Aphasia|Difficulty finding words|Losing words|Loss of words			no_match	0		
+HP:0002384	Focal impaired awareness seizure|Complex focal seizures|Complex partial seizure|Complex partial seizures|Dyscognitive seizures|Focal dyscognitive seizure|Focal impaired awareness seizures|Focal seizure with impairment of awareness|Focal seizure with loss of awareness|Focal seizures with impairment of consciousness or awareness|Localised dyscognitive seizure|Localised seizure with impaired awareness|Localised seizure with loss of awareness|Localized dyscognitive seizure|Localized seizure with impaired awareness|Localized seizure with loss of awareness|Partial dyscognitive seizure|Partial seizure with impairment of awareness|Partial seizure with loss of awareness			no_match	0		
+HP:0002392	EEG with polyspike wave complexes|EEG: spike and multispike waves, 3-4 hz			no_match	0		
+HP:0002396	Cogwheel rigidity			no_match	0		
+HP:0002421	Poor head control|Delay in head control|Delay in head righting|Infant head lag			no_match	0		
+HP:0002463	Language impairment|Language disorder			no_match	0		
+HP:0002487	Hyperkinetic movements|Hyperactive movements|Hyperkinesia|Hyperkinesis			no_match	0		
+HP:0002509	Limb hypertonia|Appendicular hypertonia|Increased muscle tone of arm or leg			no_match	0		
+HP:0002521	Hypsarrhythmia|Hypsarrhythmia by EEG			no_match	0		
+HP:0002527	Falls			no_match	0		
+HP:0002539	Cortical dysplasia|Neocortical dysplasia			no_match	0		
+HP:0002540	Inability to walk|Non-ambulatory			no_match	0		
+HP:0002650	Scoliosis|Cobb angle greater than ten degrees			no_match	0		
+HP:0002922	Increased CSF protein concentration|Cerebrospinal fluid protein increased|Cerebrospinal fluid with increased protein|Elevated cerebrospinal fluid protein|Elevated csf protein|Hyperproteinorrhachia|Increased CSF protein|Increased protein in csf|Spinal fluid protein elevated			no_match	0		
+HP:0003066	Limited knee extension|Limited knee straightening			no_match	0		
+HP:0003392	First dorsal interossei muscle weakness			no_match	0		
+HP:0003828	Variable expressivity|Highly variable severity|Variable severity			no_match	0		
+HP:0004302	Functional motor deficit|Functional motor problems			no_match	0		
+HP:0004305	Involuntary movements|Involuntary muscle contractions			no_match	0		
+HP:0004322	Short stature|Decreased body height|Height less than 3rd percentile|Small stature|Stature below 3rd percentile			no_match	0		
+HP:0004684	Talipes valgus			no_match	0		
+HP:0005484	Secondary microcephaly|Acquired microcephaly|Deceleration of head growth|Development of small head that was not present at birth|Microcephaly, acquired|Microcephaly, postnatal|Postnatal deceleration of head circumference|Postnatal microcephaly			no_match	0		
+HP:0006813	Focal hemiclonic seizure|Hemiclonic seizure|Hemiclonic seizures|Unilateral clonic seizure|Unilateral clonic seizures			no_match	0		
+HP:0007010	Poor fine motor coordination|Fine motor disability|Fine motor impairment|Fine motor skill dysfunction|Impaired fine motor skills			no_match	0		
+HP:0007018	Attention deficit hyperactivity disorder|ADHD|Attention deficit|Attention deficit disorder|Attention deficit-hyperactivity disorder|Attention deficits|Childhood attention deficit/hyperactivity disorder			no_match	0		
+HP:0007058	Generalized cerebral atrophy/hypoplasia|Generalised cerebral atrophy/hypoplasia|Generalised cerebral degeneration/underdevelopment|Generalized cerebral degeneration/underdevelopment			no_match	0		
+HP:0007207	Photosensitive tonic-clonic seizure|Photically induced tonic-clonic seizure|Photosensitive tonic-clonic seizures|Seizures, tonic-clonic, photosensitive			no_match	0		
+HP:0007209	Facial paralysis|Facial paresis			no_match	0		
+HP:0007240	Progressive gait ataxia|Gait ataxia, progressive			no_match	0		
+HP:0007270	Atypical absence seizure|Atypical absence|Atypical absence seizures|Atypical petit mal seizures			no_match	0		
+HP:0007334	Bilateral tonic-clonic seizure with focal onset|Focal seizure with secondary generalisation|Focal seizure with secondary generalization|Focal to bilateral tonic-clonic seizure|Generalised tonic-clonic seizure with focal onset|Generalised tonic-clonic seizure with partial onset|Generalised tonic-clonic seizures with focal onset|Generalized tonic-clonic seizure with focal onset|Generalized tonic-clonic seizure with partial onset|Generalized tonic-clonic seizures with focal onset|Partial seizure with secondary generalisation|Partial seizure with secondary generalization|Partial seizures with secondary generalisation|Partial seizures with secondary generalization|Secondarily generalised tonic-clonic seizure|Secondarily generalised tonic-clonic seizures|Secondarily generalized tonic-clonic seizure|Secondarily generalized tonic-clonic seizures|Secondary generalised tonic clonic seizures|Secondary generalised tonic-clonic seizures|Secondary generalized tonic clonic seizures|Secondary generalized tonic-clonic seizures			no_match	0		
+HP:0007359	Focal-onset seizure|Focal onset seizure|Focal seizure|Focal seizures|Focal-onset seizures|Partial seizure|Partial seizures|Seizure affecting one half of brain			no_match	0		
+HP:0007979	Gaze-evoked horizontal nystagmus|Nystagmus, horizontal gaze-evoked|Nystagmus, horizontal, gaze-evoked			no_match	0		
+HP:0008081	Pes valgus|Valgus foot deformity			no_match	0		
+HP:0008770	Obsessive-compulsive trait|Obsessive-compulsive traits			no_match	0		
+HP:0008936	Axial hypotonia|Low muscle tone in trunk|Muscular hypotonia of the trunk|Truncal hypotonia			no_match	0		
+HP:0008947	Floppy infant|Decreased muscle tone in infant|Hypotonia early|Hypotonia in infancy|Hypotonia, early|Infantile hypotonia|Infantile muscular hypotonia			no_match	0		
+HP:0008959	Distal upper limb muscle weakness			no_match	0		
+HP:0009928	Thick nasal alae|Ala nasi, thick|Thickening of the alae nasi			no_match	0		
+HP:0010533	Spasmus nutans			no_match	0		
+HP:0010544	Vertical nystagmus			no_match	0		
+HP:0010818	Generalized tonic seizure|Generalised hypertonic seizure|Generalised tonic seizure|Generalised tonic seizures|Generalized hypertonic seizure|Generalized tonic seizures|Hypertonic seizures			no_match	0		
+HP:0010819	Atonic seizure|Astatic seizure|Astatic seizures|Atonic seizures|Drop attacks|Drop seizures|Hypotonic seizure|Hypotonic seizures|Sudden loss of muscle tone			no_match	0		
+HP:0010821	Focal emotional seizure with laughing|Gelastic seizure|Gelastic seizures			no_match	0		
+HP:0010829	Impaired temperature sensation|Abnormality of temperature sensation|Impaired thermal sensitivity|Loss of temperature sensation			no_match	0		
+HP:0010833	Spontaneous pain sensation			no_match	0		
+HP:0010835	Dissociated sensory loss			no_match	0		
+HP:0010841	Multifocal epileptiform discharges|Multifocal EEG abnormality			no_match	0		
+HP:0010844	EEG with multifocal slow activity			no_match	0		
+HP:0010845	EEG with generalized slow activity|EEG with generalised slow activity|EEG: generalised slow activity|EEG: generalized slow activity			no_match	0		
+HP:0010849	EEG with spike-wave complexes (>3.5 Hz)|EEG with 3-4-Hz spike waves			no_match	0		
+HP:0010850	EEG with spike-wave complexes			no_match	0		
+HP:0011097	Epileptic spasm|Epileptic spasms|Salaam convulsion|Salaam convulsions|Salaam seizure|Salaam seizures|West syndrome			no_match	0		
+HP:0011150	Myoclonic absence seizure|Myoclonic absence|Myoclonic absences			no_match	0		
+HP:0011151	Atypical absence status epilepticus|Obtundation status			no_match	0		
+HP:0011153	Focal motor seizure|Focal motor seizures|Localised motor seizure|Localised motor seizures|Localized motor seizure|Localized motor seizures|Partial motor seizure|Partial motor seizures|Segmental motor seizure			no_match	0		
+HP:0011157	Focal sensory seizure|Focal sensory seizures|Partial sensory seizure|Sensory aura			no_match	0		
+HP:0011169	Generalized clonic seizure|Generalised clonic seizure|Generalised clonic seizures|Generalised onset clonic seizure|Generalised-onset clonic seizure|Generalized clonic seizures|Generalized onset clonic seizure|Generalized-onset clonic seizure			no_match	0		
+HP:0011170	Generalized myoclonic-atonic seizure|Generalised myoclonic-atonic seizure|Myoclonic atonic seizures|Myoclonic-astatic seizure			no_match	0		
+HP:0011171	Simple febrile seizure|Simple febrile convulsion|Simple febrile seizures|Simple fever fit			no_match	0		
+HP:0011172	Complex febrile seizure|Complex febrile convulsion|Complex febrile seizures|Complex fever fit			no_match	0		
+HP:0011182	Interictal epileptiform activity|Epileptiform EEG discharges			no_match	0		
+HP:0011185	EEG with focal epileptiform discharges|Focal EEG Abnormality			no_match	0		
+HP:0011195	EEG with focal sharp slow waves			no_match	0		
+HP:0011196	EEG with focal sharp waves			no_match	0		
+HP:0011197	EEG with focal spike waves			no_match	0		
+HP:0011198	EEG with generalized epileptiform discharges|EEG with generalised epileptiform discharges			no_match	0		
+HP:0011199	EEG with generalized sharp slow waves|EEG with generalised sharp slow waves			no_match	0		
+HP:0011220	Prominent forehead|Bulging forehead|Prominence of frontal region|Pronounced forehead|Protruding forehead			no_match	0		
+HP:0011443	Abnormality of coordination|Coordination issue			no_match	0		
+HP:0011462	Young adult onset			no_match	0		
+HP:0011468	Facial tics|Cramping of facial muscles|Facial spasms|Involuntary facial muscle spasms|Jerking of facial muscles|Mimic spasms|Muscle spasm of face|Myoclonus of facial muscles|Spasms of facial muscles|Twitching of facial muscles			no_match	0		
+HP:0011471	Gastrostomy tube feeding in infancy|PEG-fed in infancy			no_match	0		
+HP:0011968	Feeding difficulties|Decreased oral intake|Feeding problems|Poor feeding			no_match	0		
+HP:0012044	Seesaw nystagmus			no_match	0		
+HP:0012075	Personality disorder			no_match	0		
+HP:0012229	CSF pleocytosis|Cerebrospinal fluid pleocytosis|Increased leukocyte count in CSF			no_match	0		
+HP:0012444	Brain atrophy|Brain degeneration|Brain wasting			no_match	0		
+HP:0012447	Abnormal myelination			no_match	0		
+HP:0012448	Delayed myelination			no_match	0		
+HP:0012508	Metamorphopsia			no_match	0		
+HP:0012547	Abnormal involuntary eye movements			no_match	0		
+HP:0012758	Neurodevelopmental delay|NDD			no_match	0		
+HP:0012760	Reduced social responsiveness|Impaired social interaction|Impaired social interactions|Impaired social reciprocity|Poor social interactions|Reduced friendship reciprocity|Reduced social reciprocity			no_match	0		
+HP:0012847	Epilepsia partialis continua|Epilepsia partialis continua of Kojevnikov|Kojevnikov's epilepsia|Kozhevnikov's epilepsia			no_match	0		
+HP:0020216	Visually-induced seizure|Photosensitive seizure			no_match	0		
+HP:0025101	Dysgenesis of the hippocampus|Hippocampal dysgenesis			no_match	0		
+HP:0025190	Bilateral tonic-clonic seizure with generalized onset|Bilateral tonic-clonic seizure with generalised onset|Generalised tonic-clonic seizure without focal onset|Generalised tonic-clonic seizure without partial onset|Generalised tonic-clonic seizures without focal onset|Generalised-onset tonic-clonic seizure|Generalized tonic-clonic seizure without focal onset|Generalized tonic-clonic seizure without partial onset|Generalized tonic-clonic seizures without focal onset|Generalized-onset tonic-clonic seizure|Primarily generalised tonic-clonic seizures|Primarily generalized tonic-clonic seizures|Primary generalised tonic-clonic seizure|Primary generalised tonic-clonic seizures|Primary generalized tonic-clonic seizure|Primary generalized tonic-clonic seizures			no_match	0		
+HP:0025517	Hypoplastic hippocampus|Small hippocampus|Underdeveloped hippocampus			no_match	0		
+HP:0030786	Photopsia			no_match	0		
+HP:0031179	Nuchal rigidity|Meningism			no_match	0		
+HP:0031475	Status epilepticus without prominent motor symptoms|Nonconvulsive status epilepticus			no_match	0		
+HP:0031834	Aortopulmonary collateral arteries			no_match	0		
+HP:0032044	Decreased vigilance|Decreased alertness			no_match	0		
+HP:0032506	Alien limb phenomenon			no_match	0		
+HP:0032792	Tonic seizure			no_match	0		
+HP:0032794	Myoclonic seizure			no_match	0		
+HP:0032900	Focal manual automatism seizure			no_match	0		
+HP:0032901	Focal pedal automatism seizure			no_match	0		
+HP:0033258	Sudden unexpected death in epilepsy|SUDEP			no_match	0		
+HP:0100660	Dyskinesia|Disorder of involuntary muscle movements|Dyskinesias|Dyskinesis			no_match	0		
+HP:0100678	Premature skin wrinkling|Wrinkled skin			no_match	0		
+HP:0100694	Tibial torsion			no_match	0		
+HP:0100702	Arachnoid cyst|Arachnoid cysts|Fluid-filled sac located in membrane surrounding brain or spinal cord			no_match	0		
+HP:0100704	Cerebral visual impairment|Cortical blindness|Cortical visual impairment|Cortical/cerebral visual impairment|CVI			no_match	0		
+HP:0100710	Impulsivity|Impulsive			no_match	0		
+HP:0100851	Abnormal emotional state|Emotional dysregulation|Mood disturbance|Psychological distress			no_match	0		
+HP:0200048	Cyanotic episode			no_match	0		
+HP:0200134	Epileptic encephalopathy|Convulsive encephalopathy			no_match	0		
+HP:0200149	CSF lymphocytic pleiocytosis|CSF lymphocytosis			no_match	0		
+HP:0000054	Micropenis|Short penis|Small penis			no_match	0		
+HP:0000070	Ureterocele			no_match	0		
+HP:0000110	Renal dysplasia|Dysplastic kidneys|Renal adysplasia			no_match	0		
+HP:0000175	Cleft palate|Cleft hard and soft palate|Cleft of hard and soft palate|Cleft of palate|Cleft roof of mouth|Cleft secondary palate|Palatoschisis|Uranostaphyloschisis			no_match	0		
+HP:0000297	Facial hypotonia|Atony of facial musculature|Decreased facial muscle tone|Hypotonic facies|Low facial muscle tone|Reduced facial muscle tone			no_match	0		
+HP:0000340	Sloping forehead|Inclined forehead|Posteriorly sloping forehead|Receding forehead			no_match	0		
+HP:0000486	Strabismus|Cross-eyed|Squint|Squint eyes			no_match	0		
+HP:0000565	Esotropia|Inward turning cross eyed			no_match	0		
+HP:0000577	Exotropia|Outward facing eye ball			no_match	0		
+HP:0000657	Oculomotor apraxia|Defective or absent horizontal voluntary eye movements|Ocular motor apraxia			no_match	0		
+HP:0000707	Abnormality of the nervous system|Brain and/or spinal cord issue|Neurologic abnormalities|Neurological abnormality			no_match	0		
+HP:0000712	Emotional lability|Can't control feelings|Emotional instability|Mood lability			no_match	0		
+HP:0000961	Cyanosis|Blue discoloration of the skin			no_match	0		
+HP:0001254	Lethargy|Dullness|Inaction|Inactivity|Languor|Slowness|Torpor			no_match	0		
+HP:0001302	Pachygyria|Cerebral pachygyria|Fewer and broader ridges in brain|Macrogyria			no_match	0		
+HP:0001350	Slurred speech			no_match	0		
+HP:0001500	Broad finger|Broad fingers|Wide fingers			no_match	0		
+HP:0001537	Umbilical hernia|Umbilical hernias			no_match	0		
+HP:0001629	Ventricular septal defect|Hole in heart wall separating two lower heart chambers|Ventricular septal defects|Ventriculoseptal defect|VSD			no_match	0		
+HP:0001638	Cardiomyopathy|Disease of the heart muscle			no_match	0		
+HP:0001944	Dehydration|Exsiccosis			no_match	0		
+HP:0002013	Vomiting|Emesis|Throwing up	Vomiting	Vomiting	override	1	Vomiting	Vomiting
+HP:0002018	Nausea	Nausea	Nausea	override	1	Nausea	Nausea
+HP:0002033	Poor suck|Poor sucking|Sucking weakness			no_match	0		
+HP:0002079	Hypoplasia of the corpus callosum|Corpus callosum hypoplasia|Hypoplasia of corpus callosum|Hypoplastic corpus callosum|Underdevelopment of part of brain called corpus callosum			no_match	0		
+HP:0002104	Apnea|Absence of spontaneous respiration|Apneic episodes|Apnoea			no_match	0		
+HP:0002131	Episodic ataxia|Intermittent cerebellar ataxia|Paroxysmal ataxia			no_match	0		
+HP:0002263	Exaggerated cupid's bow|Cupid bow upper lip|Cupid's bow, accentuated|Cupid-bow shaped upper lip|Prominent cupid-bow of upper lip			no_match	0		
+HP:0002266	Focal clonic seizure|Focal clonic seizures|Localised clonic seizure|Localized clonic seizure|Partial clonic seizure|Segmental clonic seizure			no_match	0		
+HP:0002273	Tetraparesis|Quadriparesis			no_match	0		
+HP:0002344	Progressive neurologic deterioration|Neurologic deterioration|Neurologic deterioration, progressive|Progressive mental deterioration|Progressive neurodegeneration|Worsening neurological symptoms			no_match	0		
+HP:0002360	Sleep disturbance|Difficulty sleeping|Sleep abnormality|Sleep disturbances|Sleep dysfunction|Sleep-wake disturbance|Trouble sleeping			no_match	0		
+HP:0002361	Psychomotor deterioration|Psychomotor degeneration			no_match	0		
+HP:0002372	Normal interictal EEG			no_match	0		
+HP:0002483	Bulbar signs			no_match	0		
+HP:0002506	Diffuse cerebral atrophy|Cerebral atrophy, diffuse			no_match	0		
+HP:0002510	Spastic tetraplegia|Spastic quadriplegia			no_match	0		
+HP:0002579	Gastrointestinal dysmotility|GI dysmotility			no_match	0		
+HP:0002714	Downturned corners of mouth|Downturned corners of the mouth|Downturned mouth|Downturned oral commisures			no_match	0		
+HP:0002835	Aspiration|Pulmonary aspiration			no_match	0		
+HP:0003270	Abdominal distention|Abdominal bloating|Abdominal distension|Abdominal swelling|Belly bloating|Bloating|Distended abdomen			no_match	0		
+HP:0005280	Depressed nasal bridge|Concave bridge of nose|Concave nasal bridge|Depressed bridge of nose|Depressed nasal root|Depressed nasal root/bridge|Flat bridge of nose|Flat nasal bridge|Flat nasal root|Flat, nasal bridge|Flattened nasal bridge|Low nasal bridge|Low nasal root|Retruded bridge of nose|Retruded nasal bridge			no_match	0		
+HP:0007166	Paroxysmal dyskinesia|Involuntary dystonic or choreiform movements			no_match	0		
+HP:0007204	Diffuse white matter abnormalities			no_match	0		
+HP:0009381	Short finger|Hypoplastic digits|Hypoplastic fingers|Hypoplastic/small fingers|Stubby finger|Stubby fingers			no_match	0		
+HP:0010174	Broad phalanx of the toes|Wide toe bones			no_match	0		
+HP:0010532	Paroxysmal vertigo			no_match	0		
+HP:0010851	EEG with burst suppression			no_match	0		
+HP:0011024	Abnormality of the gastrointestinal tract|Abnormality of the GI tract|Digestive system disease|Gastrointestinal disease			no_match	0		
+HP:0011121	Abnormal skin morphology|Abnormal skin structure|Abnormality of skin morphology			no_match	0		
+HP:0011167	Focal tonic seizure|Focal tonic seizures|Local tonic seizures|Localised tonic seizure|Localized tonic seizure|Partial tonic seizure|Partial tonic seizures|Segmental tonic seizure			no_match	0		
+HP:0011190	Uni- and bilateral multifocal epileptiform discharges			no_match	0		
+HP:0011193	EEG with focal spikes			no_match	0		
+HP:0011344	Severe global developmental delay|Global developmental delay, severe|Severe psychomotor retardation			no_match	0		
+HP:0011499	Mydriasis|Dilated pupil			no_match	0		
+HP:0012194	Episodic hemiplegia			no_match	0		
+HP:0012469	Infantile spasms			no_match	0		
+HP:0012554	Absent thumbnail			no_match	0		
+HP:0012759	Neurodevelopmental abnormality			no_match	0		
+HP:0020221	Clonic seizure			no_match	0		
+HP:0025335	Delayed ability to stand			no_match	0		
+HP:0025401	Staring gaze|Episodes of staring|Staring episodes|Staring eyes			no_match	0		
+HP:0030915	Cerebellar edema|Edema of the cerebellum|Oedema of the cerebellum			no_match	0		
+HP:0031284	Flushing			no_match	0		
+HP:0031491	Continuous spike and waves during slow sleep|CSWS|Electrical status epilepticus during slow-wave sleep			no_match	0		
+HP:0031546	Cardiac conduction abnormality|Abnormality of cardiac conduction|Abnormality of cardiac conduction system|Cardiac conduction abnormalities|Cardiac conduction defects|Heart conduction disorder			no_match	0		
+HP:0031931	Ocular flutter			no_match	0		
+HP:0032649	Skewfoot|Skew foot|Skew-foot			no_match	0		
+HP:0032678	Eyelid myoclonia seizure			no_match	0		
+HP:0032807	Neonatal seizure			no_match	0		
+HP:0032823	Neonatal electro-clinical seizure with behavior arrest|Neonatal electro-clinical seizure with behaviour arrest|Neonatal electroclinical seizure with behavioral arrest|Neonatal electroclinical seizure with behavioural arrest			no_match	0		
+HP:0032906	Focal head nodding automatism seizure			no_match	0		
+HP:0045074	Thin eyebrow|Thin eyebrows			no_match	0		
+HP:0045084	Limb myoclonus|Myoclonus of limbs			no_match	0		
+HP:0100716	Self-injurious behavior|Autoagression|Self injury|Self-harm|Self-injurious behaviors|Self-injurious behaviours			no_match	0		
+HP:0200136	Oral-pharyngeal dysphagia|Oral pharyngeal dysphagia|Oropharyngeal dysphagia			no_match	0		
+HP:0000274	Small face|Facial hypoplasia|Hypoplasia of face|Microface|Microfacies|Short and narrow face|Small facies			no_match	0		
+HP:0002126	Polymicrogyria|More grooves in brain			no_match	0		
+HP:0002500	Abnormal cerebral white matter morphology|Abnormality of subcortical white matter|Abnormality of the cerebral white matter|Cerebral white matter abnormalities|Cortical white matter abnormalities seen on MRI|Leukoaraiosis|White matter abnormalities|White matter alterations			no_match	0		
+HP:0003623	Neonatal onset|Onset in first weeks of life|Onset in neonatal period			no_match	0		
+HP:0000194	Open mouth|Gaped jawed appearance|Gaped mouthed appearance|Open mouth appearance|Slack jawed appearance			no_match	0		
+HP:0000207	Triangular mouth|Triangular shaped mouth|Triangular shaped oral aperture			no_match	0		
+HP:0000218	High palate|Elevated palate|High arched palate|High, arched palate|High-arched palate|Increased palatal height|Ogival palate|Palate high-arched|Palate, high-arched			no_match	0		
+HP:0000276	Long face|Elongation of face|Increased height of face|Increased length of face|Increased vertical dimension of face|Long facies|Vertical elongation of face|Vertical enlargement of face|Vertical excess of face|Vertical Facial Excess|Vertical hyperplasia of face|Vertical overgrowth of face			no_match	0		
+HP:0000278	Retrognathia|Lower jaw retrognathia|Lower jaw retrusion|Mandibular retrognathia|Mandibular retrusion|Receding chin|Receding lower jaw|Receding mandible|Retrogenia|Retrognathia of lower jaw|Retrusion of lower jaw|Weak chin|Weak jaw			no_match	0		
+HP:0000286	Epicanthus|Epicanthal fold|Epicanthal folds|Epicanthic folds|Eye folds|Palpebronasal fold|Plica palpebronasalis|Prominent eye folds			no_match	0		
+HP:0000322	Short philtrum|Decreased height of philtrum|Decreased length of philtrum|Decreased vertical dimension of philtrum|Vertical hypoplasia of philtrum			no_match	0		
+HP:0000347	Micrognathia|Decreased projection of lower jaw|Decreased projection of mandible|Decreased size of lower jaw|Decreased size of mandible|Deficiency of lower jaw|Hypoplasia of lower jaw|Hypoplasia of mandible|Hypoplastic mandible|Hypoplastic mandible condyle|Hypotrophic lower jaw|Hypotrophic mandible|Little lower jaw|Little mandible|Lower jaw deficiency|Lower jaw hypoplasia|Mandibular deficiency|Mandibular hypoplasia|Mandibular micrognathia|Micrognathia of lower jaw|Micromandible|Robin mandible|Severe hypoplasia of mandible|Small jaw|Small lower jaw|Small mandible|Underdevelopment of lower jaw|Underdevelopment of mandible			no_match	0		
+HP:0000369	Low-set ears|Low set ears|Low-set pinnae|Lowset ears|Melotia			no_match	0		
+HP:0000470	Short neck|Decreased length of neck			no_match	0		
+HP:0000490	Deeply set eye|Deep set eye|Deep-set eyes|Enophthalmos|Ocular depression|Sunken eye|Sunken eyes			no_match	0		
+HP:0000496	Abnormality of eye movement|Abnormal extraocular movement|Abnormal extraocular movements|Abnormal eye motility|Abnormal eye movement|Abnormal eye movements|Abnormal motility of the globe of the eye|Abnormal movement of the globe of the eye|Abnormal ocular movements|Eye movement abnormalities|Eye movement issue|Ocular movement abnormalities|Oculomotor abnormalities			no_match	0		
+HP:0000520	Proptosis|Anterior bulging of the globe|Anterior bulging of the globe of eye|Bulging eye|Exophthalmos|Eyeballs bulging out|Ocular proptosis|Prominent eyes|Prominent globes|Protruding eyes|Protrusio bulbi			no_match	0		
+HP:0000544	External ophthalmoplegia|Chronic progressive external ophthalmoplegia|CPEO|Ophthalmoplegia externa|Paralysis or weakness of muscles within or surrounding outer part of eye|Progressive paralysis or weakness of muscles of eye motility|Progressive paralysis or weakness of muscles of eye movement			no_match	0		
+HP:0000602	Ophthalmoplegia|Eye muscle paralysis|Paralysis of extraocular eye movement			no_match	0		
+HP:0000664	Synophrys|Monobrow|Synophris|Unibrow			no_match	0		
+HP:0000678	Dental crowding|Crowded teeth|Dental overcrowding|Inadequate arch length for tooth size|Overcrowding of teeth|Tooth mass arch size discrepancy|Tooth size discrepancy			no_match	0		
+HP:0000767	Pectus excavatum|Funnel chest			no_match	0		
+HP:0000771	Gynecomastia|Enlarged male breast|Gynaecomastia			no_match	0		
+HP:0000821	Hypothyroidism|Low T4|Underactive thyroid			no_match	0		
+HP:0000883	Thin ribs|Slender ribs			no_match	0		
+HP:0000939	Osteoporosis			no_match	0		
+HP:0001319	Neonatal hypotonia|Congenital hypotonia|Hypotonia, in neonatal onset|Hypotonia, neonatal|Low muscle tone, in neonatal onset			no_match	0		
+HP:0001371	Flexion contracture|Flexed joint that cannot be straightened|Flexion contractures|Flexion contractures of joints			no_match	0		
+HP:0001376	Limitation of joint mobility|Decreased joint mobility|Decreased mobility of joints|Limited joint mobility|Limited joint motion			no_match	0		
+HP:0001446	Abnormality of the musculature of the upper limbs|Abnormal upper limb muscles			no_match	0		
+HP:0001488	Bilateral ptosis|Drooping of both upper eyelids			no_match	0		
+HP:0001522	Death in infancy|Death in early childhood|Infantile death|Lethal in infancy			no_match	0		
+HP:0001541	Ascites|Accumulation of fluid in the abdomen|Peritoneal effusion			no_match	0		
+HP:0001561	Polyhydramnios|High levels of amniotic fluid|Hydramnios|Increased amniotic fluid index			no_match	0		
+HP:0001608	Abnormality of the voice|Voice abnormality			no_match	0		
+HP:0001611	Hypernasal speech|Hypernasal voice|Nasal speech|Nasal voice			no_match	0		
+HP:0001612	Weak cry			no_match	0		
+HP:0001623	Breech presentation|Breech presentation at birth|Feet or buttocks of fetus positioned near opening of uterus|Feet or buttocks of foetus positioned near opening of uterus			no_match	0		
+HP:0001662	Bradycardia|Brachycardia|Slow heartbeats			no_match	0		
+HP:0001771	Achilles tendon contracture|Achilles tendon contractures|Contractures of the Achilles tendon|Shortening of the achilles tendon|Tight achilles tendon			no_match	0		
+HP:0001790	Nonimmune hydrops fetalis|Hydrops fetalis, non-immune|Hydrops fetalis, nonimmune|Non-immune fetal hydrops|Non-immune foetal hydrops|Nonimmune hydrops			no_match	0		
+HP:0001883	Talipes|Talipes foot deformities			no_match	0		
+HP:0002007	Frontal bossing|Frontal protuberance|Skull bossing			no_match	0		
+HP:0002047	Malignant hyperthermia			no_match	0		
+HP:0002089	Pulmonary hypoplasia|Hypoplastic lung|Hypoplastic lungs|Lung hypoplasia|Poorly developed lungs|Small lung|Underdeveloped lung			no_match	0		
+HP:0002099	Asthma|Bronchial asthma|Reactive airway disease			no_match	0		
+HP:0002153	Hyperkalemia|Increased circulating potassium concentration			no_match	0		
+HP:0002194	Delayed gross motor development|Delayed attainment of gross motor milestones|Delayed attainment of gross motor skills|Delayed development of gross motor milestones|Delayed development of gross motor skills|Delayed gross motor milestones|Delayed gross motor skills|Delayed motor skills|Developmental delay, gross motor|Gross motor delay|Limited gross motor development|Limited gross motor skills			no_match	0		
+HP:0002203	Respiratory paralysis			no_match	0		
+HP:0002240	Hepatomegaly|Enlarged liver			no_match	0		
+HP:0002329	Drowsiness|Abnormal drowsiness|Sleepiness|Sleepy|Somnolence	Somnolence	Somnolence	unique_auto_match	1	Somnolence	Somnolence
+HP:0002343	Normal pressure hydrocephalus|Normal-pressure hydrocephalus			no_match	0		
+HP:0002352	Leukoencephalopathy			no_match	0		
+HP:0002359	Frequent falls			no_match	0		
+HP:0002380	Fasciculations|Fasciculation|Muscle fasciculation|Muscle twitch			no_match	0		
+HP:0002474	Expressive language delay|Communication delay|Deficit in expressive language			no_match	0		
+HP:0002486	Myotonia|Delayed relaxation of muscle fibers after contraction|Delayed relaxation of muscle fibres after contraction			no_match	0		
+HP:0002491	Spasticity of facial muscles|Increased stiffness of facial muscles|Increased tone of facial muscles|Spasticity of the facial muscles			no_match	0		
+HP:0002515	Waddling gait|Waddling walk			no_match	0		
+HP:0002607	Bowel incontinence|Anal incontinence|Faecal incontinence|Fecal incontinence|Loss of bowel control			no_match	0		
+HP:0002792	Reduced vital capacity|Decreased vital capacity			no_match	0		
+HP:0002875	Exertional dyspnea|Exertional breathlessness|Exertional dyspnoea|Shortness of breathing upon physical activity			no_match	0		
+HP:0002878	Respiratory failure			no_match	0		
+HP:0002902	Hyponatremia|Low blood sodium levels	Hyponatraemia	Hyponatraemia	override	1	Hyponatraemia	Hyponatraemia
+HP:0002943	Thoracic scoliosis			no_match	0		
+HP:0002987	Elbow flexion contracture|Elbow flexion contractures|Elbow flexion deformity|Fixed flexion at the elbow joint			no_match	0		
+HP:0003044	Shoulder flexion contracture			no_match	0		
+HP:0003100	Slender long bone|Gracile long bones|Long bones slender|Slender long bones|Slender, gracile long tubular bones|Thin gracile long bones|Thin long bones|Thin, gracile long bones			no_match	0		
+HP:0003121	Limb joint contracture|Limb contractures			no_match	0		
+HP:0003196	Short nose|Decreased length of nose|Hypoplastic nose|Nasal hypoplasia|Shortened nose|Small nose			no_match	0		
+HP:0003198	Myopathy|Muscle tissue disease|Myopathic changes	Myopathy	Myopathy	override	1	Myopathy	Myopathy
+HP:0003200	Ragged-red muscle fibers|Mitochondrial proliferation in muscle tissue|Ragged red muscle fibers|Ragged red muscle fibres|Ragged-red fibers|Ragged-red fibres|Ragged-red muscle fibres			no_match	0		
+HP:0003202	Skeletal muscle atrophy|Amyotrophy|Amyotrophy involving the extremities|Muscle atrophy|Muscle atrophy, neurogenic|Muscle degeneration|Muscle hypotrophy|Muscle wasting|Muscular atrophy|Neurogenic muscle atrophy|Neurogenic muscle atrophy, especially in the lower limbs|Neurogenic muscular atrophy			no_match	0		
+HP:0003273	Hip contracture|Flexion contracture of hips|Flexion contractures of hips|Hip contractures|Hip flexion contractures			no_match	0		
+HP:0003306	Spinal rigidity|Reduced spine movement|Rigid spine			no_match	0		
+HP:0003307	Hyperlordosis|Lordosis|Prominent swayback			no_match	0		
+HP:0003324	Generalized muscle weakness|Generalised muscle weakness|Generalised weakness|Generalized weakness|Muscle weakness, diffuse|Muscle weakness, generalised|Muscle weakness, generalized			no_match	0		
+HP:0003388	Easy fatigability|Tired easily			no_match	0		
+HP:0003391	Gowers sign|Gower sign|Positive Gower sign|Positive Gowers sign			no_match	0		
+HP:0003394	Muscle spasm|Muscle cramps|Muscle spasms|Nocturnal hand and foot cramps|Nocturnal leg cramp|Sleep-related dystonia	Myalgia	Myalgia	unique_auto_match	1	Myalgia	Myalgia
+HP:0003402	Decreased miniature endplate potentials|Decreased MEPP|Small miniature endplate currents|Small miniature endplate potentials			no_match	0		
+HP:0003403	EMG: decremental response of compound muscle action potential to repetitive nerve stimulation|EMG: decrement at repetitive stimulation|EMG: decremental response of CMAP to repetitive nerve stimulation			no_match	0		
+HP:0003443	Decreased size of nerve terminals			no_match	0		
+HP:0003457	EMG abnormality|Abnormal electromyography finding|Abnormal EMG|Electromyogram abnormal|EMG abnormalities			no_match	0		
+HP:0003458	EMG: myopathic abnormalities|EMG: myopathic changes|EMG: myopathy|Myopathic electromyogram			no_match	0		
+HP:0003470	Paralysis|Inability to move			no_match	0		
+HP:0003473	Fatigable weakness|Fatigable weakness of limb muscles|Generalised muscle weakness due to defect at the neuromuscular junction|Generalized muscle weakness due to defect at the neuromuscular junction|Myasthenia|Myasthenic weakness|Proximal muscle weakness due to defect at the neuromuscular junction			no_match	0		
+HP:0003484	Upper limb muscle weakness|Decreased arm strength|Weak arm			no_match	0		
+HP:0003547	Shoulder girdle muscle weakness|Muscle weakness, shoulder-girdle|Shoulder girdle weakness|Shoulder weakness|Weak shoulder muscles			no_match	0		
+HP:0003552	Muscle stiffness			no_match	0		
+HP:0003557	Increased variability in muscle fiber diameter|Increased fiber size variation|Increased fibre size variation|Increased variability in muscle fiber size|Increased variability in muscle fibre diameter|Increased variability in muscle fibre size|Increased variation in fiber size|Increased variation in fibre size|Increased variation in muscle fiber size|Increased variation in muscle fibre size|Variation in muscle fiber size|Variation in muscle fibre size			no_match	0		
+HP:0003690	Limb muscle weakness|Limb weakness			no_match	0		
+HP:0003691	Scapular winging|Scapula alata|Scapular weakness|Winged scapulae|Winged scapulas|Winged shoulder blade			no_match	0		
+HP:0003694	Late-onset proximal muscle weakness			no_match	0		
+HP:0003700	Generalized amyotrophy|Diffuse amyotrophy|Diffuse muscle atrophy|Diffuse muscle wasting|Diffuse skeletal muscle wasting|Generalised amyotrophy|Generalised muscle atrophy|Generalised muscle degeneration|Generalized muscle atrophy|Generalized muscle degeneration|Muscle atrophy, diffuse|Muscle atrophy, generalised|Muscle atrophy, generalized|Muscular atrophy, generalised|Muscular atrophy, generalized			no_match	0		
+HP:0003712	Skeletal muscle hypertrophy|Hypertrophic muscles|Increased skeletal muscle cells|Muscle hypertrophy|Muscular hypertrophy			no_match	0		
+HP:0003720	Generalized muscle hypertrophy|Generalised increase in muscle cell size|Generalised muscle hypertrophy|Generalized increase in muscle cell size			no_match	0		
+HP:0003722	Neck flexor weakness|Neck flexion weakness|Neck flexor muscle weakness			no_match	0		
+HP:0003740	Myotonia with warm-up phenomenon			no_match	0		
+HP:0003752	Episodic flaccid weakness			no_match	0		
+HP:0003768	Periodic paralysis|Episodic paralysis			no_match	0		
+HP:0003811	Neonatal death|Neonatal lethal			no_match	0		
+HP:0003829	Typified by incomplete penetrance|Incomplete penetrance|Reduced penetrance			no_match	0		
+HP:0004303	Abnormal muscle fiber morphology|Abnormal muscle fibre morphology|Abnormal skeletal muscle fiber morphology|Abnormal skeletal muscle fibre morphology|Abnormality of muscle fibers|Abnormality of muscle fibres			no_match	0		
+HP:0004875	Neonatal inspiratory stridor			no_match	0		
+HP:0005180	Tricuspid regurgitation|Tricuspid insufficiency|Tricuspid valve regurgitation			no_match	0		
+HP:0005257	Thoracic hypoplasia|Small chest|Small thorax			no_match	0		
+HP:0005348	Inspiratory stridor			no_match	0		
+HP:0005659	Thoracic kyphoscoliosis			no_match	0		
+HP:0005879	Congenital finger flexion contractures|Congenital finger contractures			no_match	0		
+HP:0005949	Apneic episodes in infancy			no_match	0		
+HP:0006670	Impaired myocardial contractility			no_match	0		
+HP:0007215	Periodic hyperkalemic paralysis|Hyperkalemic periodic paralysis			no_match	0		
+HP:0008153	Periodic hypokalemic paresis|Hypokalemic periodic paresis			no_match	0		
+HP:0008180	Mildly elevated creatine kinase|Mildly elevated CPK|Mildly elevated creatine phosphokinase|Mildly elevated serum CK|Mildly elevated serum CPK|Mildly elevated serum phospho-CK|Mildly increased creatine kinase|Mildly increased serum creatine kinase|Moderately elevated serum CK|Moderately elevated serum CPK|Moderately increased serum creatine kinase			no_match	0		
+HP:0008256	Adrenocortical adenoma|Adrenocortical adenomas			no_match	0		
+HP:0008872	Feeding difficulties in infancy			no_match	0		
+HP:0008967	Exercise-induced muscle stiffness|Muscle stiffness with exercise|Muscle stiffness, exercise-induced			no_match	0		
+HP:0009004	Hypoplasia of the musculature|Muscle hypoplasia|Poorly developed skeletal musculature|Underdeveloped muscle|Underdeveloped muscles			no_match	0		
+HP:0009005	Weakness of the intrinsic hand muscles|Intrinsic hand muscle weakness			no_match	0		
+HP:0009020	Exercise-induced muscle fatigue			no_match	0		
+HP:0009077	Weakness of long finger extensor muscles			no_match	0		
+HP:0010307	Stridor|Noisy breathing			no_match	0		
+HP:0010548	Percussion myotonia|Transient swelling of muscle induced by percussion			no_match	0		
+HP:0010628	Facial palsy|Bell's palsy|Cranial nerve VII palsy|Facial muscle weakness of muscles innervated by CN VII|Facial nerve palsy|Facial nerve paralysis|Facial palsy, unilateral or bilateral|Seventh cranial nerve palsy|VII th cranial nerve palsy			no_match	0		
+HP:0010804	Tented upper lip vermilion|Inverted V-shaped upper lip|Tented mouth|Tented upper lip			no_match	0		
+HP:0011042	Abnormal circulating potassium concentration|Abnormal blood K concentration|Abnormal blood potassium concentration|Abnormality of potassium homeostasis			no_match	0		
+HP:0011309	Tapered toe|Tapering toes			no_match	0		
+HP:0011809	Paradoxical myotonia			no_match	0		
+HP:0011923	Decreased activity of mitochondrial complex I|Respiratory complex I deficiency			no_match	0		
+HP:0011998	Postprandial hyperglycemia			no_match	0		
+HP:0012515	Hip flexor weakness			no_match	0		
+HP:0012548	Fatty replacement of skeletal muscle|Skeletal muscle fatty infiltration			no_match	0		
+HP:0012726	Episodic hypokalemia|Recurrent low potassium			no_match	0		
+HP:0012764	Orthopnea			no_match	0		
+HP:0012892	Facial muscle hypertrophy|Hyperplasia of facial muscles|Increased size of facial muscles|Large facial muscles			no_match	0		
+HP:0012899	Handgrip myotonia|Grip myotonia			no_match	0		
+HP:0012900	Myotonia of the face			no_match	0		
+HP:0012901	Myotonia of the jaw			no_match	0		
+HP:0012902	Myotonia of the lower limb			no_match	0		
+HP:0012903	Myotonia of the upper limb			no_match	0		
+HP:0012904	Cold-sensitive myotonia			no_match	0		
+HP:0020045	Esodeviation|Convergent squint|Convergent strabismus			no_match	0		
+HP:0025425	Laryngospasm			no_match	0		
+HP:0025709	Intermediate young adult onset			no_match	0		
+HP:0030196	Fatigable weakness of respiratory muscles			no_match	0		
+HP:0030199	Fatigable weakness of neck muscles			no_match	0		
+HP:0030208	Anti-neuromuscular Junction acetylcholine receptor antibody positivity|Acetylcholine receptor antibody positivity|Anti-AChR antibody positivity			no_match	0		
+HP:0030319	Weakness of facial musculature|Decreased facial muscle strength|Decreased strength of facial muscles|Face weakness|Facial muscle weakness|Facial weakness|Myasthenia of facial muscles|Reduced facial muscle strength|Weakness of face			no_match	0		
+HP:0030674	Antenatal onset|Intrauterine onset|Onset in utero|Prenatal onset			no_match	0		
+HP:0030799	Scaphocephaly			no_match	0		
+HP:0030842	Choking episodes			no_match	0		
+HP:0031108	Triceps weakness			no_match	0		
+HP:0031352	Chest tightness|Chest distress|Tightness in chest|Tightness of chest			no_match	0		
+HP:0031372	Cold paresis			no_match	0		
+HP:0031374	Ankle weakness			no_match	0		
+HP:0033454	Tube feeding			no_match	0		
+HP:0034197	Third trimester onset			no_match	0		
+HP:0034198	Second trimester onset			no_match	0		
+HP:0034671	Knee contracture|Contracture of knee|Contracture of the knees|Knee contractures			no_match	0		
+HP:0100021	Cerebral palsy|Cerebral paralysis|CP			no_match	0		
+HP:0100284	EMG: myotonic discharges			no_match	0		
+HP:0100613	Death in early adulthood			no_match	0		
+HP:0410011	Abnormality of masticatory muscle|Abnormality of muscles of mastication			no_match	0		
+HP:6000833	Hyperkalemia while symptomatic|Hyperkalemia during attack			no_match	0		
+HP:0000407	Sensorineural hearing impairment|Hearing loss, sensorineural|Sensorineural deafness|Sensorineural hearing loss			no_match	0		
+HP:0000969	Edema|Dropsy|Fluid retention|Hydrops|Oedema|Soft tissue swelling|Water retention			no_match	0		
+HP:0001627	Abnormal heart morphology|Abnormality of cardiac morphology|Abnormality of the heart|Abnormally shaped heart|Cardiac abnormality|Cardiac anomalies|Cardiac anomaly|Congenital heart defect|Congenital heart defects|Heart defect			no_match	0		
+HP:0001657	Prolonged QT interval|Long Q-T syndrome|Long QT syndrome|Prolong qt interval on ekg			no_match	0		
+HP:0001678	Atrioventricular block|Atrioventricular nodal disease|Interruption of electrical communication between upper and lower chambers of heart			no_match	0		
+HP:0001699	Sudden death			no_match	0		
+HP:0001712	Left ventricular hypertrophy|Heart left ventricle hypertrophy|Left ventricular wall hypertrophy			no_match	0		
+HP:0001727	Thromboembolic stroke			no_match	0		
+HP:0001789	Hydrops fetalis			no_match	0		
+HP:0001907	Thromboembolism|Blood clot in blood vessel|Embolism and thrombosis|Thromboembolic disease|Thromboembolic events			no_match	0		
+HP:0001962	Palpitations|Heart palpitations|Missed heart beat|Skipped heart beat			no_match	0		
+HP:0002140	Ischemic stroke|Ischaemic stroke			no_match	0		
+HP:0003546	Exercise intolerance|Decreased ability to exercise|Inability to exercise|Low exercise endurance|Poor exercise tolerance			no_match	0		
+HP:0003560	Muscular dystrophy|Congenital muscular dystrophy|Muscle biopsy shows dystrophic changes			no_match	0		
+HP:0004749	Atrial flutter			no_match	0		
+HP:0004754	Permanent atrial fibrillation|Chronic atrial fibrillation			no_match	0		
+HP:0004756	Ventricular tachycardia			no_match	0		
+HP:0004757	Paroxysmal atrial fibrillation|Atrial fibrillation, paroxysmal|Intermittent atrial fibrillation|Paroxysmal AF			no_match	0		
+HP:0005110	Atrial fibrillation|Quivering upper heart chambers resulting in irregular heartbeat			no_match	0		
+HP:0005133	Right ventricular dilatation|Dilated heart right ventricle			no_match	0		
+HP:0005155	Ventricular escape rhythm|Idioventricular escape rhythm			no_match	0		
+HP:0005170	Complete heart block with broad QRS complexes			no_match	0		
+HP:0005172	Left posterior fascicular block|Left posterior hemiblock			no_match	0		
+HP:0006673	Reduced systolic function			no_match	0		
+HP:0006682	Premature ventricular contraction|Extra heart beat|Missed heartbeat|Premature ventricular beat|Premature ventricular contractions|Skipped heartbeat|Ventricular ectopics|Ventricular extrasystoles|Ventricular premature beat			no_match	0		
+HP:0006699	Premature atrial contractions|Atrial ectopic beats|Atrial premature complex|Ectopic supraventricular rhythms|PACs|Premature supraventricular beats			no_match	0		
+HP:0011688	Supraventricular tachycardia with an accessory connection mediated pathway|Atrioventricular re-entry tachycardia|Supraventricular tachycardia with an accessory connexion mediated pathway			no_match	0		
+HP:0011707	Mobitz I atrioventricular block|Mobitz type 1 atrioventricular block|Wenckebach block			no_match	0		
+HP:0011710	Bundle branch block|Bundle-branch block			no_match	0		
+HP:0011711	Left anterior fascicular block|Left anterior hemiblock			no_match	0		
+HP:0011713	Left bundle branch block			no_match	0		
+HP:0011841	Ventricular flutter			no_match	0		
+HP:0012248	Prolonged PR interval|Electrocardiographic long PR interval|Lengthened PR interval on EKG			no_match	0		
+HP:0012664	Reduced left ventricular ejection fraction|Reduced ejection fraction			no_match	0		
+HP:0012722	Heart block			no_match	0		
+HP:0025169	Left ventricular systolic dysfunction			no_match	0		
+HP:0025478	Atrial standstill|Silent atrium			no_match	0		
+HP:0030682	Left ventricular noncompaction			no_match	0		
+HP:0030973	Postexertional symptom exacerbation|Exercise-induced malaise|Postexertional malaise			no_match	0		
+HP:0031295	Left atrial enlargement|Enlarged heart left atrium			no_match	0		
+HP:0031595	Abnormal P wave			no_match	0		
+HP:0033122	Absent P wave|Absence of P wave on electrocardiography			no_match	0		
+HP:0100578	Lipoatrophy|Atrophy of fat|Loss of fat tissue in localised area|Loss of fat tissue in localized area			no_match	0		
+HP:0000253	Progressive microcephaly|Microcephaly, postnatal, progressive|Microcephaly, progressive|Progressively abnormally small cranium|Progressively abnormally small skull			no_match	0		
+HP:0000609	Optic nerve hypoplasia|Double ring sign|Hypoplastic optic nerves|Underdeveloped optic nerves			no_match	0		
+HP:0000640	Gaze-evoked nystagmus			no_match	0		
+HP:0000646	Amblyopia|Lazy eye|Wandering eye|Wandering eyes			no_match	0		
+HP:0000722	Compulsive behaviors|Obsessive compulsive behavior|Obsessive compulsive behaviour|Obsessive compulsive disorder|Obsessive-compulsive behavior|Obsessive-compulsive behaviour|Obsessive-compulsive disorder|OCD			no_match	0		
+HP:0001310	Dysmetria|Abnormal finger chase test|Abnormal finger-nose-finger test|Lack of coordination of movement			no_match	0		
+HP:0002066	Gait ataxia|Ataxia of gait|Ataxic gait|Inability to coordinate movements when walking			no_match	0		
+HP:0002305	Athetosis|Athetoid movements|Involuntary writhing movements|Involuntary writhing movements in fingers, hands, toes, and feet			no_match	0		
+HP:0003680	Nonprogressive|Does not worsen|Non-progressive|Nonprogressive course|Nonprogressive disorder|Stationary			no_match	0		
+HP:0012002	Experiential epileptic aura|Experiential aura|Experiential auras			no_match	0		
+HP:0025162	Severe temper tantrums			no_match	0		
+HP:0025312	Esophoria			no_match	0		
+HP:0031936	Delayed ability to walk|Delayed walking			no_match	0		
+HP:0032755	Focal impaired awareness autonomic seizure|Focal autonomic seizure with altered responsiveness|Localised autonomic seizure with altered responsiveness|Localized autonomic seizure with altered responsiveness|Partial autonomic seizure with altered responsiveness			no_match	0		
+HP:0000020	Urinary incontinence|Bladder incontinence|Loss of bladder control			no_match	0		
+HP:0000217	Xerostomia|Decreased salivary flow|Dry mouth|Dry mouth syndrome|Reduced salivation			no_match	0		
+HP:0000224	Hypogeusia|Decreased taste|Decreased taste sensation			no_match	0		
+HP:0000458	Anosmia|Loss of smell|Lost smell			no_match	0		
+HP:0000632	Lacrimation abnormality|Abnormality of tear production			no_match	0		
+HP:0000762	Decreased nerve conduction velocity|Decreased NCV|Decreased nerve conduction velocities|Delayed nerve conduction velocity|Reduced nerve conduction velocities|Slow nerve conduction velocity|Slowed nerve conduction velocities			no_match	0		
+HP:0000966	Hypohidrosis|Decreased ability to sweat|Decreased sweating|Impaired sweating|Inadequate sweating|Oligohidrosis|Sweating, decreased			no_match	0		
+HP:0000970	Anhidrosis|Anhydrosis|Lack of sweating|Sudomotor dysfunction|Sweating dysfunction			no_match	0		
+HP:0001069	Episodic hyperhidrosis|Hyperhidrosis, episodic|Sporadic excessive sweating			no_match	0		
+HP:0001182	Tapered finger|Distally tapering fingers|Tapered fingers|Tapered fingertips|Tapering fingers			no_match	0		
+HP:0001810	Dystrophic toenail|Dystrophic toenail changes|Dystrophic toenails|Poor toenail formation			no_match	0		
+HP:0001818	Paronychia			no_match	0		
+HP:0001842	Foot acroosteolysis|Acroosteolysis of feet			no_match	0		
+HP:0001939	Abnormality of metabolism/homeostasis|Laboratory abnormality|Metabolism abnormality			no_match	0		
+HP:0002645	Wormian bones|Extra bones within cranial sutures|Intra sutural bones|Intrasutural bones|Islands of bone within cranial sutures			no_match	0		
+HP:0002661	Painless fractures due to injury			no_match	0		
+HP:0002797	Osteolysis|Breakdown of bone|Increased bone resorption|Osteolytic defects of bones			no_match	0		
+HP:0002815	Abnormality of the knee			no_match	0		
+HP:0003028	Abnormality of the ankle|Abnormality of the ankles			no_match	0		
+HP:0003103	Abnormal cortical bone morphology|Abnormal compact bone morphology|Abnormality of cortical bone			no_match	0		
+HP:0003272	Abnormal hip bone morphology|Abnormality of the hip bone|Abnormality of the hips			no_match	0		
+HP:0003380	Decreased number of peripheral myelinated nerve fibers|Decreased number of large and small myelinated fibers|Decreased number of large and small myelinated fibres|Decreased number of peripheral myelinated nerve fibres|Loss of myelinated fibers|Loss of myelinated fibres			no_match	0		
+HP:0003448	Decreased sensory nerve conduction velocity|Decreased sensory NCV|Decreased sensory nerve conduction velocities			no_match	0		
+HP:0003677	Slowly progressive|Signs and symptoms worsen slowly with time|Slow disease progression|Slow progression|Slowly progressive disorder			no_match	0		
+HP:0004349	Reduced bone mineral density|Decreased bone mineral density|Decreased bone mineral density Z score|Low solidness and mass of the bones			no_match	0		
+HP:0004409	Hyposmia|Decreased smell sensation|Sense of smell impaired			no_match	0		
+HP:0005930	Abnormal epiphysis morphology|Abnormal shape of end part of bone|Abnormality of epiphysis morphology|Abnormality of the epiphyses|Anomaly of the epiphyses|Epiphyseal abnormality			no_match	0		
+HP:0006121	Acral ulceration			no_match	0		
+HP:0007328	Impaired pain sensation|Decreased pain sensation|Decreased pinprick sensation			no_match	0		
+HP:0007460	Autoamputation of digits			no_match	0		
+HP:0008000	Decreased corneal reflex|Decreased blink reflex|Reduced corneal reflex			no_match	0		
+HP:0009771	Osteolytic defects of the phalanges of the hand|Acro-osteolysis|Acroosteolysis|Breakdown of small bones of fingers			no_match	0		
+HP:0010830	Impaired tactile sensation|Abnormal thigmesthesia|Impaired touch sensation|Loss of tactile sensation			no_match	0		
+HP:0010831	Impaired proprioception|Abnormality of proprioception			no_match	0		
+HP:0031417	Rhinorrhea|Nasal Discharge|Runny Nose			no_match	0		
+HP:0040129	Abnormal nerve conduction velocity|Abnormal nerve conduction|Abnormal nerve conduction velocities|Nerve conduction abnormalities			no_match	0		
+HP:0040264	Jaw pain			no_match	0		
+HP:0200025	Mandibular pain|Lower jaw pain			no_match	0		
+HP:0200026	Ocular pain|Eye pain			no_match	0		
+HP:0500005	Anal pain|Anorectal pain|Proctalgia|Rectal pain			no_match	0		
+HP:0000924	Abnormality of the skeletal system|Skeletal abnormalities|Skeletal anomalies			no_match	0		
+HP:0000952	Jaundice|Icterus|Yellow skin|Yellowing of the skin			no_match	0		
+HP:0001000	Abnormality of skin pigmentation|Abnormal pigmentation|Abnormal skin color|Abnormal skin colour|Abnormal skin pigmentation|Abnormality of pigmentation|Pigmentary changes|Pigmentary skin changes|Pigmentation anomaly			no_match	0		
+HP:0001046	Intermittent jaundice|Intermittent icterus|Intermittent yellow skin|Intermittent yellowing of skin			no_match	0		
+HP:0002904	Hyperbilirubinemia|High blood bilirubin levels			no_match	0		
+HP:0002908	Conjugated hyperbilirubinemia|Direct hyperbilirubinemia			no_match	0		
+HP:0010473	Porphyrinuria			no_match	0		
+HP:0010984	Digenic inheritance			no_match	0		
+HP:0012379	Abnormal circulating enzyme concentration or activity			no_match	0		
+HP:0031137	Storage in hepatocytes			no_match	0		
+HP:0031811	Bilirubinuria			no_match	0		
+HP:0032106	Conjunctival icterus|Scleral icterus|Yellow conjunctiva|Yellow sclera|Yellowing of the whites of the eyes			no_match	0		
+HP:0016266		Stevens-Johnson syndrome	Stevens-Johnson syndrome	override	0		
+HP:0005558	Chronic leukemia|Chronic blood cancer|Chronic leukaemia	Toxic epidermal necrolysis	Toxic epidermal necrolysis	override	0		

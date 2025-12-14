@@ -1,0 +1,72 @@
+﻿llt	pt
+itching	Pruritus
+hives	Urticaria
+skin rash	Rash
+rash	Rash
+light sensitivity	Photophobia
+diarrhea	Diarrhoea
+nausea	Nausea
+vomiting	Vomiting
+dizziness	Dizziness
+sleepiness	Somnolence
+fever	Pyrexia
+photosensitivity	Photosensitivity reaction
+muscle pain	Myalgia
+muscle ache	Myalgia
+ck increased	Blood creatine phosphokinase increased
+cpk increased	Blood creatine phosphokinase increased
+creatine phosphokinase increased	Blood creatine phosphokinase increased
+alt increased	Alanine aminotransferase increased
+ast increased	Aspartate aminotransferase increased
+transaminases increased	Hepatic enzyme increased
+raised alt	Alanine aminotransferase increased
+raised ast	Aspartate aminotransferase increased
+urticaria	Urticaria
+angioedema	Angioedema
+rash maculopapular	Rash maculo-papular
+skin photosensitivity	Photosensitivity reaction
+muscle weakness	Muscular weakness
+joint pain	Arthralgia
+llt     pt
+itching Pruritus
+hives   Urticaria
+skin rash       Rash
+rash    Rash
+# --- muscle-related (simvastatin) ---
+muscle pain	Myalgia
+muscle ache	Myalgia
+muscle cramps	Myalgia
+muscle weakness	Myopathy
+muscle disease	Myopathy
+dark urine	Rhabdomyolysis
+tea-colored urine	Rhabdomyolysis
+
+# --- liver-related (simvastatin & carbamazepine) ---
+high alt	Alanine aminotransferase increased
+high ast	Aspartate aminotransferase increased
+elevated liver enzymes	Alanine aminotransferase increased
+liver injury	Hepatic injury
+liver failure	Hepatic failure
+
+# --- sodium / electrolytes (carbamazepine) ---
+low sodium	Hyponatraemia
+hyponatremia	Hyponatraemia
+hyponatraemia	Hyponatraemia
+
+# --- blood counts (carbamazepine) ---
+low white blood cells	Leukopenia
+low wbc	Leukopenia
+low neutrophils	Neutropenia
+low platelets	Thrombocytopenia
+low plts	Thrombocytopenia
+low blood counts	Pancytopenia
+pancytopenia	Pancytopenia
+
+# --- general symptoms (both) ---
+sleepiness	Somnolence
+drowsiness	Somnolence
+unsteady gait	Ataxia
+loss of balance	Ataxia
+light sensitivity	Photophobia
+sensitivity to light	Photophobia
+

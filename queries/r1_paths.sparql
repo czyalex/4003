@@ -1,0 +1,7 @@
+# R1: Drug -> Protein -> Gene -> Phenotype (candidate AE) evidence chain
+PREFIX : <http://example.org/ae-kg#>
+SELECT ?drug ?prot ?gene ?hpo WHERE {
+  ?drug :actsOn ?prot .
+  ?prot :encodedBy ?gene .
+  ?gene :hasPhenotype ?hpo .
+} LIMIT 100

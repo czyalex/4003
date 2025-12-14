@@ -1,0 +1,8 @@
+source	name	url	accessed_on	version	license	hash_sha256	notes
+HPO	hp.json or hp.obo	(FILL)	2025-10-25	(FILL)	OBO/CC-BY?	(FILL)	Phenotype ontology
+HGNC	hgnc_complete_set.txt	(FILL)	2025-10-25	(FILL)	(FILL)	(FILL)	Gene symbols & IDs
+UniProt	idmapping / reviewed proteins	(FILL)	2025-10-25	(FILL)	(FILL)	(FILL)	Protein metadata & mapping
+ChEMBL	targets, mechanisms	(FILL)	2025-10-25	(FILL)	(FILL)	(FILL)	Drug/target relationships
+DrugCentral	structures, MoA, targets	(FILL)	2025-10-25	(FILL)	(FILL)	(FILL)	Drug metadata & targets
+SIDER	drug-AE tables (MedDRA)	(FILL)	2025-10-25	(FILL)	(FILL)	(FILL)	Safety & side-effects
+CPIC	PGx guideline pages	(FILL)	2025-10-25	(FILL)	(FILL)	(FILL)	Prior knowledge (weights)

@@ -31,13 +31,18 @@ def ndcg(ranked, gold, k=10):
 
 def load_map_tsv(p):
     m = {}
-    if not p.exists(): return m
+    if not p.exists():
+        return m
     with open(p, encoding="utf-8-sig") as f:
-        for r in csv.DictReader(f, delimiter="\t"):
+        reader = csv.DictReader(f, delimiter="\t")
+        for r in reader:
             h = (r.get("hpo_id") or "").strip().upper()
-            pt = (r.get("meddra_pt") or "").strip()
-            if h and pt: m[h] = pt
+            # 兼容旧列名 "meddra_pt" 和新列名 "pt_name"
+            pt = (r.get("pt_name") or r.get("meddra_pt") or "").strip()
+            if h and pt:
+                m[h] = pt
     return m
+
 
 def project_ranked_to_gold_space(ranked_hpo_ids, gold_items, hpo2pt, prefer_pt=True):
     gold_norm = [x.lstrip("\ufeff").strip() for x in gold_items]

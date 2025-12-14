@@ -1,13 +1,41 @@
-﻿# raw snapshots
-data/raw/
-# local env
-env/
-# caches
+﻿# OS / editor
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Python
 __pycache__/
 *.pyc
-# archives
-*.zip
-*.gz
-*.7z
-# generated reports/artifacts
-reports/formal_*/midterm_update.zip
+.venv/
+env/
+*.log
+
+# Big / raw data (usually not tracked)
+data/raw/**
+
+# Reports & generated artifacts (do not track by default)
+reports/**
+
+# If you want to keep a small inventory summary, allow it explicitly:
+!reports/inventory/**
+
+# Optional: keep selected formal snapshot(s) by whitelisting (uncomment if needed)
+# !reports/formal_2025-11-12/**
+# !reports/formal_2025-12-01/**
+
+# Intermediate outputs (be careful; keep curated mapping files only)
+data/interim/**
+
+# Keep curated mappings (explicit allowlist)
+!data/interim/mappings/
+!data/interim/mappings/**
+
+# Keep configs/docs/scripts/etc.
+!configs/**
+!docs/**
+!queries/**
+!rdf/**
+!shacl/**
+!templates/**
+!scripts/**
+!README*.md
